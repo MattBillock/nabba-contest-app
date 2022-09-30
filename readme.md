@@ -12,8 +12,8 @@ This project is built using the following technologies:
 
 To run the code locally:
 
-1 - Navigate to ContestApp
-2 - `npm install` or `yarn install`
-3 - Configure your Expo CLI if you have not yet done so
-4 - `npx expo start`
+1. Navigate to ContestApp
+2. `npm install` or `yarn install`
+3. Configure your Expo CLI if you have not yet done so
+4. `npx expo start`
 
