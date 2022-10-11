@@ -15,14 +15,14 @@ export default function App() {
     </View>
   );
   */
-    return Platform.OS === "web" ? (
-      <iframe src="https://nabba.org/" height={'100%'} width={'100%'} />
-    ) : (
+    return(
       <View style={styles.container}>
         <MyCalendar />
 
       </View>
-    )
+    ); /*Platform.OS === "web" ? (
+      <iframe src="https://nabba.org/" height={'100%'} width={'100%'} />
+    ) :*/ 
 }
 
 const styles = StyleSheet.create({
