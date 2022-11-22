@@ -3,8 +3,19 @@ import { StyleSheet, Text, View, Platform } from 'react-native';
 import { WebView } from 'react-native-webview';
 
 import React, { Component } from 'react';
-
+import { Appbar, MD3LightTheme as DefaultTheme, Provider as PaperProvider } from 'react-native-paper';
 import {MyCalendar} from './components/Calendar.jsx'
+import { ContestDashboard } from './components/ContestDashboard.jsx';
+
+const theme = {
+
+  ...DefaultTheme,
+  colors: {
+    ...DefaultTheme.colors,
+    primary: 'blue',
+    secondary: 'red',
+  },
+}
 
 export default function App() {
   /*return (
@@ -16,10 +27,14 @@ export default function App() {
   );
   */
     return(
-      <View style={styles.container}>
-        <MyCalendar />
-
-      </View>
+      <PaperProvider theme={theme}>
+        <View style={styles.container}>
+          <Appbar.Header>
+            <Appbar.Content title="MATT" />
+          </Appbar.Header>
+          <ContestDashboard />
+        </View>
+      </PaperProvider>
     ); /*Platform.OS === "web" ? (
       <iframe src="https://nabba.org/" height={'100%'} width={'100%'} />
     ) :*/ 
