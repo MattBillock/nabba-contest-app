@@ -3,7 +3,7 @@ import { StyleSheet, Text, View, Platform } from 'react-native';
 import { WebView } from 'react-native-webview';
 
 import React, { Component } from 'react';
-import { Appbar, MD3LightTheme as DefaultTheme, Provider as PaperProvider } from 'react-native-paper';
+import { Appbar, DefaultTheme, Provider as PaperProvider } from 'react-native-paper';
 import {MyCalendar} from './components/Calendar.jsx'
 import { ContestDashboard } from './components/ContestDashboard.jsx';
 
@@ -26,15 +26,19 @@ export default function App() {
     </View>
   );
   */
+
+    const _handleUser = () => console.log('manage');
     return(
-      <PaperProvider theme={theme}>
-        <View style={styles.container}>
-          <Appbar.Header>
-            <Appbar.Content title="MATT" />
-          </Appbar.Header>
-          <ContestDashboard />
-        </View>
-      </PaperProvider>
+      <View style={styles.container}>
+        {Platform.OS === 'ios' && <StatusBar barStyle="default" />}
+        <PaperProvider theme={theme}>
+            <Appbar.Header>
+              <Appbar.Content title="Brass Band Contest App" />
+              <Appbar.Action icon="account" onPress={_handleUser} />
+            </Appbar.Header>
+            <ContestDashboard />
+        </PaperProvider>
+      </View>
     ); /*Platform.OS === "web" ? (
       <iframe src="https://nabba.org/" height={'100%'} width={'100%'} />
     ) :*/ 
