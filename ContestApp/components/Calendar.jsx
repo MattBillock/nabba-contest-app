@@ -1,8 +1,9 @@
 import * as React from 'react';
-import { Text, Button, View } from "react-native";
+import { StyleSheet, Text, Button, View, ImageBackground, Dimensions } from "react-native";
 import {GOOGLE_CLIENT_ID, GOOGLE_API_KEY, EXPO_GOOGLE_CLIENT_ID} from '@env'
 import { useState } from "react";
 import * as Google from 'expo-auth-session/providers/google';
+import Constants from 'expo-constants';
 
 
 const expoConfig = {
@@ -22,6 +23,23 @@ const config = {
 const CALENDAR_ID = 'c_fd136e6992fe258c3f9cb3e54320aa2c0116f5ebc4c857baffbcbe5c8ea09b2b@group.calendar.google.com';
 
 
+const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+    width: Dimensions.get('window').width,
+    height: Dimensions.get('window').height,
+    alignItems: 'center',
+    justifyContent: 'center',
+    marginTop: Constants.statusBarHeight,
+  },
+  
+  image: {
+    width:'100%', 
+    height:'100%', 
+    flex: 1,
+    resizeMode: 'cover'
+  }
+});
 
 //const apiCalendar = new ApiCalendar(config);
 
@@ -72,11 +90,14 @@ export function MyCalendar(props) {
   //  setContestEvents(result)
   //})
   return (    
-    <View>
+    <View style={styles.container}>
+      <ImageBackground source={require('../assets/background.jpg')} style={styles.image}>
+    
       <Button title={authButtonText} disabled={!authButtonVisible}   onPress={handleAuthClick}/>
       <Text>
         {contentValue}
       </Text>
-    </View>
+      </ImageBackground>
+      </View>
   );
 };
