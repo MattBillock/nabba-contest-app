@@ -46,26 +46,64 @@
     }
   ],
   
-  "performance_schedule": [
-    {
-      "band_id":1,
-      "performance_times": [
-        {
-          "start_timestamp": "2023-04-22 09:00:00+0500",
-          "end_timestamp": "2023-04-22 09:25:00+0500"
+  "performance_schedule": {
+    "2023-04-21": [
+      {
+        "band_id": 1,
+        "performance_times": {            
+            "start_timestamp": "2023-04-21T09:00:00.000Z",
+            "end_timestamp": "2023-04-21T09:25:00.000Z"
+          }
+        
+      },{
+          "band_id": 2,
+          "performance_times": 
+            {
+              "start_timestamp": "2023-04-21T09:30:00Z",
+              "end_timestamp": "2023-04-21T09:55:00.000Z"
+            }
+        },{
+          "band_id": 3,
+          "performance_times": 
+            {
+              "start_timestamp": "2023-04-21T10:00:00.000Z",
+              "end_timestamp": "2023-04-21T10:25:00.000Z"
+            }
+        },{
+          "band_id": 4,
+          "performance_times": 
+            {
+              "start_timestamp": "2023-04-21T10:30:00.000Z",
+              "end_timestamp": "2023-04-21T10:55:00.000Z"
+            }
         }
-      ]
-    },
-    {
-      "band_id":2,
-      "performance_times": [
+      ],
+      "2023-04-22": [
         {
-          "start_timestamp": "2023-04-22 09:30:00+0500",
-          "end_timestamp": "2023-04-22 09:55:00+0500"
-        }
-      ]
-    }
-  ],
+          "band_id": 1,
+          "performance_times": {
+              "start_timestamp": "2023-04-22T11:00:00.000Z",
+              "end_timestamp": "2023-04-22T11:25:00.000Z"
+            }
+          
+        },{
+            "band_id": 2,
+            "performance_times": 
+              {
+                "start_timestamp": "2023-04-22T11:30:00.000Z",
+                "end_timestamp": "2023-04-22T11:55:00.000Z"
+              }
+          },{
+            "band_id": 3,
+            "performance_times": 
+              {
+                "start_timestamp": "2023-04-22T08:00:00.000Z",
+                "end_timestamp": "2023-04-22T08:25:00.000Z"
+              }
+          }
+        ]
+    
+  },
   "venue_details": {
     "name": "The Von Braun Center",
     "image": "https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,h_640,q_50,w_1280/v1/clients/vonbrauncenter/180810_VBCC_002_X3_1eee8497-7782-4983-9e86-56fb4cee24e8.jpg",
