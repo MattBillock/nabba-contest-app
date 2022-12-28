@@ -9,6 +9,7 @@ import { MyCalendar } from './Calendar.jsx'
 import { ContestDashboard } from './ContestDashboard.jsx';
 import { View } from 'react-native';
 import { Divider } from 'react-native-paper';
+import { Vendors} from './Vendors.jsx'
 
 const Tab = createMaterialBottomTabNavigator();
 
@@ -32,6 +33,12 @@ export default function Navbar() {
             <MaterialCommunityIcons name="music-circle" color={color} size={24} />
           )
         }} component={ContestDashboard} />
+        <Tab.Screen name="Vendors" options={{
+          tabBarLabel:'Vendors', 
+          tabBarIcon: ({ color, size }) => (
+            <MaterialCommunityIcons name="office-building-marker" color={color} size={24} />
+          )
+        }} component={Vendors} />
         <Tab.Screen name="Venue" options={{
           tabBarLabel:'Venue', 
           tabBarIcon: ({ color, size }) => (

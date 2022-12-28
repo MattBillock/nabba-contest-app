@@ -15,14 +15,14 @@ const expoConfig = {
   "expoClientId": EXPO_GOOGLE_CLIENT_ID
 }
 
-const config = {
-  "clientId": GOOGLE_CLIENT_ID,
-  "apiKey":GOOGLE_API_KEY,
-  "scope":"https://www.googleapis.com/auth/calendar",
-  "discoveryDocs": [
-    "https://www.googleapis.com/discovery/v1/apis/calendar/v3/rest"
-  ]
-}
+// const config = {
+//   "clientId": GOOGLE_CLIENT_ID,
+//   "apiKey":GOOGLE_API_KEY,
+//   "scope":"https://www.googleapis.com/auth/calendar",
+//   "discoveryDocs": [
+//     "https://www.googleapis.com/discovery/v1/apis/calendar/v3/rest"
+//   ]
+// }
 
 const CALENDAR_ID = 'c_fd136e6992fe258c3f9cb3e54320aa2c0116f5ebc4c857baffbcbe5c8ea09b2b@group.calendar.google.com';
 
@@ -72,20 +72,20 @@ export function MyCalendar(props) {
   const [accessToken, setAccessToken] = useState();
   const [user, setUser] = useState();
   const [userInfoResponse, setUserInfoResponse] = useState();
-  const [request, response, promptAsync] =  Google.useAuthRequest({
-    expoClientId:expoConfig.expoClientId,
-    webClientId:expoConfig.webClientId
-  });
+  // const [request, response, promptAsync] =  Google.useAuthRequest({
+  //   expoClientId:expoConfig.expoClientId,
+  //   webClientId:expoConfig.webClientId
+  // });
 
-  React.useEffect(() => {
-    if (response?.type === 'success') {
-      const {authentication} = response;
-      setType(authentication[0]);
-      setAccessToken(authentication[1]);
-      setUser(authentication[2]);
+  // React.useEffect(() => {
+  //   if (response?.type === 'success') {
+  //     const {authentication} = response;
+  //     setType(authentication[0]);
+  //     setAccessToken(authentication[1]);
+  //     setUser(authentication[2]);
       
-    }
-  }, [response]);
+  //   }
+  // }, [response]);
 
   const [date, setDate] = useState(new Date());
   const [contestEvents, setContestEvents] = useState([]);
@@ -99,15 +99,15 @@ export function MyCalendar(props) {
 
   const [contentValue, setContentValue] = useState();
   
-  function handleAuthClick() {
-    setAuthButtonText("Clicked");
-      fetch('https://www.googleapis.com/userinfo/v2/me', {
-        headers: { Authorization: `Bearer ${accessToken}` },
-      }).then((userResult) => {
-        setUserInfoResponse(userResult) 
-      });
-      setContentValue(userInfoResponse);
-  }
+  // function handleAuthClick() {
+  //   setAuthButtonText("Clicked");
+  //     fetch('https://www.googleapis.com/userinfo/v2/me', {
+  //       headers: { Authorization: `Bearer ${accessToken}` },
+  //     }).then((userResult) => {
+  //       setUserInfoResponse(userResult) 
+  //     });
+  //     setContentValue(userInfoResponse);
+  // }
 
   //apiCalendar.listUpcomingEvents(100).then(({result}:any) => {
   //  setContestEvents(result)
@@ -172,7 +172,6 @@ export function MyCalendar(props) {
 
 />
 
-      <Button title={authButtonText} disabled={!authButtonVisible}   onPress={handleAuthClick}/>
       <Text>
         {contentValue}
       </Text>

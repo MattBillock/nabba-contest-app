@@ -24,7 +24,7 @@
     },
     {
       "id": 3,
-      "name": "The Milwaukee Festival Brass",
+      "name": "The Matt Festival Brass",
       "website": "https://mfbrass.org",
       "band_bio": "black and black lol",
       "band_photo": "https://images.squarespace-cdn.com/content/v1/5d1b8e07f25dc10001ceec35/1565209857277-6XS68VJMKBDFQ2EDKWBR/IMG_08492.jpg?format=2500w",
@@ -43,6 +43,72 @@
       "conductor_name": "Steve Squires",
       "conductor_bio": "Steve is the Squirest of Squires",
       "conductor_photo": "fake.jpg"
+    },
+    {
+      "id": 5,
+      "name": "The Motor City Brass Band",
+      "website": "https://mcbb.net",
+      "band_bio": "",
+      "band_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/5/band_photo.jpg",
+      "band_logo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/5/band_logo.png",
+      "conductor_name": "Gordon Ward",
+      "conductor_bio": "",
+      "conductor_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/5/conductor_photo.JPG"
+    },
+    {
+      "id": 6,
+      "name": "The Colorado Brass Band",
+      "website": "https://coloradobrass.org",
+      "band_bio": "",
+      "band_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/6/band_photo.jpeg",
+      "band_logo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/6/band_logo.png",
+      "conductor_name": "",
+      "conductor_bio": "",
+      "conductor_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/6/conductor_photo.jpeg"
+    },
+    {
+      "id": 7,
+      "name": "The Princeton Brass Band",
+      "website": "https://princetonbrassband.org/",
+      "band_bio": "",
+      "band_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/7/band_photo.jpg",
+      "band_logo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/7/band_logo.png",
+      "conductor_name": "Aaron VanderWeele",
+      "conductor_bio": "",
+      "conductor_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/7/conductor_photo.png"
+    },
+    {
+      "id": 8,
+      "name": "The Austin Brass Band",
+      "website": "https://austinbrassband.com/",
+      "band_bio": "",
+      "band_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/8/band_photo.jpg",
+      "band_logo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/8/band_logo.jpg",
+      "conductor_name": "John Caputo",
+      "conductor_bio": "",
+      "conductor_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/8/conductor_photo.JPG"
+    },
+    {
+      "id": 9,
+      "name": "The Dallas Brass Band",
+      "website": "https://www.dallasbrassband.org/",
+      "band_bio": "",
+      "band_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/9/band_photo.JPG",
+      "band_logo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/9/band_logo.jpg",
+      "conductor_name": "Grant Jameson",
+      "conductor_bio": "",
+      "conductor_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/9/conductor_photo.JPG"
+    },
+    {
+      "id": 10,
+      "name": "The Madison Brass Band",
+      "website": "https://www.mbbweb.net/",
+      "band_bio": "",
+      "band_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/10/band_photo.jpeg",
+      "band_logo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/10/band_logo.jpg",
+      "conductor_name": "Andy Malovance",
+      "conductor_bio": "",
+      "conductor_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/10/conductor_photo.jpg"
     }
   ],
   
@@ -110,5 +176,17 @@
     "address": "700 Monroe Street, Huntsville, Alabama 35801",
     "map_file": "",
     "description": "NABBA is proud to once again be hosting the contest at the Von Braun Center. The Von Braun Center, named for rocket pioneer Dr. Wernher Von Braun, is located in the heart of historic downtown Huntsville, Alabama. This multi-purpose facility is equipped to accommodate major conferences, conventions, concerts, Broadway performances, ballets, symphonies, a full range of sporting events and so much more! Huntsville is a high-tech city with a history of Southern hospitality. The VBC is just a short drive from the International Airport and convenient to area hotels. The Von Braun Center is a turn-key facility with a team of experienced professionals ready to guarantee the success of your event."
-  }
+  },
+  "partner_details": [
+    {
+      "image_src": "https://nabba.org/wp-content/uploads/2019/05/NabbaNew-1.png",
+      "name": "North American Brass Band Association",
+      "link": "https://nabba.org"
+    },
+    {
+      "image_src": "",
+      "name": "Patrick Oliverio Studios",
+      "link": "https://www.patrickoliverio.com/videos"
+    }
+  ]
 }

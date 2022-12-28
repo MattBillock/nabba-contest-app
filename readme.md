@@ -17,3 +17,9 @@ To run the code locally:
 3. Configure your Expo CLI if you have not yet done so
 4. `npx expo start`
 
+## About the app
+
+This is a react native app built using Expo to create a multi-platform app out of a single code base. It operates on a series of JSON files and media files stored in digital ocean. 
+
+To load a schedule, update <contest-name>.ics in the appropriate folder
+To add a new band, add a folder with the band ID and add photos underneath that folder, then copy those links into the contest JSON file.
