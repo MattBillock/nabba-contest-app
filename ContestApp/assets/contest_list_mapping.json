@@ -1,5 +1,16 @@
 {
-  "Gateway British Brass Band Festival": "gateway2023.json",
-  "Dublin Festival of Brass": "dublin2023.json",
-  "NABBA 2023": "nabba2023.json"
+  "Gateway British Brass Band Festival": {
+    "dev_app_active_date": "",
+    "live_date": "",
+    "contest_data_file": "gateway2023.json"
+  },
+  "Dublin Festival of Brass": {
+    "dev_app_active_date": "",
+    "live_date": "",
+    "contest_data_file": "dublin2023.json"
+  },
+  "NABBA 2023": {
+    "dev_app_active_date": "",
+    "live_date": "",
+    "contest_data_file": "nabba2023.json"
 }
