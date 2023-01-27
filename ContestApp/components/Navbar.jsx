@@ -23,11 +23,10 @@ export default function Navbar(props) {
   const contestDataStatus = useSelector(state => state.contestData.status)
   const dispatch = useDispatch();
   useEffect( () => {
-    
     if (contestDataStatus === 'idle') {
       dispatch(fetchContestData(contestDataFile));
     }
-  })
+  }, [contestDataStatus, dispatch])
   return (
       <Tab.Navigator 
         initialRouteName="Schedule"

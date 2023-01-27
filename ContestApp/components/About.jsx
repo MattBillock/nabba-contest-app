@@ -35,9 +35,9 @@ const styles = StyleSheet.create({
 
 export function About(props) {
   return (
-    <View style={styles.container}>     
-        <Card style={styles.card}>
-          <Card.Title title="About NABBA" style={styles.title} />
+    <View >     
+        <Card >
+          <Card.Title title="About NABBA"  />
           <Card.Content>
             <Paragraph>
               The North American Brass Band Association is the governing body for competing brass bands in North America.
@@ -57,8 +57,8 @@ export function About(props) {
           </Card.Actions>
         </Card>
         
-        <Card style={styles.card}>
-          <Card.Title title="About the app" style={styles.title} />
+        <Card>
+          <Card.Title title="About the app" />
           <Card.Content>
             <Paragraph>
               This application was developed by Sparrow Court Consulting. Please direct any bug reports or issues to matt@billock.org. 

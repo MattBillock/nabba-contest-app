@@ -54,7 +54,7 @@ export function ContestDashboard(props) {
   })
   
   return (
-    <View style={styles.container}>
+    <View>
       
       { loading && (
           <Card elevated>

@@ -39,11 +39,11 @@ export function BandCard(props) {
   const [item, setItem] = useState(props.item.item);
   console.log("rendering band card");
   return (
-    <Surface style={styles.container}>
+    <Surface>
     
       <Card contained>
         <Card.Cover source={{ uri: item.band_logo }} resizeMode={'cover'} />
-        <Card.Title title={item.name} titleNumberOfLines={1} style={styles.title} />
+        <Card.Title title={item.name} titleNumberOfLines={1}  />
         <Card.Actions alignItems='center'>
           <IconButton icon="web" iconColor="primary" onPress={() => Linking.openURL(item.website)} />
           <IconButton icon="email" />

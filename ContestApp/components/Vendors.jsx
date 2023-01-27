@@ -32,10 +32,10 @@ const styles = StyleSheet.create({
 export function Vendors(props) {
     const partner_details = NabbaData.partner_details
     return (
-      <View style={styles.container}>
-          <Card style={styles.card}>
+      <View>
+          <Card>
           <Card.Cover source={{ uri: partner_details.image_src }} resizeMode={'cover'} />
-          <Card.Title title={partner_details.name} titleNumberOfLines={1} style={styles.title} />
+          <Card.Title title={partner_details.name} titleNumberOfLines={1}  />
           <Card.Actions alignItems='center'>
             <IconButton icon="web" iconColor="primary" onPress={() => Linking.openURL(partner_details.link)} />
             <IconButton icon="map" />

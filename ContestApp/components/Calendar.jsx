@@ -63,7 +63,7 @@ export function MyCalendar(props) {
   const bandList = useSelector(selectBandList);
 
   const performanceSchedule = useSelector(selectPerformanceSchedule);
-  
+  console.log(performanceSchedule);
   // function handleAuthClick() {
   //   setAuthButtonText("Clicked");
   //     fetch('https://www.googleapis.com/userinfo/v2/me', {
@@ -87,9 +87,7 @@ export function MyCalendar(props) {
   //apiCalendar.listUpcomingEvents(100).then(({result}:any) => {
   //  setContestEvents(result)
   //})
-  return (    
-    <View style={styles.container}>
-    
+  return (
       <Agenda
   // The list of items that have to be displayed in agenda. If you want to render item as empty date
   // the value of date key has to be an empty array []. If there exists no value for date key it is
@@ -146,6 +144,5 @@ export function MyCalendar(props) {
 
 />
 
-      </View>
   );
 };

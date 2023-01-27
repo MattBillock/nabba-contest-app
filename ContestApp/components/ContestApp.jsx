@@ -1,14 +1,14 @@
 
 import React, { Component } from 'react';
 import { useState, useEffect } from "react";
-import { StyleSheet, Text, View} from 'react-native';
+import { ImageBackground, StyleSheet, Text, View} from 'react-native';
 import { Provider, useDispatch, useSelector } from 'react-redux'
 
 import { Card, Title, DefaultTheme, Provider as PaperProvider } from 'react-native-paper';
 
 import { NavigationContainer } from '@react-navigation/native';
 import Navbar from './Navbar.jsx';
-import { SafeAreaView } from 'react-native-safe-area-context';
+import { SafeAreaProvider, SafeAreaView } from 'react-native-safe-area-context';
 
 import NabbaData from '../assets/contest_schedules/nabba2023.json'
 import ContestContainer from './ContestContainer.jsx';
@@ -90,10 +90,10 @@ export default function ContestApp() {
     return (
       <NavigationContainer>
         <PaperProvider>
-          <View style={styles}>
-            {selectedContestId < 0 && <ContestSelector />}
-            {selectedContestId >= 0 && <ContestContainer />}
-          </View>
+          <ImageBackground source={require('../assets/background.jpg')} style={styles.image}>
+              {selectedContestId < 0 && <ContestSelector />}
+              {selectedContestId >= 0 && <ContestContainer />}
+          </ImageBackground>
         </PaperProvider>
       </NavigationContainer>
     )

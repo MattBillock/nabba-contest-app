@@ -12,6 +12,7 @@ const styles = StyleSheet.create({
     flex: 1,
     alignItems: 'center',
     justifyContent: 'center',
+    width: '100%',
     marginTop: Constants.statusBarHeight,
   },
   
@@ -32,11 +33,6 @@ export default function ContestContainer(props) {
     return state.contestList.contestList.find(contest => contest.id === selectedContestId)
   });
   return (
-    <View>
-        <ImageBackground source={require('../assets/background.jpg')} style={styles.image}>
-          <Navbar contestData={contestData} />
-        </ImageBackground>
-    </View>
-      
+        <Navbar contestData={contestData} />      
   );
 }

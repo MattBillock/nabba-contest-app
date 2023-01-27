@@ -3,10 +3,10 @@ import { createAsyncThunk, createSlice } from '@reduxjs/toolkit'
 const CONTEST_LIST_URL = "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/contest_list_mapping.json"
 
 const initialState = {
-  bandList: [],
-  performanceSchedule: {},
-  venueDetails: {},
-  partnerDetails: {},
+  band_list: [],
+  performance_schedule: {},
+  venue_details: {},
+  partner_details: {},
   status: 'idle',
   error: null
 }
@@ -19,10 +19,10 @@ export const contestDataSlice = createSlice({
             return {
                 ...state,
                 contestData: {
-                  bandList: newData.bandList,
-                  performanceSchedule: newData.performanceSchedule,
-                  venueDetails: newData.venueDetails,
-                  partnerDetails: newData.partnerDetails
+                  band_list: newData.band_list,
+                  performance_schedule: newData.performance_schedule,
+                  venue_details: newData.venue_details,
+                  partner_details: newData.partner_details
                 }
             };
         }
@@ -56,19 +56,19 @@ export const contestDataSlice = createSlice({
 export const { newContestData } = contestDataSlice.actions
 
 export const selectBandList = state => { 
-  return state.contestData.bandList;
+  return state.contestData.band_list;
 }
 
 export const selectPerformanceSchedule = state => {
-  return state.contestData.performanceSchedule;
+  return state.contestData.performance_schedule;
 }
 
 export const selectVenueDetails = state => {
-  return state.contestData.venueDetails;
+  return state.contestData.venue_details;
 }
 
 export const selectPartnerDetails = state => {
-  return state.contestData.partnerDetails;
+  return state.contestData.partner_details;
 }
 
 export const fetchContestData = createAsyncThunk('contestData/fetchData', async (file_path) => {

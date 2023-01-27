@@ -30,10 +30,10 @@ const styles = StyleSheet.create({
 export function VenueDetails(props) {
   const venue_details = NabbaData.venue_details
   return (
-    <View style={styles.container}>
-        <Card style={styles.card}>
+    <View >
+        <Card >
         <Card.Cover source={{ uri: venue_details.image }} resizeMode={'cover'} />
-        <Card.Title title={venue_details.name} subtitle={venue_details.address} titleNumberOfLines={1} style={styles.title} />
+        <Card.Title title={venue_details.name} subtitle={venue_details.address} titleNumberOfLines={1}  />
         <Card.Content>
           <Paragraph>{venue_details.description}</Paragraph>
         </Card.Content>
