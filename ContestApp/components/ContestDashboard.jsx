@@ -39,17 +39,22 @@ function useAsync(asyncFn, onSuccess) {
 export function ContestDashboard(props) {
   const [scheduleJson, setScheduleJson] = useState(undefined);
   const [loading, setLoading] = useState(true);
+  const [contestFile, setContestFile] = useState(props.contest_data_file);
 
   React.useEffect(() => {
     if(loading) {
       setLoading(false);
-      setScheduleJson(NabbaData.band_list)
+      fetch(contestFile).then(function(response) {
+        return response.json;
+      })
+      .then(function(responseJson){
+        setScheduleJson(responseJson.band_list);
+      })
     }
   })
   
   return (
     <View style={styles.container}>
-      <ImageBackground source={require('../assets/background.jpg')} style={styles.image}>
       
       { loading && (
           <Card elevated>
@@ -68,7 +73,6 @@ export function ContestDashboard(props) {
             <FlatList data={scheduleJson} renderItem={(item) => <BandCard item={item} />} keyExtractor={(item) => item.id.toString()} />
           
       )}
-    </ImageBackground>
     </View>
   )
 }

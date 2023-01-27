@@ -7,32 +7,24 @@ import { About } from './About.jsx';
 import { MyCalendar } from './Calendar.jsx'
 import { ContestDashboard } from './ContestDashboard.jsx';
 import { Vendors} from './Vendors.jsx'
-import { selectSelectedContestId } from '../features/selectedContestId/selectedContestIdSlice.js';
-import { useDispatch, useSelector } from 'react-redux';
-import { useEffect } from 'react';
-import { fetchContestData } from '../features/contestData/contestDataSlice.js';
 
-const Tab = new createMaterialBottomTabNavigator();
+const Tab = createMaterialBottomTabNavigator();
 
 export default function Navbar(props) {
-
-  const selectedContestId = useSelector(selectSelectedContestId);
-  const contestDataFile = useSelector(state => {
-    return state.contestList.contestList.find(contest => contest.id === selectedContestId).contest_data_file
-  });
-  const contestDataStatus = useSelector(state => state.contestData.status)
-  const dispatch = useDispatch();
-  useEffect( () => {
-    
-    if (contestDataStatus === 'idle') {
-      dispatch(fetchContestData(contestDataFile));
-    }
-  })
+  const styles = {
+    stickToBottom: {
+      width: '100%',
+      position: 'fixed',
+      bottom: 0,
+    },
+  };
+  const [contestData, setContestData] = useState(props.contestData);
   return (
       <Tab.Navigator 
         initialRouteName="Schedule"
         options={{
-          tabBarActiveTintColor: '#e91e63'
+          tabBarActiveTintColor: '#e91e63',
+          tabStyle: styles.stickToBottom
         }}
       >
         <Tab.Screen name="Schedule" options={{
@@ -41,7 +33,7 @@ export default function Navbar(props) {
               <MaterialCommunityIcons name="clock-outline" color={color} size={24} />
             )
           }} 
-          children={props => <MyCalendar />} 
+          children={props => <MyCalendar contestData={contestData} />} 
         />
         <Tab.Screen name="Bands" 
           options={{
@@ -50,7 +42,7 @@ export default function Navbar(props) {
               <MaterialCommunityIcons name="music-circle" color={color} size={24} />
             )
           }} 
-          children={props => <ContestDashboard />} 
+          children={props => <ContestDashboard contestData={contestData} />} 
         />
         <Tab.Screen name="Vendors" 
           options={{
@@ -59,16 +51,16 @@ export default function Navbar(props) {
               <MaterialCommunityIcons name="store-search" color={color} size={24} />
             )
           }} 
-          children={props => <Vendors />} 
+          children={props => <Vendors contestData={contestData} />} 
         />
-        <Tab.Screen name="Venue" x
+        <Tab.Screen name="Venue" 
           options={{
             tabBarLabel:'Venue', 
             tabBarIcon: ({ color, size }) => (
               <MaterialCommunityIcons name="office-building-marker" color={color} size={24} />
             )
           }} 
-          children={props => <VenueDetails />} />
+          children={props => <VenueDetails contestData={contestData} />} />
         <Tab.Screen name="About" 
           options={{
             tabBarLabel:'About', 
@@ -76,7 +68,7 @@ export default function Navbar(props) {
               <MaterialCommunityIcons name="information" color={color} size={24} />
             )
           }} 
-          children={props => <About />} />
+          children={props => <About contestData={contestData} />} />
       </Tab.Navigator>
   );
 }

@@ -7,7 +7,8 @@ import Constants from 'expo-constants';
 import { Agenda, Timeline } from 'react-native-calendars';
 import {Event as CalEvent} from 'react-native-calendars/src/timeline/EventBlock'
 import { Card, Paragraph } from 'react-native-paper';
-import NabbaData from '../assets/contest_schedules/nabba2023.json'
+import { useSelector } from 'react-redux';
+import { selectBandList, selectPerformanceSchedule } from '../features/contestData/contestDataSlice';
 
 
 const expoConfig = {
@@ -44,7 +45,7 @@ const styles = StyleSheet.create({
     resizeMode: 'cover'
   },
   card: {
-    backgroundColor: 'maroon',
+    backgroundColor: '#0A0A0A',
     color: 'white',
     opacity: .5,
     borderWidth: 1,
@@ -55,49 +56,13 @@ const styles = StyleSheet.create({
 
 //const apiCalendar = new ApiCalendar(config);
 
-function getBandDetailsById(id) {
-  let retval = {name:'not found'};
-  NabbaData.band_list.forEach (band => {
-    console.log(band.name)
-    if(band.id == id) {
-      retval = band;
-    }
-  });
-  return retval;
-}
 
 export function MyCalendar(props) {
 
-  const [type, setType] = useState();
-  const [accessToken, setAccessToken] = useState();
-  const [user, setUser] = useState();
-  const [userInfoResponse, setUserInfoResponse] = useState();
-  // const [request, response, promptAsync] =  Google.useAuthRequest({
-  //   expoClientId:expoConfig.expoClientId,
-  //   webClientId:expoConfig.webClientId
-  // });
 
-  // React.useEffect(() => {
-  //   if (response?.type === 'success') {
-  //     const {authentication} = response;
-  //     setType(authentication[0]);
-  //     setAccessToken(authentication[1]);
-  //     setUser(authentication[2]);
-      
-  //   }
-  // }, [response]);
+  const bandList = useSelector(selectBandList);
 
-  const [date, setDate] = useState(new Date());
-  const [contestEvents, setContestEvents] = useState([]);
-  const [events, setEvents] = useState([]);
-  const [calendars, setCalendars] = useState([]);
-
-  const [authButtonVisible, setAuthButtonVisible] = useState(true);
-  const [authButtonText, setAuthButtonText] = useState("auth button")
-
-  const [signoutButtonVisible, setSignoutButtonVisible] = useState(false);
-
-  const [contentValue, setContentValue] = useState();
+  const performanceSchedule = useSelector(selectPerformanceSchedule);
   
   // function handleAuthClick() {
   //   setAuthButtonText("Clicked");
@@ -108,19 +73,28 @@ export function MyCalendar(props) {
   //     });
   //     setContentValue(userInfoResponse);
   // }
+  function getBandDetailsById(id) {
+    let retval = {name:'not found'};
+    bandList.forEach (band => {
+      console.log(band.name)
+      if(band.id == id) {
+        retval = band;
+      }
+    });
+    return retval;
+  }
 
   //apiCalendar.listUpcomingEvents(100).then(({result}:any) => {
   //  setContestEvents(result)
   //})
   return (    
     <View style={styles.container}>
-      <ImageBackground source={require('../assets/background.jpg')} style={styles.image}>
     
       <Agenda
   // The list of items that have to be displayed in agenda. If you want to render item as empty date
   // the value of date key has to be an empty array []. If there exists no value for date key it is
   // considered that the date in question is not yet loaded
-  items={ NabbaData.performance_schedule }
+  items={  performanceSchedule }
   // Callback that gets called when items for a certain month should be loaded (month became visible)
   /*loadItemsForMonth={month => {
     console.log('trigger items loading');
@@ -172,10 +146,6 @@ export function MyCalendar(props) {
 
 />
 
-      <Text>
-        {contentValue}
-      </Text>
-      </ImageBackground>
       </View>
   );
 };

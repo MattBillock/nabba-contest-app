@@ -31,7 +31,6 @@ export function VenueDetails(props) {
   const venue_details = NabbaData.venue_details
   return (
     <View style={styles.container}>
-      <ImageBackground source={require('../assets/background.jpg')} style={styles.image}>
         <Card style={styles.card}>
         <Card.Cover source={{ uri: venue_details.image }} resizeMode={'cover'} />
         <Card.Title title={venue_details.name} subtitle={venue_details.address} titleNumberOfLines={1} style={styles.title} />
@@ -43,7 +42,6 @@ export function VenueDetails(props) {
           <IconButton icon="map" />
         </Card.Actions>
         </Card>
-      </ImageBackground>
     </View>
   )
 }

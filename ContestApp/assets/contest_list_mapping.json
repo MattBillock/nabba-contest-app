@@ -1,16 +1,25 @@
 {
-  "Gateway British Brass Band Festival": {
-    "dev_app_active_date": "",
-    "live_date": "",
-    "contest_data_file": "gateway2023.json"
-  },
-  "Dublin Festival of Brass": {
-    "dev_app_active_date": "",
-    "live_date": "",
-    "contest_data_file": "dublin2023.json"
-  },
-  "NABBA 2023": {
-    "dev_app_active_date": "",
-    "live_date": "",
-    "contest_data_file": "nabba2023.json"
+  "contests": [
+    {
+      "id": 1,
+      "name": "Gateway British Brass Band Festival",
+      "dev_app_active_date": "",
+      "live_date": "",
+      "contest_data_file": "https://nabba-mobile-app.sfo3.digitaloceanspaces.com/gateway2023.json"
+    },
+    {
+      "id": 2,
+      "name":"Dublin Festival of Brass",
+      "dev_app_active_date": "",
+      "live_date": "",
+      "contest_data_file": "https://nabba-mobile-app.sfo3.digitaloceanspaces.com/dublin2023.json"
+    },
+    {
+      "id": 3,
+      "name": "NABBA 2023",
+      "dev_app_active_date": "",
+      "live_date": "",
+      "contest_data_file": "https://nabba-mobile-app.sfo3.digitaloceanspaces.com/nabba2023.json"
+    }
+  ]
 }

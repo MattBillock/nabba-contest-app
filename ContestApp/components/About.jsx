@@ -36,7 +36,6 @@ const styles = StyleSheet.create({
 export function About(props) {
   return (
     <View style={styles.container}>     
-      <ImageBackground source={require('../assets/background.jpg')} style={styles.image}>
         <Card style={styles.card}>
           <Card.Title title="About NABBA" style={styles.title} />
           <Card.Content>
@@ -75,7 +74,6 @@ export function About(props) {
             <IconButton icon="more" />
           </Card.Actions>
         </Card>
-      </ImageBackground>
     </View>
   )
 }

@@ -33,7 +33,6 @@ export function Vendors(props) {
     const partner_details = NabbaData.partner_details
     return (
       <View style={styles.container}>
-        <ImageBackground source={require('../assets/background.jpg')} style={styles.image}>
           <Card style={styles.card}>
           <Card.Cover source={{ uri: partner_details.image_src }} resizeMode={'cover'} />
           <Card.Title title={partner_details.name} titleNumberOfLines={1} style={styles.title} />
@@ -42,7 +41,6 @@ export function Vendors(props) {
             <IconButton icon="map" />
           </Card.Actions>
           </Card>
-        </ImageBackground>
       </View>
     )
 }
