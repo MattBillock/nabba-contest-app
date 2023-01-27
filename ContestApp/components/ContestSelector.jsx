@@ -36,7 +36,7 @@ export default function ContestSelector(props) {
   else if(contestListStatus === 'succeeded') {
     content = contestList.map(contest => {
       return (
-        <TouchableOpacity>
+        <TouchableOpacity key={contest.id}>
           <Card key={contest.id} onPress={() => dispatch(contestSelected(contest.id))}>
             <Card.Content>
               <Title>{contest.name}</Title>

@@ -36,20 +36,17 @@ const styles = StyleSheet.create({
 });
 
 export function BandCard(props) {
-  const [item, setItem] = useState(props.item.item);
+  const [item, setItem] = useState(props.item);
   console.log("rendering band card");
   return (
-    <Surface>
-    
-      <Card contained>
+      <Card>
         <Card.Cover source={{ uri: item.band_logo }} resizeMode={'cover'} />
-        <Card.Title title={item.name} titleNumberOfLines={1}  />
+        <Card.Title title={item.name} titleNumberOfLines={1} />
         <Card.Actions alignItems='center'>
           <IconButton icon="web" iconColor="primary" onPress={() => Linking.openURL(item.website)} />
           <IconButton icon="email" />
           <IconButton icon="more" />
         </Card.Actions>
       </Card>
-    </Surface>
   )
 }

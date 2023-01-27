@@ -6,6 +6,8 @@ import NabbaData from '../assets/contest_schedules/nabba2023.json'
 import { BandCard } from './BandCard';
 import { Card, Paragraph, Title, List } from 'react-native-paper';
 import Constants from 'expo-constants';
+import { useSelector } from 'react-redux';
+import { selectBandList, selectPerformanceSchedule } from '../features/contestData/contestDataSlice';
 
 const styles = StyleSheet.create({
   container: {
@@ -37,42 +39,16 @@ function useAsync(asyncFn, onSuccess) {
 
 
 export function ContestDashboard(props) {
-  const [scheduleJson, setScheduleJson] = useState(undefined);
-  const [loading, setLoading] = useState(true);
-  const [contestFile, setContestFile] = useState(props.contest_data_file);
+  const bandList = useSelector(selectBandList);
 
-  React.useEffect(() => {
-    if(loading) {
-      setLoading(false);
-      fetch(contestFile).then(function(response) {
-        return response.json;
-      })
-      .then(function(responseJson){
-        setScheduleJson(responseJson.band_list);
-      })
-    }
+  let content
+  content = bandList.map((schedule) => {
+    return (<BandCard item={schedule} />)
   })
   
   return (
     <View>
-      
-      { loading && (
-          <Card elevated>
-            <Card.Content>
-              <Title>Loading Data</Title>
-              <Paragraph>Loading...</Paragraph>
-            </Card.Content>
-          </Card>
-        )
-      }
-      { scheduleJson && (
-          /*<Card.Content>
-            <Title>Loading Data</Title>
-            <Paragraph>{scheduleJson}</Paragraph>
-          </Card.Content>*/
-            <FlatList data={scheduleJson} renderItem={(item) => <BandCard item={item} />} keyExtractor={(item) => item.id.toString()} />
-          
-      )}
+      {content}
     </View>
   )
 }
