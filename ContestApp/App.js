@@ -5,19 +5,8 @@ import { StyleSheet, Text, View} from 'react-native';
 import { Provider, useDispatch } from 'react-redux'
 import { DefaultTheme, Provider as PaperProvider } from 'react-native-paper';
 
-import { NavigationContainer } from '@react-navigation/native';
-import Navbar from './components/Navbar.jsx';
-import { SafeAreaView } from 'react-native-safe-area-context';
-
-import NabbaData from './assets/contest_schedules/nabba2023.json'
-import ContestContainer from './components/ContestContainer.jsx';
-import ContestSelector from './components/ContestSelector.jsx';
-
 import store from './app/store'
 import ContestApp from './components/ContestApp.jsx';
-
-const CONTEST_LIST_URL = "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/contest_list_mapping.json"
-
 const theme = {
   ...DefaultTheme,
   colors: {

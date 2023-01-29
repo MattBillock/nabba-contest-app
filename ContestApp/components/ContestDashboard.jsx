@@ -1,8 +1,6 @@
 import * as React from 'react';
 import { StyleSheet, Text, Button, View, FlatList, ImageBackground, SafeAreaView } from "react-native";
 import { useState } from "react";
-
-import NabbaData from '../assets/contest_schedules/nabba2023.json'
 import { BandCard } from './BandCard';
 import { Card, Paragraph, Title, List } from 'react-native-paper';
 import Constants from 'expo-constants';

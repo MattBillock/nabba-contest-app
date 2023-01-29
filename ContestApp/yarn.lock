@@ -4607,9 +4607,9 @@ dotenv@^16.0.3:
   resolved "https://registry.npmjs.org/dotenv/-/dotenv-16.0.3.tgz"
   integrity sha512-7GO6HghkA5fYG9TYnNxi14/7K9f5occMlp3zXAuSxn7CKCxt9xbNWG7yF8hTCSUchlfWSe3uLmlPfigevRItzQ==
 
-"drag-drop-touch-polyfill@git+https://github.com/Revln9/drag-drop-touch-polyfill-ES5-compiled.git":
+"drag-drop-touch-polyfill@https://github.com/Revln9/drag-drop-touch-polyfill-ES5-compiled.git":
   version "1.0.0"
-  resolved "git+https://github.com/Revln9/drag-drop-touch-polyfill-ES5-compiled.git#9149472c1256683d86b388043fe8fd44a834d825"
+  resolved "https://github.com/Revln9/drag-drop-touch-polyfill-ES5-compiled.git#9149472c1256683d86b388043fe8fd44a834d825"
 
 duplexer@^0.1.1:
   version "0.1.2"

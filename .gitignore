@@ -10,7 +10,7 @@ npm-debug.*
 *.orig.*
 web-build/
 nabba-mobile-application-70d8e144b2e0.json
-
+contest_app_media/
 # macOS
 .DS_Store
 

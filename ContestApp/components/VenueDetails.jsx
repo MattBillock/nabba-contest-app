@@ -2,7 +2,6 @@ import * as React from 'react';
 import { Dimensions, ImageBackground, StyleSheet, View } from 'react-native';
 import { Card, IconButton, Paragraph, Text } from 'react-native-paper';
 import Constants from 'expo-constants';
-import NabbaData from '../assets/contest_schedules/nabba2023.json'
 
 const styles = StyleSheet.create({
   container: {
