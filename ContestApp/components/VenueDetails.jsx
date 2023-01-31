@@ -1,5 +1,5 @@
 import * as React from 'react';
-import { Dimensions, ImageBackground, StyleSheet, View } from 'react-native';
+import { Dimensions, ImageBackground, ScrollView, StyleSheet, View } from 'react-native';
 import { Card, IconButton, Paragraph, Text, useTheme } from 'react-native-paper';
 import Constants from 'expo-constants';
 import { selectVenueDetails } from '../features/contestData/contestDataSlice';
@@ -33,7 +33,7 @@ export function VenueDetails(props) {
 
   const theme=useTheme();
   return (
-    <View >
+    <ScrollView>
         <Card >
         <Card.Cover source={{ uri: venue_details.image }} resizeMode={'cover'} />
         <Card.Title title={venue_details.name} subtitle={venue_details.address} titleNumberOfLines={1}  />
@@ -45,6 +45,6 @@ export function VenueDetails(props) {
           <IconButton icon="map" />
         </Card.Actions>
         </Card>
-    </View>
+    </ScrollView>
   )
 }

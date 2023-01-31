@@ -1,5 +1,5 @@
 import * as React from 'react';
-import { StyleSheet, Text, Button, View, FlatList, ImageBackground, SafeAreaView } from "react-native";
+import { StyleSheet, Text, Button, View, FlatList, ImageBackground, SafeAreaView, ScrollView } from "react-native";
 import { useState } from "react";
 import { BandCard } from './BandCard';
 import { Card, Paragraph, Title, List } from 'react-native-paper';
@@ -45,8 +45,8 @@ export function ContestDashboard(props) {
   })
   
   return (
-    <View>
+    <ScrollView>
       {content}
-    </View>
+    </ScrollView>
   )
 }

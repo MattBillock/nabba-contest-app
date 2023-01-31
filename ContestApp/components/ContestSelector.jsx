@@ -2,7 +2,7 @@ import * as React from 'react';
 import { useEffect } from 'react';
 import { useState } from "react";
 import { TouchableOpacity, View } from 'react-native';
-import { Card, RadioButton, Text, Title } from 'react-native-paper';
+import { ActivityIndicator, Card, MD2Colors, RadioButton, Text, Title } from 'react-native-paper';
 import { useDispatch, useSelector } from 'react-redux';
 import { fetchList, selectContestList, selectContestListStatus } from '../features/contestList/contestListSlice.js';
 import { contestSelected, selectSelectedContestId } from '../features/selectedContestId/selectedContestIdSlice.js';
@@ -31,7 +31,7 @@ export default function ContestSelector(props) {
 
   let content;
   if(contestListStatus === 'loading') {
-    content = <Text>{"Loading!"}</Text>
+    content = <ActivityIndicator animating={true} color={MD2Colors.blue800} />
   }
   else if(contestListStatus === 'succeeded') {
     content = contestList.map(contest => {

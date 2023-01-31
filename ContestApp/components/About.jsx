@@ -1,5 +1,5 @@
 import * as React from 'react';
-import { Dimensions, ImageBackground, StyleSheet, View } from 'react-native';
+import { Dimensions, ImageBackground, ScrollView, StyleSheet, View } from 'react-native';
 import { Card, IconButton, List, Paragraph, Text, Title, useTheme } from 'react-native-paper';
 import Constants from 'expo-constants';
 
@@ -35,7 +35,7 @@ export function About(props) {
 
   const theme=useTheme();
   return (
-    <View >     
+    <ScrollView>     
         <Card >
           <Card.Title title="About NABBA"  />
           <Card.Content>
@@ -74,6 +74,6 @@ export function About(props) {
             <IconButton icon="more" />
           </Card.Actions>
         </Card>
-    </View>
+    </ScrollView>
   )
 }

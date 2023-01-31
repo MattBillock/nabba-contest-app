@@ -1871,7 +1871,7 @@
 
 "@react-navigation/material-bottom-tabs@^6.2.11":
   version "6.2.11"
-  resolved "https://registry.npmjs.org/@react-navigation/material-bottom-tabs/-/material-bottom-tabs-6.2.11.tgz"
+  resolved "https://registry.yarnpkg.com/@react-navigation/material-bottom-tabs/-/material-bottom-tabs-6.2.11.tgz#08be145cfdd3d39f683f1ed6adb83837f3ebbaae"
   integrity sha512-zQvA8WXjU++GEo9ZXMbImdLqF/E2Th8BP9EEtshJtPvbRqDc1V5PFv7Q9jN5mEwIy488ecjFDgu3cFrp+7+XfQ==
   dependencies:
     "@react-navigation/elements" "^1.3.13"
@@ -8741,7 +8741,7 @@ react-native-gradle-plugin@^0.70.3:
 
 react-native-paper@^5.1.4:
   version "5.1.4"
-  resolved "https://registry.npmjs.org/react-native-paper/-/react-native-paper-5.1.4.tgz"
+  resolved "https://registry.yarnpkg.com/react-native-paper/-/react-native-paper-5.1.4.tgz#952a2555bff021e7c919ac0fc1c1628d414d49a2"
   integrity sha512-MpT7zmq/+bSXrKtjUHDKYadTSZvhE2d15oH+Sz77F+xq0/Xqwtg9aX3iHU4x0P92PRubRAbKiLkV0Qi9+beN7g==
   dependencies:
     "@callstack/react-theme-provider" "^3.0.8"
@@ -8767,7 +8767,7 @@ react-native-swipe-gestures@^1.0.5:
 
 react-native-vector-icons@^9.2.0:
   version "9.2.0"
-  resolved "https://registry.npmjs.org/react-native-vector-icons/-/react-native-vector-icons-9.2.0.tgz"
+  resolved "https://registry.yarnpkg.com/react-native-vector-icons/-/react-native-vector-icons-9.2.0.tgz#3c0c82e95defd274d56363cbe8fead8d53167ebd"
   integrity sha512-wKYLaFuQST/chH3AJRjmOLoLy3JEs1JR6zMNgTaemFpNoXs0ztRnTxcxFD9xhX7cJe1/zoN5BpQYe7kL0m5yyA==
   dependencies:
     prop-types "^15.7.2"

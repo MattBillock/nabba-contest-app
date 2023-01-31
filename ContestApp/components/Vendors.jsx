@@ -1,5 +1,5 @@
 import * as React from 'react';
-import { StyleSheet, Text, Button, View, FlatList, Linking, Dimensions, ImageBackground } from "react-native";
+import { StyleSheet, Text, Button, View, FlatList, Linking, Dimensions, ImageBackground, ScrollView } from "react-native";
 import { useState } from "react";
 
 import { Avatar, Card, IconButton, Paragraph, Surface, Title, TouchableRipple, useTheme } from 'react-native-paper';
@@ -33,7 +33,7 @@ export function Vendors(props) {
     const partner_details = NabbaData.partner_details
     const theme=useTheme();
     return (
-      <View>
+      <ScrollView>
           <Card>
           <Card.Cover source={{ uri: partner_details.image_src }} resizeMode={'cover'} />
           <Card.Title title={partner_details.name} titleNumberOfLines={1}  />
@@ -42,6 +42,6 @@ export function Vendors(props) {
             <IconButton icon="map" />
           </Card.Actions>
           </Card>
-      </View>
+      </ScrollView>
     )
 }
