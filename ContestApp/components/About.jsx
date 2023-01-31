@@ -1,6 +1,6 @@
 import * as React from 'react';
 import { Dimensions, ImageBackground, StyleSheet, View } from 'react-native';
-import { Card, IconButton, List, Paragraph, Text, Title } from 'react-native-paper';
+import { Card, IconButton, List, Paragraph, Text, Title, useTheme } from 'react-native-paper';
 import Constants from 'expo-constants';
 
 const styles = StyleSheet.create({
@@ -32,6 +32,8 @@ const styles = StyleSheet.create({
 });
 
 export function About(props) {
+
+  const theme=useTheme();
   return (
     <View >     
         <Card >
@@ -49,7 +51,7 @@ export function About(props) {
             </Paragraph>
           </Card.Content>
           <Card.Actions alignItems='center'>
-            <IconButton icon="web" iconColor="primary" onPress={() => Linking.openURL(item.website)} />
+            <IconButton icon="web" iconColor={theme.colors.primary} onPress={() => Linking.openURL(item.website)} />
             <IconButton icon="email" />
             <IconButton icon="more" />
           </Card.Actions>
@@ -67,7 +69,7 @@ export function About(props) {
             </Paragraph>
           </Card.Content>
           <Card.Actions alignItems='center'>
-            <IconButton icon="web" iconColor="primary" onPress={() => Linking.openURL(item.website)} />
+            <IconButton icon="web" iconColor={theme.colors.primary} onPress={() => Linking.openURL(item.website)} />
             <IconButton icon="email" />
             <IconButton icon="more" />
           </Card.Actions>

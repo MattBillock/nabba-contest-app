@@ -1,20 +1,15 @@
 import * as React from 'react';
-import { StyleSheet, Text, Button, View, ImageBackground, Dimensions, TouchableOpacity } from "react-native";
-import {GOOGLE_CLIENT_ID, GOOGLE_API_KEY, EXPO_GOOGLE_CLIENT_ID} from '@env'
-import { useState } from "react";
-import * as Google from 'expo-auth-session/providers/google';
+import { Dimensions, StyleSheet, TouchableOpacity } from "react-native";
 import Constants from 'expo-constants';
-import { Agenda, Timeline } from 'react-native-calendars';
-import {Event as CalEvent} from 'react-native-calendars/src/timeline/EventBlock'
+import { Agenda } from 'react-native-calendars';
+
 import { Card, Paragraph } from 'react-native-paper';
 import { useSelector } from 'react-redux';
 import { selectBandList, selectPerformanceSchedule } from '../features/contestData/contestDataSlice';
 
 
 const expoConfig = {
-  "webClientId": GOOGLE_CLIENT_ID,
-  "expoClientId": EXPO_GOOGLE_CLIENT_ID
-}
+ }
 
 // const config = {
 //   "clientId": GOOGLE_CLIENT_ID,

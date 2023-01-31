@@ -2,11 +2,11 @@ import * as React from 'react';
 import { useState } from "react";
 import { createMaterialBottomTabNavigator } from '@react-navigation/material-bottom-tabs';
 import MaterialCommunityIcons from 'react-native-vector-icons/MaterialCommunityIcons';
-import { VenueDetails } from './VenueDetails.jsx';
-import { About } from './About.jsx';
-import { MyCalendar } from './Calendar.jsx'
-import { ContestDashboard } from './ContestDashboard.jsx';
-import { Vendors} from './Vendors.jsx'
+import { VenueDetails } from './VenueDetails.jsx.js';
+import { About } from './About.jsx.js';
+import { MyCalendar } from './Calendar.jsx.js'
+import { ContestDashboard } from './ContestDashboard.jsx.js';
+import { Vendors} from './Vendors.jsx.js'
 
 const Tab = createMaterialBottomTabNavigator();
 
