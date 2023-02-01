@@ -1,5 +1,5 @@
 import * as React from 'react';
-import { Dimensions, StyleSheet, TouchableOpacity, View } from "react-native";
+import { Dimensions, ScrollView, StyleSheet, TouchableOpacity, View } from "react-native";
 import Constants from 'expo-constants';
 import { Agenda } from 'react-native-calendars';
 
@@ -98,9 +98,9 @@ export function MyCalendar(props) {
   //  setContestEvents(result)
   //})
   return (
-    <View>
+    <ScrollView>
       <StageButtons />
       <StageCalendar performanceSchedule={performanceSchedule} />
-    </View>
+    </ScrollView>
   );
 };

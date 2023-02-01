@@ -32,7 +32,7 @@ export const contestDataSlice = createSlice({
               performance_schedule: newData.performance_schedule,
               venue_details: newData.venue_details,
               partner_details: newData.partner_details,
-              default_stage: result_array[0],
+              default_stage: [...result_array][0],
             }
           }
         },
@@ -64,7 +64,7 @@ export const contestDataSlice = createSlice({
           return {
               ...action.payload,
               status: 'succeeded',
-              default_stage: result_array[0]
+              default_stage: [...result_array][0]
             }
         })
         .addCase(fetchContestData.rejected, (state, action) => { 
@@ -99,20 +99,11 @@ export const selectVenueList = state => {
     })
   })
   
-  return result_array;
+  return [...result_array];
 }
 
 export const selectDefaultVenue = state => {
-  let result_array = new Set();
-  let keys = Object.keys(state.contestData.performance_schedule)
-  keys.forEach(key => {
-    let performance_array = state.contestData.performance_schedule[key];
-    performance_array.forEach(performance => {
-      result_array.add(performance.stage)
-    })
-  })
-  
-  return result_array[0];
+  return state.contestData.default_stage;
 }
 
 export const selectContestDates = state => {
