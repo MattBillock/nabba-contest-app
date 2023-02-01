@@ -5,7 +5,7 @@ import { Agenda } from 'react-native-calendars';
 
 import { Card, Paragraph, SegmentedButtons } from 'react-native-paper';
 import { useDispatch, useSelector } from 'react-redux';
-import { newDefaultStage, selectBandList, selectDefaultVenue, selectPerformanceSchedule, selectVenueList } from '../features/contestData/contestDataSlice';
+import { newDefaultStage, selectBandList, selectDefaultVenue, selectPerformancesByStage, selectPerformanceSchedule, selectPerformancesForStage, selectVenueList } from '../features/contestData/contestDataSlice';
 import { useState } from 'react';
 import { StageButtons } from './StageButtons';
 import { StageCalendar } from './StageCalendar';
@@ -56,51 +56,18 @@ const styles = StyleSheet.create({
 
 
 export function MyCalendar(props) {
-
-
-  const bandList = useSelector(selectBandList);
-
+  const performanceSchedule = useSelector(selectPerformancesByStage);
+  const venue = useSelector(selectDefaultVenue);
   const venueList = useSelector(selectVenueList);
 
-  const dispatch = useDispatch();
-
-  const value = useSelector(selectDefaultVenue);
-
-  const performanceSchedule = useSelector(selectPerformanceSchedule);
-  
-  console.log(performanceSchedule);
-  function getBandDetailsById(id) {
-    let retval = {name:'not found'};
-    bandList.forEach (band => {
-      if(band.id == id) {
-        retval = band;
-      }
-    });
-    return retval;
-  }
-
-  function getVenueButtons() {
-    let result_array = [];
-    venueList.forEach(venue => {
-      result_array.push({
-        value: venue,
-        label: venue,
-      })
-    })
-    return result_array;
-  }
-
-  function setValue (value) {
-    dispatch(newDefaultStage(value));
-  }
-
-  //apiCalendar.listUpcomingEvents(100).then(({result}:any) => {
-  //  setContestEvents(result)
-  //})
+  let calendar_content_array = {}
+  venueList.forEach(venue => {
+    calendar_content_array[venue] = <StageCalendar performanceSchedule={performanceSchedule[venue]} />
+  })
   return (
     <ScrollView>
       <StageButtons />
-      <StageCalendar performanceSchedule={performanceSchedule} />
+      {calendar_content_array[venue]}
     </ScrollView>
   );
 };

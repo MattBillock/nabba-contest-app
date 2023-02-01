@@ -37,7 +37,6 @@ const styles = StyleSheet.create({
 
 export function BandCard(props) {
   const [item, setItem] = useState(props.item);
-  console.log("rendering band card");
   const theme=useTheme();
   return (
       <Card>

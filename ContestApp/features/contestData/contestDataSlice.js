@@ -128,6 +128,27 @@ export const selectPerformancesForStage = state => {
   return return_value
 }
 
+
+export const selectPerformancesByStage = state => {
+  let retval = []
+  let venue_array = new Set();
+  let keys = Object.keys(state.contestData.performance_schedule)
+  keys.forEach(key => {
+    let performance_array = state.contestData.performance_schedule[key];
+    performance_array.forEach(performance => {
+      venue_array.add(performance.stage)
+    })
+  })
+
+  venue_array.forEach(venue => {
+    retval[venue] = {}
+    keys.forEach(key => {
+      retval[venue][key] = state.contestData.performance_schedule[key].filter(item => item.stage === venue) 
+    })
+  })
+  return retval
+}
+
 export const fetchContestData = createAsyncThunk('contestData/fetchData', async (file_path) => {
 
     const response = await fetch(file_path, {
