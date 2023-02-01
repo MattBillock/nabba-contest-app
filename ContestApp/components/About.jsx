@@ -1,35 +1,7 @@
 import * as React from 'react';
-import { Dimensions, ImageBackground, ScrollView, StyleSheet, View } from 'react-native';
-import { Card, IconButton, List, Paragraph, Text, Title, useTheme } from 'react-native-paper';
-import Constants from 'expo-constants';
+import { ScrollView } from 'react-native';
+import { Card, IconButton, Paragraph, Title, useTheme } from 'react-native-paper';
 
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    alignItems: 'center',
-    justifyContent: 'center',
-    marginTop: Constants.statusBarHeight,
-    color: 'white'
-  },
-  image: {
-    width:'100%', 
-    height:'100%', 
-    flex: 1,
-    resizeMode: 'cover',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-  card: {
-    flex: 1,
-    marginTop: Constants.statusBarHeight,
-    color: 'white',
-    width: Dimensions.get('window').width*.95,
-    marginTop: 10,
-    borderWidth: 1,
-    borderRadius: 5,
-
-  }
-});
 
 export function About(props) {
 

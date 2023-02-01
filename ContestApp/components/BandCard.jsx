@@ -5,36 +5,6 @@ import { useState } from "react";
 import { Avatar, Card, IconButton, Paragraph, Surface, Title, TouchableRipple, useTheme } from 'react-native-paper';
 import Constants from 'expo-constants';
 
-
-const styles = StyleSheet.create({
-  container: {
-    flex: 2,
-    flexDirection: 'column',
-    width: Dimensions.get('window').width*.95,
-    marginTop: 10,
-    borderWidth: 1,
-    borderRadius: 5,
-    
-    //display: "flex",
-    justifyContent: "space-around",
-    height: "100%",
-    textAlign: "center",
-    paddingVertical: 5,
-  },
-  title: {
-    fontSize: '4vw',
-    allowFontScaling: true,
-  },
-  logo: {
-    resizeMode: 'stretch',
-    width: 300,
-    height: 200,
-  },
-  actions: {
-
-  }
-});
-
 export function BandCard(props) {
   const [item, setItem] = useState(props.item);
   const theme=useTheme();

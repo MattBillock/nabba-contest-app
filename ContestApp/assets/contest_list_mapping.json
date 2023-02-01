@@ -19,6 +19,7 @@
       "name": "NABBA 2023",
       "dev_app_active_date": "",
       "live_date": "",
+      "contest_logo_file": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/contest_logos/nabba_contest_logo.png",
       "contest_data_file": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/nabba2023.json"
     }
   ]

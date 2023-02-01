@@ -1,38 +1,25 @@
 import * as React from 'react';
-import { useState } from "react";
-import { ImageBackground, StyleSheet, View } from 'react-native';
+import { View } from 'react-native';
 import { useSelector } from 'react-redux';
-import { selectContestById } from '../features/contestList/contestListSlice';
 import { selectSelectedContestId } from '../features/selectedContestId/selectedContestIdSlice';
-import Constants from 'expo-constants';
 import Navbar from './Navbar';
+import { Appbar, useTheme } from 'react-native-paper';
+import createStyle from '../app/styles';
 
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    alignItems: 'center',
-    justifyContent: 'center',
-    width: '100%',
-    marginTop: Constants.statusBarHeight,
-  },
-  
-  image: {
-    alignItems: 'center',
-    justifyContent: 'center',
-    width:'100%', 
-    height:'100%', 
-    flex: 1,
-    resizeMode: 'cover'
-  },
-});
 
 export default function ContestContainer(props) {
   
   const selectedContestId = useSelector(selectSelectedContestId);
+  const styles = createStyle();
+  const theme = useTheme();
+
   const contestData = useSelector(state => {
     return state.contestList.contestList.find(contest => contest.id === selectedContestId)
   });
   return (
+      <View style={styles.container}>
+        <Appbar mode="center-aligned" style={styles.opacity}/>
         <Navbar contestData={contestData} />      
+      </View>
   );
 }

@@ -26,6 +26,7 @@ export default function Navbar(props) {
           tabBarActiveTintColor: '#e91e63',
           tabStyle: styles.stickToBottom
         }}
+        style={styles.stickToBottom}
       >
         <Tab.Screen name="Schedule" options={{
             tabBarLabel:'Schedule', 

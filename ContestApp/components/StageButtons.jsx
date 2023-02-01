@@ -24,32 +24,6 @@ const expoConfig = {
 const CALENDAR_ID = 'c_fd136e6992fe258c3f9cb3e54320aa2c0116f5ebc4c857baffbcbe5c8ea09b2b@group.calendar.google.com';
 
 
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    width: Dimensions.get('window').width,
-    height: Dimensions.get('window').height,
-    alignItems: 'center',
-    justifyContent: 'center',
-    marginTop: Constants.statusBarHeight,
-  },
-  
-  image: {
-    width:'100%', 
-    height:'100%', 
-    flex: 1,
-    resizeMode: 'cover'
-  },
-  card: {
-    backgroundColor: '#0A0A0A',
-    color: 'white',
-    opacity: .5,
-    borderWidth: 1,
-    marginVertical:1,
-    borderRadius: 5,
-  }
-});
-
 //const apiCalendar = new ApiCalendar(config);
 
 

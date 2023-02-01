@@ -3,29 +3,9 @@ import { Dimensions, SectionList, StyleSheet, TouchableOpacity, View } from "rea
 import Constants from 'expo-constants';
 import { Agenda } from 'react-native-calendars';
 
-import { Card, Paragraph, SegmentedButtons, Text, useTheme } from 'react-native-paper';
-import { useDispatch, useSelector } from 'react-redux';
-import { newDefaultStage, selectBandList, selectContestDates, selectDefaultVenue, selectPerformancesByStage, selectPerformanceSchedule, selectPerformancesForStage, selectVenueList } from '../features/contestData/contestDataSlice';
-import { useState } from 'react';
-
-
-const expoConfig = {
- }
-
-// const config = {
-//   "clientId": GOOGLE_CLIENT_ID,
-//   "apiKey":GOOGLE_API_KEY,
-//   "scope":"https://www.googleapis.com/auth/calendar",
-//   "discoveryDocs": [
-//     "https://www.googleapis.com/discovery/v1/apis/calendar/v3/rest"
-//   ]
-// }
-
-const CALENDAR_ID = 'c_fd136e6992fe258c3f9cb3e54320aa2c0116f5ebc4c857baffbcbe5c8ea09b2b@group.calendar.google.com';
-
-
-//const apiCalendar = new ApiCalendar(config);
-
+import { Card, Text, useTheme } from 'react-native-paper';
+import { useSelector } from 'react-redux';
+import { selectBandList, selectContestDates, selectDefaultVenue, selectPerformancesByStage, selectPerformanceSchedule, selectPerformancesForStage, selectVenueList } from '../features/contestData/contestDataSlice';
 
 export function StageCalendar(props) {
 
@@ -48,9 +28,9 @@ export function StageCalendar(props) {
       resizeMode: 'cover'
     },
     card: {
-      backgroundColor: '#0A0A0A',
-      color: 'white',
-      opacity: .5,
+      backgroundColor: theme.colors.secondaryContainer,
+      color: theme.colors.secondary,
+      opacity: 1,
       borderWidth: 1,
       marginVertical:1,
       borderRadius: 5,
@@ -99,7 +79,7 @@ export function StageCalendar(props) {
       'YC': 'Youth Championship'
     }
     const contest_date = new Date(contestDates[0])
-    if(contest_date <= Date.now()) {
+    if(contest_date >= Date.now()) {
       return band_name
     }
     else{
@@ -171,7 +151,7 @@ export function StageCalendar(props) {
             </TouchableOpacity>);  
         }} 
         renderSectionHeader={({section}) => (
-          <Text style={styles.sectionHeader}>{section.title}</Text>
+          <Text style={styles.sectionHeader}  variant="displayMedium">{section.title}</Text>
         )}
         keyExtractor={item => `basicListEntry-${item.band_draw}`} 
         />
