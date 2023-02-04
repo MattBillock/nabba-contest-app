@@ -1,4 +1,6 @@
 {
+  "name": "nabba",
+  "version": "1.0.0",
   "dependencies": {
     "@react-navigation/native": "^6.0.14",
     "react-native-safe-area-context": "^4.4.1",
