@@ -1,5 +1,5 @@
 import * as React from 'react';
-import { ScrollView } from "react-native";
+import { SafeAreaView, ScrollView } from "react-native";
 
 import { useSelector } from 'react-redux';
 import {  selectDefaultVenue, selectPerformancesByStage, selectVenueList } from '../features/contestData/contestDataSlice';
@@ -18,9 +18,9 @@ export function MyCalendar(props) {
     calendar_content_array[venue] = <StageCalendar performanceSchedule={performanceSchedule[venue]} />
   })
   return (
-    <ScrollView>
+    <SafeAreaView style={{flex:1}}>
       <StageButtons />
       {calendar_content_array[venue]}
-    </ScrollView>
+    </SafeAreaView>
   );
 };

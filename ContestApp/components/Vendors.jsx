@@ -14,9 +14,8 @@ export function Vendors() {
     const styles = createStyle();
     let content;
     content = partner_details.map((partner) => {
-      return (<Card style={styles.card}>
-          <Card.Cover source={{ uri: partner.image_src }} resizeMode={'cover'} />
-          <Card.Title title={partner.name} titleNumberOfLines={1} />
+      return (<Card style={styles.card} key={partner.name}>
+          <Card.Cover source={{ uri: partner.image_src }} resizeMode={'contain'} />
           <Card.Actions alignItems='center'>
             <IconButton icon="web" iconColor={theme.colors.primary} onPress={() => Linking.openURL(partner.link)} />
           </Card.Actions>

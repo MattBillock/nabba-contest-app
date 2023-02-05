@@ -11,6 +11,7 @@ import { selectSelectedContestId } from '../features/selectedContestId/selectedC
 import { useDispatch, useSelector } from 'react-redux';
 import { useEffect } from 'react';
 import { fetchContestData } from '../features/contestData/contestDataSlice.js';
+import createStyle from '../app/styles.js';
 
 const Tab = new createMaterialBottomTabNavigator();
 
@@ -22,6 +23,8 @@ export default function Navbar(props) {
   });
   const contestDataStatus = useSelector(state => state.contestData.status)
   const dispatch = useDispatch();
+
+  const styles = createStyle();
   useEffect( () => {
     if (contestDataStatus === 'idle') {
       dispatch(fetchContestData(contestDataFile));

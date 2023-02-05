@@ -1,11 +1,12 @@
 import * as React from 'react';
-import { Dimensions, SectionList, StyleSheet, TouchableOpacity, View } from "react-native";
+import { Dimensions, SafeAreaView, ScrollView, SectionList, StyleSheet, TouchableOpacity, View } from "react-native";
 import Constants from 'expo-constants';
 import { Agenda } from 'react-native-calendars';
 
 import { Card, Text, useTheme } from 'react-native-paper';
 import { useSelector } from 'react-redux';
 import { selectBandList, selectContestDates, selectDefaultVenue, selectPerformancesByStage, selectPerformanceSchedule, selectPerformancesForStage, selectVenueList } from '../features/contestData/contestDataSlice';
+
 
 export function StageCalendar(props) {
 
@@ -79,13 +80,13 @@ export function StageCalendar(props) {
       'YC': 'Youth Championship'
     }
     const contest_date = new Date(contestDates[0])
-    if(contest_date >= Date.now()) {
-      return band_name
-    }
-    else{
+    if(contest_date > Date.now()) {
       let split_arr = slot_name.split('_');
       let constructed_band_name = section_map[split_arr[0]] + " section band " + split_arr[1]
       return constructed_band_name;
+    }
+    else{
+      return band_name
     }
   }
 
@@ -133,8 +134,9 @@ export function StageCalendar(props) {
     return result_array;
   }
   return (
-    <View>
       <SectionList
+        stickySectionHeadersEnabled={false}
+        scrollEnabled={true}
         sections={buildListFormat()} 
         renderItem={(item) => {
           let band = getBandDetailsById(item.item.band_id);
@@ -142,19 +144,20 @@ export function StageCalendar(props) {
           const options = { hour: "numeric", minute: "2-digit" };
           let start_time = new Date(item.item.performance_times.start_timestamp)
           return (
-            <TouchableOpacity>
+            //<TouchableOpacity>
               <Card elevated style={styles.card}>
                 <Card.Title title={start_time.toLocaleTimeString([], options) + " - " + band_name} titleNumberOfLines={1} />
                 
               </Card>
               
-            </TouchableOpacity>);  
+            //</TouchableOpacity>
+            );  
         }} 
         renderSectionHeader={({section}) => (
           <Text style={styles.sectionHeader}  variant="displayMedium">{section.title}</Text>
         )}
         keyExtractor={item => `basicListEntry-${item.band_draw}`} 
         />
-    </View>
+    
   );
 };

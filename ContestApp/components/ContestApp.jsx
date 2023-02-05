@@ -115,7 +115,7 @@ export default function ContestApp() {
 
     return (
       <NavigationContainer>
-        <PaperProvider theme={theme}>
+        <PaperProvider theme={theme} style={styles.container}>
           <ImageBackground source={require('../assets/background.jpg')} style={styles.image}>
               {selectedContestId < 0 && <ContestSelector />}
               {selectedContestId >= 0 && <ContestContainer />}

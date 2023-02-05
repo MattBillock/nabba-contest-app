@@ -10,11 +10,11 @@ export function ContestDashboard() {
 
   let content;
   content = bandList.map((schedule) => {
-    return (<BandCard item={schedule} />)
+    return (<BandCard key={schedule.id} item={schedule} />)
   })
   
   return (
-    <ScrollView>
+    <ScrollView style={{flex:1}}>
       {content}
     </ScrollView>
   )
