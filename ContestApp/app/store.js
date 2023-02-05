@@ -2,6 +2,7 @@ import { configureStore } from '@reduxjs/toolkit'
 import contestListReducer from '../features/contestList/contestListSlice'
 import selectedContestIdReducer from '../features/selectedContestId/selectedContestIdSlice'
 import contestDataReducer from '../features/contestData/contestDataSlice'
+import appDataReducer from "../features/appData/appDataSlice"
 //import counterReducer from '../features/counter/counterSlice'
 
 
@@ -19,5 +20,6 @@ export default configureStore({
     contestList: contestListReducer,
     selectedContestId: selectedContestIdReducer,
     contestData: contestDataReducer,
+    appData: appDataReducer
   }
 })

@@ -1,10 +1,11 @@
 import * as React from 'react';
-import { View } from 'react-native';
+import { SafeAreaView, View } from 'react-native';
 import { useSelector } from 'react-redux';
 import { selectSelectedContestId } from '../features/selectedContestId/selectedContestIdSlice';
 import Navbar from './Navbar';
 import { Appbar, useTheme } from 'react-native-paper';
 import createStyle from '../app/styles';
+import { TopAppBar } from './TopAppBar';
 
 
 export default function ContestContainer(props) {
@@ -17,9 +18,9 @@ export default function ContestContainer(props) {
     return state.contestList.contestList.find(contest => contest.id === selectedContestId)
   });
   return (
-      <View style={styles.container}>
-        <Appbar mode="center-aligned" style={styles.opacity}/>
+      <SafeAreaView style={styles.container}>
+        <TopAppBar />
         <Navbar contestData={contestData} />      
-      </View>
+      </SafeAreaView>
   );
 }

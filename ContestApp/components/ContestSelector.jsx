@@ -4,6 +4,7 @@ import { useState } from "react";
 import { Image, TouchableOpacity, View } from 'react-native';
 import { ActivityIndicator, Card, MD2Colors, RadioButton, Text, Title } from 'react-native-paper';
 import { useDispatch, useSelector } from 'react-redux';
+import createStyle from '../app/styles.js';
 import { fetchList, selectContestList, selectContestListStatus } from '../features/contestList/contestListSlice.js';
 import { contestSelected, selectSelectedContestId } from '../features/selectedContestId/selectedContestIdSlice.js';
 import Navbar from './Navbar.jsx';
@@ -21,6 +22,8 @@ export default function ContestSelector(props) {
   const error = useSelector(state => state.contestList.error);
 
   const dispatch = useDispatch();
+
+  const styles = createStyle();
   useEffect(() => {
     if (contestListStatus === 'idle') {
       dispatch(fetchList())
@@ -37,11 +40,9 @@ export default function ContestSelector(props) {
     content = contestList.map(contest => {
       return (
         <TouchableOpacity key={contest.id}>
-          <Card key={contest.id} onPress={() => dispatch(contestSelected(contest.id))}>
-            <Card.Content>
-              <Image source={contest.contest_logo_file} />
-              <Title>{contest.name}</Title>
-            </Card.Content>
+          <Card key={contest.id} onPress={() => dispatch(contestSelected(contest.id))} style={styles.card}>
+            <Card.Cover source={contest.contest_logo_file} resizeMode={'contain'} />
+            <Card.Title title={contest.name} />
           </Card>
         </TouchableOpacity>
       )
@@ -52,7 +53,7 @@ export default function ContestSelector(props) {
   }
 
   return (
-    <View>        
+    <View style={styles.container}>        
       {content}
     </View>
   );   

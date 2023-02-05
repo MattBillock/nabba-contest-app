@@ -128,6 +128,9 @@ export const selectPerformancesForStage = state => {
   return return_value
 }
 
+export const selectBandById = (state, bandId) => {
+  return state.contestData.band_list.find(band => band.id == bandId)
+}
 
 export const selectPerformancesByStage = state => {
   let retval = []

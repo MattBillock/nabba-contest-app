@@ -2,13 +2,19 @@ import * as React from 'react';
 import { ScrollView } from 'react-native';
 import { Card, IconButton, Paragraph, useTheme } from 'react-native-paper';
 import { selectVenueDetails } from '../features/contestData/contestDataSlice';
-import { useSelector } from 'react-redux';
+import { useDispatch, useSelector } from 'react-redux';
+import { useEffect } from 'react';
+import { changePage } from '../features/appData/appDataSlice';
 
 
 export function VenueDetails(props) {
   const venue_details = useSelector(selectVenueDetails);
 
   const theme=useTheme();
+  const dispatch = useDispatch();
+  useEffect(() => {
+    dispatch(changePage("Venue Details"));
+  }, [dispatch])
   return (
     <ScrollView>
         <Card >

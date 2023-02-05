@@ -1,11 +1,18 @@
 import * as React from 'react';
+import { useEffect } from 'react';
 import { ScrollView } from 'react-native';
 import { Card, IconButton, Paragraph, Title, useTheme } from 'react-native-paper';
+import { useDispatch } from 'react-redux';
+import { changePage } from '../features/appData/appDataSlice';
 
 
 export function About(props) {
 
   const theme=useTheme();
+  const dispatch = useDispatch();
+  useEffect(() => {
+    dispatch(changePage("About"));
+  }, [dispatch])
   return (
     <ScrollView>     
         <Card >

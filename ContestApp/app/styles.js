@@ -15,7 +15,7 @@ export default function createStyle() {
       //padding: '5px',
       justifyContent: 'center',
       width: '100%',
-      //backgroundColor: theme.colors.background,
+      backgroundColor: theme.colors.background,
     },
     card: {
       //backgroundColor: theme.colors.background,
@@ -36,13 +36,16 @@ export default function createStyle() {
     title: {
       fontSize: '4vw',
       allowFontScaling: true,
+      //height:"5%"
+      //borderRadius: '5px',
+      //padding: "50px"
     },
     logo: {
       resizeMode: 'stretch',
       width: 300,
       height: 200,
       objectFit: 'contain',
-    },
+    }
   });
   return styles;
 }
