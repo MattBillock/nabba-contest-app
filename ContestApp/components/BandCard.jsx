@@ -5,19 +5,34 @@ import { useState } from "react";
 import { Avatar, Card, Chip, IconButton, Paragraph, Surface, Title, TouchableRipple, useTheme } from 'react-native-paper';
 import Constants from 'expo-constants';
 import createStyle from '../app/styles';
-import { useDispatch } from 'react-redux';
+import { useDispatch, useSelector } from 'react-redux';
 import { useEffect } from 'react';
 import { changeActiveBand } from '../features/appData/appDataSlice';
+import { selectSelectedContestId } from '../features/selectedContestId/selectedContestIdSlice';
 
 export function BandCard(props) {
   const [item, setItem] = useState(props.item);
   const theme=useTheme();
   const styles = createStyle();
   const dispatch = useDispatch();
+    
+  const selectedContestId = useSelector(selectSelectedContestId);
+  
+  const contestData = useSelector(state => {
+    return state.contestList.contestList.find(contest => contest.id === selectedContestId)
+  });
+
+  let band_logo_uri
+  if(item.band_logo) {
+    band_logo_uri = item.band_logo
+  }
+  else {
+    band_logo_uri = contestData.contest_logo_file
+  }
 
   return (
       <Card style={styles.card}>
-        <Card.Cover source={{ uri: item.band_logo }} resizeMode={'contain'} />
+        <Card.Cover source={{ uri: band_logo_uri }} resizeMode={'contain'} />
         <Card.Title title={item.name} titleNumberOfLines={1} />
         
         <Card.Actions alignItems='center'>
