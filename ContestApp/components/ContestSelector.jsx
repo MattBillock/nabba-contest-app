@@ -41,7 +41,7 @@ export default function ContestSelector(props) {
       return (
         <TouchableOpacity key={contest.id}>
           <Card key={contest.id} onPress={() => dispatch(contestSelected(contest.id))} style={styles.card}>
-            <Card.Cover source={contest.contest_logo_file} resizeMode={'contain'} />
+            <Card.Cover source={{uri: contest.contest_logo_file}} resizeMode={'contain'} />
             <Card.Title title={contest.name} />
           </Card>
         </TouchableOpacity>
