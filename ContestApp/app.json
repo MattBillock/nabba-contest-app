@@ -4,7 +4,7 @@
     "slug": "ContestApp",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/circle-logo.svg",
+    "icon": "./assets/circle-logo.png",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/NABBA2.png",
