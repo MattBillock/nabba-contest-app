@@ -42,6 +42,18 @@ export const contestDataSlice = createSlice({
             default_stage: newStage.payload
 
           }
+        },
+        resetContestData: (state, newState) => {
+          return {
+            ...state,
+            band_list: [],
+            performance_schedule: {},
+            venue_details: {},
+            partner_details: {},
+            status: 'idle',
+            error: null,
+            default_stage: '',       
+          }
         }
     },
     extraReducers: builder => {
@@ -79,7 +91,7 @@ export const contestDataSlice = createSlice({
 })
 
 
-export const { newContestData, newDefaultStage } = contestDataSlice.actions
+export const { newContestData, newDefaultStage, resetContestData } = contestDataSlice.actions
 
 export const selectBandList = state => { 
   return state.contestData.band_list;

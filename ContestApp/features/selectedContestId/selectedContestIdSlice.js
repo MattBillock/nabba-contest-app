@@ -9,10 +9,14 @@ export const selectedContestIdSlice = createSlice({
     initialState,
     reducers: {
         contestSelected: (state, contestId) => {
-            return {
-                ...state,
-                selectedContestId: contestId.payload
-            };
+            // prevent changing when a contest is selected unless it is explicitly reset with the flag value (-1)
+            if(state.selectedContestId < 0 || contestId.payload < 0)
+            {
+                return {
+                    ...state,
+                    selectedContestId: contestId.payload
+                };
+            }
         }
     }
 })

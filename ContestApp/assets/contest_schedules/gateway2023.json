@@ -1,0 +1,331 @@
+{
+  "band_list": [
+    {
+      "id": 1,
+      "name": "The Chicago Brass Band",
+      "website": "https://chicagobrassband.org",
+      "band_bio": "The Chicago Brass Band is a 30-piece brass and percussion ensemble formed in the British brass band tradition, but with Chicago flair. The band, led by music director Dr. Mark Taylor, just celebrated its 20th anniversary. During its first two decades, the Chicago Brass Band has won the North American Brass Band Championship, been awarded Most Entertaining Band at the US Open Brass Band Championships, twice competed in the World Music Contest in the Netherlands, participated in the renowned Whit Friday Marches in England, has been a featured ensemble in front of 40,000 brass fans at the Great American Brass Festival, competed in the 2019 New Zealand National Brass Band Championships, and won first prize at the 2019 Gateway British Brass Band Festival. The band’s favorite activity, however, remains dazzling audiences in Chicago, one of the world’s premiere cities for brass musicianship. The band has particularly enjoyed performances with soloists drawn from the Chicago Symphony Orchestra’s celebrated brass section, including Chris Martin, Charlie Vernon, Gene Pokorny, John Hagstrom, and Mark Ridenour, and multiple collaborations with famed artist Rex Richardson. The Chicago Brass Band was selected to be a Chamber Group at the 2011 Midwest Band and Orchestra Clinic in Chicago, with guest soloist Jens Lindemann- rekindling the brass band movement at this annual convention. Additionally, the Chicago Brass Band has continued engaging young musicians with its Project Horizon initiative, a program developed to promote and enhance the performance and enjoyment of live music in public schools. Through collaborative concerts, workshops, and clinics, the band inspires students to continue to perform and enjoy live music at a high level into and throughout adulthood, even if they do not pursue music as their chosen profession.",
+      "band_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/1/band_photo.jpg",
+      "band_logo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/1/band_logo.jpg",
+      "conductor_name": "Mark Taylor",
+      "conductor_bio": "Mark A. Taylor is honored to serve as the new Music Director of the internationally award-winning Chicago Brass Band. Dr. Taylor is a conductor, educator, and performer in demand throughout the Great Lakes region. His new appointment follows nearly twenty years as a section percussionist with the band. No stranger to brass band leadership, Dr. Taylor is now entering his second decade as Music Director of the Milwaukee Festival Brass. He is also the Music Director of the Waukegan Band and serves as Band Director at College of DuPage. He received the Doctor of Musical Arts degree in 2016 from the University of North Texas, where his principal conducting teachers were Eugene Migliaro Corporon, Dennis Fisher, and Nicholas Enrico Williams. Dr. Taylor’s dissertation, 'British-Style Brass Bands in U.S. Colleges and Universities,' documented the existence of brass bands in American college music programs, past and present. Prior to his doctoral study, he served five years as Director of Bands and Coordinator of Ensembles at Loyola University Chicago, and taught on the music education faculty at the Chicago College of Performing Arts at Roosevelt University. He received the Master of Music degree from Northwestern University, where he studied conducting with John P. Paynter and Stephen G. Peterson and music education with Bennett Reimer and Peter Webster. He received his undergraduate degrees from the University of Notre Dame, where his first conducting teachers were Walter Ginter and Carl Stam. Dr. Taylor and his wife and son reside in Lake Forest, IL.",
+      "conductor_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/1/conductor_photo.jpg",
+      "contact_email": "vicepresident@chicagobrassband.org",
+      "choice_pieces": [
+        {
+          "title": "A Gabrieli Fantasy",
+          "composer": "Bert Appermont"
+        }
+      ],
+      "band_section": "championship",
+      "contest_draw_identifiers": ["1_A"]
+    },
+    {
+      "id": 27,
+      "name": "Fountain City Brass Band",
+      "website": "https://www.fcbb.net/",
+      "band_bio": "The Fountain City Brass Band, a 501(c)(3) nonprofit organization, is a thirty-piece, all-volunteer ensemble and is committed to cultural enrichment by performing eclectic concerts that expand the brass band art form and are both entertaining and educational for audiences. Fountain City seeks to bridge the gap between popular and classical art music by performing a wide variety of music, including modern compositions written specifically for brass bands and arrangements of classical works, jazz, and Broadway hits. Fountain City has been featured performers throughout North America and Europe at such events as the Midwest Clinic, Brass in Concert, Great American Brass Band Festival, U.S. Masters Brass Entertainment Championships, Glenn Miller Festival, International Trombone Festival, International Tuba & Euphonium Conference, Longs Peak Scottish Irish Highlands Festival, Missouri Music Educators Association Conference, Kansas Music Educators Association Conference, Missouri Bandmasters Association, Ohio Brass Arts Festival, Nebraska Bandmasters Association, Celebration at the Station, and the Scottish Festival of Brass. The band has collaborated with artists such as Garry Cutt, David King, Ryan Anthony, Joe Burgstaller, Jens Lindemann, Rex Richardson, Jose Sibaja, Jonathan Bates, Owen Farr, Marty Hackleman, Helen Tyler, Brett Baker, Tony Baker, Michael Dease, Brian Hecht, Wycliffe Gordon, Yu Tamaki Hoso, Christian Lindberg, David Childs, Matthew van Emmerik, Tormod Flaten, Steven Mead, Øystein Baadsvik, Patricio Cosentino, James Gourlay, Les Neish, Steve Rosse, and Patrick Sheridan. When not performing in concert, Fountain City maintains an active competition schedule. Since the band’s first competition in 2004, it has won 10 U.S. Open Brass Band Championships, 9 North American Brass Band Championships, and 1 Scottish Open Brass Band Championship, becoming the first U.S. band ever and the first non‐UK band in over 50 years, to win a major brass band competition on UK soil.",
+      "band_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/27/band_photo.jpg",
+      "band_logo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/27/band_logo.png",
+      "conductor_name": "Michael Fowles",
+      "conductor_bio": "Widely regarded as one of the leading conductors of his generation Michael hails from the rich musical tradition of North Staffordshire. He is an honours and post-graduate of the Royal Northern College of Music. He has been Musical Director of Foden’s Band since 2009 and the Professional Conductor of the Desford Colliery Band since 2016. Having worked with many of the country’s leading bands, Michael has a reputation for entertaining concert programming and high standards in competition. He is well known for having transferable skills, having won Championship section contests with 11 different bands in regular working relationships or on a freelance basis. As such, he is much in demand both in the UK and abroad. Michael is also a member of the Association of Brass Band Adjudicators and has officiated at numerous contests. Educational work also forms an important part of Michael’s musical life. He is the Course Director of the Wessex Band Summer School and Fodens Armagh Summer School. He is the Musical Director of Fodens Youth Band, Associate Conductor, and Musical Adviser of Lions Youth Band. As a guest conductor, he undertakes much training work throughout the UK with bands of all levels. Michael’s work in the recording studio is also highly respected, directing around 45 CDs, including numerous solo discs. He has given many premiere performances, conducted concerto appearances of eminent soloists, and directed broadcasts for both BBC Radio 2 and 3. He has also written articles and reviews for Brass Band World and British Bandsman.",
+      "conductor_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/27/conductor_photo.jpg",
+      "band_section": "championship",
+      "contact_email": "fcbb@fcbb.net",
+      "choice_pieces": [
+        {
+          "title": "Journey of the Lone Wolf",
+          "composer": "Simon Dobson"
+        }
+      ],
+      "contest_draw_identifiers": ["1_B"]
+    },
+    {
+      "id": 28,
+      "name": "Fountain City Youth Academy Brass Band",
+      "website": "https://fcyba.net/",
+      "band_bio": "The Fountain City Youth Brass Academy (FCYBA) is the educational outreach component of the Fountain City Brass Band (FCBB), North America’s premiere volunteer brass and percussion ensemble. The mission of the FCYBA is to inspire young musicians of all performance ability levels to achieve a high standard of musicianship and to foster a life-long love of music. FCYBA was founded in 2008 by Helen Harrelson while she was on a sabbatical from her job in England. Helen is a native of England and grew up in the brass band tradition before attending the Royal Northern College of Music. From there, she became one of the world’s foremost baritonists and performed with some of the finest bands in the United Kingdom. Her passion for music education and this rich tradition led her to establish the FCYBA. The FCYBA began as day-long ‘Expo’ workshops and has grown into season-long brass bands with over 150 members. There are four bands within the Academy made up of brass and percussionists of all standards and abilities from late elementary through young adult. The bands of the FCYBA are non-cut programs for participants 18 years of age and younger. The conductors for the FCYBA bands are professional music educators that also perform with the Fountain City Brass Band. The bands meet during the spring academic semester once per week on Sundays. Since its inception, the bands of the FCYBA have won numerous national championships at the North Ameri- can Brass Band Championships and been featured at prestigious events such as the Great American Brass Band Festival and the Kansas Music Educators Association’s annual conference.",
+      "band_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/28/band_photo.jpg",
+      "band_logo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/28/band_logo.png",
+      "conductor_name": "Helen Harrelson, Lee Harrelson",
+      "conductor_bio": "The Academy has two conductors: Dr. Helen Harrelson began her playing career on euphonium playing with the Rotherham Schools Band and the National Youth Brass Band of Great Britain. She later changed to baritone and was accepted at the Royal Northern College of Music in Manchester, where she gained her BMus (Hons). During her studies at the RNCM, Helen worked and performed with world class musicians such as Bob Childs, James Watson, Sandy Smith, Steven Mead, James Gourley, and Bramwell Tovey. During her time in the U.K., she was a member of some of the worlds’ finest brass bands. Helen had the honor of being one of the first female members in the Black Dyke Band, with whom she toured and recorded many CDs, radio broadcasts and television appearances. As a leading advocate for brass pedagogy and performance, she has presented and  performed at events including the Midwest Clinic, International Woman’s Brass Conference,  International Tuba & Euphonium Conference, and International Trumpet Guild. Helen has served on the faculties of the Northern Ireland Summer School, North American Brass Band Summer School, MidAmerica Nazarene University, Missouri Western State University, and as a Student Teacher Mentor for the Royal Northern College of Music. She has been recognized for outstanding contribution to music education from the Kansas Bandmasters Association, and was awarded the ECKMEA High School Band Director of the Year in 2021. Helen is a Besson/Buffet Crampon performing artist, consultant, and clinician. Lee Harrelson is a Professor of Music at Missouri Western State University. At Missouri Western, he serves as the Director of Instrumental Studies and Bands and conducts the Missouri Western Symphonic Winds. For the 2022-2023 academic year, Dr. Harrelson is a Visiting Professor of Euphonium & Tuba at the UMKC Conservatory. Dr. Harrelson attended the University of Southern Mississippi, where he studied music education and performance before completing his masters and doctorate at the University of Missouri-Kansas City’s Conservatory of Music and Dance. Dr. Harrelson is the founder of the Fountain City Brass Band and currently serves as its artistic director, executive director, and principal euphoniumist. Dedicated to furthering the development of brass bands in America, Dr. Harrelson regularly serves on the faculty of the North American Brass Band Summer School and, in 2019, along with his wife Helen, founded the National Youth Brass Band of America. In 2022 Dr. Harrelson founded the US Masters Brass Band Entertainment Championships. In the fall of 2019, Dr. Harrelson was awarded the first-ever Visiting International Professor position with the world-famous Brighouse & Rastrick Band (England). In addition to collaborating with and conducting the band, Dr. Harrelson was able to work closely with Professor David King during preparations for the band’s appearances at the British Open Brass Band Championships (Symphony Hall, Birmingham) and the National Brass Band Championships of Great Britain (Royal Albert Hall, London). Lee Harrelson is a Buffet Group/Besson Performing Artist.",
+      "conductor_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/28/conductor_photo.jpg",
+      "band_section": "third",
+      "contact_email": "helen@fcbb.net",
+      "choice_pieces": [
+        {
+          "title": "The Dark Side of the Moon",
+          "composer": "Paul Lovatt-Cooper"
+        }
+      ],
+      "contest_draw_identifiers": ["1_C"]
+    },
+    {
+      "id": 40,
+      "name": "River Brass",
+      "website": "https://riverbrass.com/",
+      "band_bio": "",
+      "band_photo": "https://imageprocessor.digital.vistaprint.com/crop/1,0,1114x640/maxWidth/2000/progressive/https://uploads.documents.cimpress.io/v1/uploads/a78b10fb-136b-4c6d-aef1-27fcd140bcec~110/original?tenant=vbu-digital",
+      "band_logo": "https://imageprocessor.digital.vistaprint.com/crop/232,500,9500x4000/maxWidth/1000/https://uploads.documents.cimpress.io/v1/uploads/f5470841-529d-4a39-ae54-761ca9acec72~110/original?tenant=vbu-digital",
+      "conductor_name": "",
+      "conductor_bio": "",
+      "conductor_photo": "",
+      "band_section": "first",
+      "contact_email": "",
+      "choice_pieces": [
+        {
+          "title": "Music of the Spheres",
+          "composer": "Philip Sparke"
+        }
+      ],
+      "contest_draw_identifiers": ["1_D"]
+    },
+    {
+      "id": 34,
+      "name": "St. Louis Brass Band",
+      "website": "https://www.stlbb.org/",
+      "band_bio": "Founded in 1998, the Saint Louis Brass Band features some of the area’s finest brass musicians, educators, and students, who come together to perform classics, marches, jazz, and the very best contemporary brass band music. Acclaimed by the St. Louis Post-Dispatch as “one of the city’s newest treasures,” the STLBB has won award at NABBA and the US Open Bass Band Championships. Generous financial support has come from the Missouri Arts Council, Regional Arts Commission, Ameren Illinois, the Garvey Foundation, Boeing, and area music stores throughout the region In 2014 the St. Louis Academy Brass Band was established as part of the Educational Outreach Program. The Fall of 2017 saw the establishment of Brass Extravaganza!: two days of brass and percussion workshops, clinics, rehearsals, and performances for students Grades 8 through college level, all led by members of the Saint Louis Brass Band. Guest soloists with the Saint Louis Brass Band include Karin Bliznik (Principal Trumpet - St. Louis Symphony Orchestra), Gerry Pagano (Bass Trombone - St. Louis Symphony Orchestra), J.D. Shaw (Boston Brass co-founder and horn), Christine Brewer (Grammy award-winning soprano) and Demondrae Thurman (Professor of Euphonium, Indiana University).",
+      "band_photo": "",
+      "band_logo": "",
+      "conductor_name": "John Bell",
+      "conductor_bio": "Dr. John Bell has served as the Music Director for the St. Louis Brass Band since 2009 and serves on the NABBA Board. In addition to his work in the brass band arena, he is the newly appointed Director of Wind Ensemble at McKendree University, in Lebanon, Illinois, and Professor of Music Emeritus at Southern Illinois University Edwardsville, a role he held for 30 years.Dr. Bell is an elected member of the prestigious American Bandmasters Association and has been an invited clinician and adjudicator throughout the United States, Asia and Canada, for DCI, Music for All, the World Music Festival, and numerous championship events. Previous appointments include Music Director of the Rocky Mountain Brassworks Brass Band in Denver, Colorado, Associate Director of Bands at the University of Northern Colorado, Doctoral Conducting intern at the University of Illinois, and band director at Willowbrook and Rolling Meadows High Schools in the Chicago suburbs Ensembles under his direction have been selected for performance at the international conference of the World Association for Symphonic Bands and Ensembles in Chiayi City, Taiwan; the national convention of the Music Educators National Conference (now NAfME); divisional conferences of the Southwest and North-Central College Band Directors National Association; the state conferences of the Illinois Music Educators and Colorado Music Educators; and twice in New York City’s Carnegie Hall. He resides in Lebanon, Illinois, with his spouse, Dr. Jennifer Moder-Bell and their pup, Wiggles.",
+      "conductor_photo": "",
+      "band_section": "second",
+      "contact_email": "stlouisbrassband@gmail.com",
+      "choice_pieces": [
+        {
+          "title": "The Raid",
+          "composer": "Oliver Waespi"
+        }
+      ],
+      "contest_draw_identifiers": ["1_E"]
+    },
+
+    {
+      "id": 41,
+      "name": "Ft. Zumwalt South High School Brass Choir",
+      "website": "",
+      "band_bio": "",
+      "band_photo": "",
+      "band_logo": "",
+      "conductor_name": "",
+      "conductor_bio": "",
+      "conductor_photo": "",
+      "band_section": "first",
+      "contact_email": "",
+      "choice_pieces": [
+        {
+          "title": "Music of the Spheres",
+          "composer": "Philip Sparke"
+        }
+      ],
+      "contest_draw_identifiers": ["1_F"]
+    },
+
+    {
+      "id": 42,
+      "name": "St. Louis Academy Brass Band",
+      "website": "",
+      "band_bio": "",
+      "band_photo": "",
+      "band_logo": "",
+      "conductor_name": "",
+      "conductor_bio": "",
+      "conductor_photo": "",
+      "band_section": "first",
+      "contact_email": "",
+      "choice_pieces": [
+        {
+          "title": "Music of the Spheres",
+          "composer": "Philip Sparke"
+        }
+      ],
+      "contest_draw_identifiers": ["1_G"]
+    },
+
+
+    {
+      "id": 43,
+      "name": "Free State Brass Band",
+      "website": "",
+      "band_bio": "",
+      "band_photo": "",
+      "band_logo": "",
+      "conductor_name": "",
+      "conductor_bio": "",
+      "conductor_photo": "",
+      "band_section": "first",
+      "contact_email": "",
+      "choice_pieces": [
+        {
+          "title": "Music of the Spheres",
+          "composer": "Philip Sparke"
+        }
+      ],
+      "contest_draw_identifiers": ["1_H"]
+    },
+
+
+    {
+      "id": 44,
+      "name": "Frontier Brass Band",
+      "website": "",
+      "band_bio": "",
+      "band_photo": "",
+      "band_logo": "",
+      "conductor_name": "",
+      "conductor_bio": "",
+      "conductor_photo": "",
+      "band_section": "first",
+      "contact_email": "",
+      "choice_pieces": [
+        {
+          "title": "Music of the Spheres",
+          "composer": "Philip Sparke"
+        }
+      ],
+      "contest_draw_identifiers": ["1_I"]
+    },
+
+    {
+      "id": 45,
+      "name": "Iowa Brass",
+      "website": "",
+      "band_bio": "",
+      "band_photo": "",
+      "band_logo": "",
+      "conductor_name": "",
+      "conductor_bio": "",
+      "conductor_photo": "",
+      "band_section": "first",
+      "contact_email": "",
+      "choice_pieces": [
+        {
+          "title": "Music of the Spheres",
+          "composer": "Philip Sparke"
+        }
+      ],
+      "contest_draw_identifiers": ["1_J"]
+    }
+  ],
+  
+  "performance_schedule": {
+    "2023-03-18": [
+      {
+        "band_id": 1,
+        "band_draw": "1_A",
+        "stage": "Main",
+        "performance_times": {            
+            "start_timestamp": "2023-03-18T11:00:00.000-05:00",
+            "end_timestamp": "2023-03-18T11:45:00.000-05:00"
+          }
+        
+      },{
+        "band_id": 27,
+        "band_draw": "1_B",
+        "stage": "Main",
+        "performance_times": {            
+          "start_timestamp": "2023-03-18T11:45:00.000-05:00",
+          "end_timestamp": "2023-03-18T12:30:00.000-05:00"
+          }
+        
+      },{
+        "band_id": 28,
+        "band_draw": "1_C",
+        "stage": "Main",
+        "performance_times": {            
+          "start_timestamp": "2023-03-18T12:30:00.000-05:00",
+          "end_timestamp": "2023-03-18T13:15:00.000-05:00"
+          }
+        
+      },{
+        "band_id": 40,
+        "band_draw": "1_D",
+        "stage": "Main",
+        "performance_times": {            
+            
+          "start_timestamp": "2023-03-18T13:15:00.000-05:00",
+          "end_timestamp": "2023-03-18T14:00:00.000-05:00"
+          }
+        
+      },{
+        "band_id": 34,
+        "band_draw": "1_E",
+        "stage": "Main",
+        "performance_times": {            
+          "start_timestamp": "2023-03-18T14:00:00.000-05:00",
+          "end_timestamp": "2023-03-18T14:45:00.000-05:00"
+          }
+        
+      },{
+        "band_id": 41,
+        "band_draw": "1_F",
+        "stage": "Main",
+        "performance_times": {            
+          "start_timestamp": "2023-03-18T14:45:00.000-05:00",
+          "end_timestamp": "2023-03-18T15:30:00.000-05:00"
+          }
+        
+      },{
+        "band_id": 42,
+        "band_draw": "1_G",
+        "stage": "Main",
+        "performance_times": {
+          "start_timestamp": "2023-03-18T15:30:00.000-05:00",
+          "end_timestamp": "2023-03-18T16:15:00.000-05:00"
+          }
+        
+      },{
+        "band_id": 43,
+        "band_draw": "1_H",
+        "stage": "Main",
+        "performance_times": {            
+          "start_timestamp": "2023-03-18T16:15:00.000-05:00",
+          "end_timestamp": "2023-03-18T17:00:00.000-05:00"
+          }
+        
+      },{
+        "band_id": 44,
+        "band_draw": "1_I",
+        "stage": "Main",
+        "performance_times": {            
+          "start_timestamp": "2023-03-18T17:00:00.000-05:00",
+          "end_timestamp": "2023-03-18T17:45:00.000-05:00"
+          }
+        
+      },{
+        "band_id": 45,
+        "band_draw": "1_J",
+        "stage": "Main",
+        "performance_times": {            
+          "start_timestamp": "2023-03-18T17:45:00.000-05:00",
+          "end_timestamp": "2023-03-18T18:30:00.000-05:00"
+          }
+        
+      }
+        ]
+    
+  },
+  "venue_details": {
+    "name": "Ritenour High School",
+    "image": "https://www.ritenour.k12.mo.us/cms/lib/MO01910124/Centricity/ModuleInstance/1466/large/RHS%20grad%20web.jpg",
+    "address": "9100 St. Charles Rock Rd., St. Louis, MO 63114",
+    "map_file": "",
+    "description": "NABBA is proud to once again be hosting the contest at the Von Braun Center. The Von Braun Center, named for rocket pioneer Dr. Wernher Von Braun, is located in the heart of historic downtown Huntsville, Alabama. This multi-purpose facility is equipped to accommodate major conferences, conventions, concerts, Broadway performances, ballets, symphonies, a full range of sporting events and so much more! Huntsville is a high-tech city with a history of Southern hospitality. The VBC is just a short drive from the International Airport and convenient to area hotels. The Von Braun Center is a turn-key facility with a team of experienced professionals ready to guarantee the success of your event.",
+    "link": "https://www.ritenour.k12.mo.us/RHS"
+  },
+  "partner_details": [
+    {
+      "image_src": "http://sparrowcourt.com/assets/images/sparrow-court-logo.png",
+      "name": "Sparrow Court Consulting",
+      "link": "http://www.sparrowcourt.com",
+      "background": "#000000"
+    },
+    {
+      "image_src": "https://nabba.org/wp-content/uploads/2019/05/NabbaNew-1.png",
+      "name": "North American Brass Band Association",
+      "link": "https://nabba.org",
+      "background": "#000000"
+    }
+  ]
+}

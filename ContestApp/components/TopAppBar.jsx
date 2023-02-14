@@ -1,10 +1,11 @@
 import * as React from 'react';
-import { Image, ScrollView } from 'react-native';
-import { Appbar, Card, IconButton, Paragraph, Title, useTheme } from 'react-native-paper';
+import { Image, ScrollView, TouchableOpacity, View } from 'react-native';
+import { Appbar, Banner, Card, Divider, IconButton, Menu, Paragraph, Title, useTheme } from 'react-native-paper';
+import { useDispatch } from 'react-redux';
 import { useSelector } from 'react-redux';
 import createStyle from '../app/styles';
 import { selectActivePage } from '../features/appData/appDataSlice';
-import { selectSelectedContestId } from '../features/selectedContestId/selectedContestIdSlice';
+import { contestSelected, selectSelectedContestId } from '../features/selectedContestId/selectedContestIdSlice';
 
 
 export function TopAppBar(props) {
@@ -12,16 +13,16 @@ export function TopAppBar(props) {
   const theme=useTheme();
   const styles=createStyle();  
   const selectedContestId = useSelector(selectSelectedContestId);
+  const dispatch = useDispatch();
 
   const contestData = useSelector(state => {
     return state.contestList.contestList.find(contest => contest.id === selectedContestId)
   });
-  console.log(contestData);
   return (
-    <Appbar mode="center-aligned" style={styles.title}>
-      <Appbar.Content>
-        <Image source={{uri: contestData.contest_logo_file}}/>
-      </Appbar.Content>
+    <TouchableOpacity>
+    <Appbar>
+      <Appbar.Content title={contestData.name} onPress={() => dispatch(contestSelected(-1))} />
     </Appbar>
+    </TouchableOpacity>
   )
 }

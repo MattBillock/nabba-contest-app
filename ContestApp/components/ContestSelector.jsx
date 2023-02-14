@@ -5,6 +5,7 @@ import { Image, TouchableOpacity, View } from 'react-native';
 import { ActivityIndicator, Card, MD2Colors, RadioButton, Text, Title } from 'react-native-paper';
 import { useDispatch, useSelector } from 'react-redux';
 import createStyle from '../app/styles.js';
+import { resetContestData } from '../features/contestData/contestDataSlice.js';
 import { fetchList, selectContestList, selectContestListStatus } from '../features/contestList/contestListSlice.js';
 import { contestSelected, selectSelectedContestId } from '../features/selectedContestId/selectedContestIdSlice.js';
 import Navbar from './Navbar.jsx';
@@ -25,11 +26,11 @@ export default function ContestSelector(props) {
 
   const styles = createStyle();
   useEffect(() => {
+    dispatch(resetContestData());
     if (contestListStatus === 'idle') {
       dispatch(fetchList())
     }
   }, [contestListStatus, dispatch])
-
 
 
   let content;

@@ -1382,9 +1382,9 @@
   },
   "partner_details": [
     {
-      "image_src": "https://nabba.org/wp-content/uploads/2019/05/NabbaNew-1.png",
-      "name": "North American Brass Band Association",
-      "link": "https://nabba.org",
+      "image_src": "http://sparrowcourt.com/assets/images/sparrow-court-logo.png",
+      "name": "Sparrow Court Consulting",
+      "link": "http://www.sparrowcourt.com",
       "background": "#000000"
     },
     {
@@ -1392,6 +1392,12 @@
       "name": "Patrick Oliverio Studios",
       "link": "https://www.patrickoliverio.com/videos",
       "background": "#FFFFFF"
+    },
+    {
+      "image_src": "https://nabba.org/wp-content/uploads/2019/05/NabbaNew-1.png",
+      "name": "North American Brass Band Association",
+      "link": "https://nabba.org",
+      "background": "#000000"
     }
   ]
 }
