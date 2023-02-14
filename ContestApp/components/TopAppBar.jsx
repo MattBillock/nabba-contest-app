@@ -20,9 +20,9 @@ export function TopAppBar(props) {
   });
   return (
     <TouchableOpacity>
-    <Appbar>
-      <Appbar.Content title={contestData.name} onPress={() => dispatch(contestSelected(-1))} />
-    </Appbar>
+      <Appbar style={styles.appbar}>
+        <Appbar.Content title={contestData.name} onPress={() => dispatch(contestSelected(-1))} />
+      </Appbar>
     </TouchableOpacity>
   )
 }

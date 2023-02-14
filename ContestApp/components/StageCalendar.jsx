@@ -44,7 +44,8 @@ export function StageCalendar(props) {
       paddingBottom: 2,
       fontSize: 20,
       fontWeight: 'bold',
-      color: theme.colors.secondary
+      backgroundColor: theme.colors.onPrimaryContainer,
+      color: theme.colors.onPrimary
     },
     item: {
       padding: 10,

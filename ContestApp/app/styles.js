@@ -45,6 +45,10 @@ export default function createStyle() {
       width: 300,
       height: 200,
       objectFit: 'contain',
+    },
+    appbar: {
+      backgroundColor: theme.colors.secondaryContainer,
+      color: theme.colors.secondary
     }
   });
   return styles;
