@@ -23,8 +23,8 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
+        "foregroundImage": "./assets/circle-logo.png",
+        "backgroundColor": "#000000"
       },
       "package": "com.nabba.ContestApp"
     },

@@ -44,7 +44,7 @@ export function StageCalendar(props) {
       paddingBottom: 2,
       fontSize: 20,
       fontWeight: 'bold',
-      color: '#0A0A0A'
+      color: theme.colors.secondary
     },
     item: {
       padding: 10,
@@ -117,6 +117,7 @@ export function StageCalendar(props) {
     );
   }
   let content = getAgenda(props.performanceSchedule);
+  let moment = require('moment');
   //apiCalendar.listUpcomingEvents(100).then(({result}:any) => {
   //  setContestEvents(result)
   //})
@@ -146,7 +147,7 @@ export function StageCalendar(props) {
           return (
             //<TouchableOpacity>
               <Card elevated style={styles.card}>
-                <Card.Title title={start_time.toLocaleTimeString([], options) + " - " + band_name} titleNumberOfLines={1} />
+                <Card.Title title={moment(start_time).format('LT') + " - " + band_name} titleNumberOfLines={1} />
                 
               </Card>
               

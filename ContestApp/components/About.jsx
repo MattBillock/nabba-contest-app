@@ -1,6 +1,6 @@
 import * as React from 'react';
 import { useEffect } from 'react';
-import { ScrollView } from 'react-native';
+import { Linking, ScrollView } from 'react-native';
 import { Card, IconButton, Paragraph, Title, useTheme } from 'react-native-paper';
 import { useDispatch } from 'react-redux';
 import { changePage } from '../features/appData/appDataSlice';
@@ -30,9 +30,8 @@ export function About(props) {
             </Paragraph>
           </Card.Content>
           <Card.Actions alignItems='center'>
-            <IconButton icon="web" iconColor={theme.colors.primary} onPress={() => Linking.openURL(item.website)} />
+            <IconButton icon="web" iconColor={theme.colors.primary} onPress={() => Linking.openURL("https://www.nabba.org")} />
             <IconButton icon="email" />
-            <IconButton icon="more" />
           </Card.Actions>
         </Card>
         
@@ -40,17 +39,15 @@ export function About(props) {
           <Card.Title title="About the app" />
           <Card.Content>
             <Paragraph>
-              This application was developed by Sparrow Court Consulting. Please direct any bug reports or issues to matt@billock.org. 
-              
-              Find us at https://sparrowcourt.com
-
-              Want a custom application or website for your ensemble or event? Contact us at info@sparrowcourt.com to start the conversation!
-            </Paragraph>
+              This application was developed by Sparrow Court Consulting as a donation to the North American Brass Band Association. Please use the envelope button below to submit any bug reports.</Paragraph> 
+            <Paragraph />
+            <Paragraph onPress={() => Linking.openURL("http://sparrowcourt.com")}>Find us at https://sparrowcourt.com</Paragraph>
+            <Paragraph />
+            <Paragraph onPress={() => Linking.openURL("mailto:info@sparrowcourt.com")}> Want to use ContestApp for your contest or performance? Contact us at info@sparrowcourt.com to start the conversation!</Paragraph>
           </Card.Content>
           <Card.Actions alignItems='center'>
-            <IconButton icon="web" iconColor={theme.colors.primary} onPress={() => Linking.openURL(item.website)} />
+            <IconButton icon="web" iconColor={theme.colors.primary} onPress={() => Linking.openURL("http://www.sparrowcourt.com")} />
             <IconButton icon="email" />
-            <IconButton icon="more" />
           </Card.Actions>
         </Card>
     </ScrollView>
