@@ -1,0 +1,63 @@
+{
+    "band_list": [
+      {
+        "id": 32,
+        "name": "Dublin Silver Brass Band",
+        "website": "www.dublinsilverband.com",
+        "band_bio": "Originally founded in 2008 as the Ohio Brass Band by Dr. Paul Droste and Dr. Patrick Herak, The Dublin Silver Band is made up of brass and percussion musicians from all parts of Ohio.  Since 2010 DSB has existed as part of the Dublin Community Bands, the sponsoring organization of today’s event. Since 2010 the band has transformed from a seasonal band to full time operation.  Also during that time DSB has steadily progressed from its first Second Section participation in North American Brass Band Association Championships in 2014 to placing first in the Second Section in 2015, then moving up to the First Section in 2016, and placing first in the First Section in 2019. The band has also competed regularly in the US Open Championships, winning that event in 2015. The members of the Dublin Silver Band volunteer their time and talent because of three things they all have in common: a drive to chase perfection, a genuine affection for each other, and a passion for making connections with audiences on an emotional level.  To make these connections, the band commits to performing far more than ordinary concerts, instead telling stories that engage the audience in the musical performance.  It is this approach that has earned the band an international reputation. DSB has performed and competed extensively throughout the Midwest, and has traveled and performed abroad.  In 2016 the band played concerts in Ireland and England before competing in Brass in Concert in Gateshead, England.  In 2020 the band once again traveled to England, competing at the Butlins Festival.",
+        "band_photo": "",
+        "band_logo": "",
+        "conductor_name": "Tim Jameson",
+        "conductor_bio": "Tim Jameson has served as Music Director of the Dublin Silver Band since 2010.  During that time, he has led the band to first place finishes in both the NABBA Second and First Sections. Before his involvement with the Dublin Silver Band, Tim was the Music Director of the Brass Band of Columbus for five years, leading BBC to a first place finish in the NABBA Championship Section in 2006. Mr. Jameson is a graduate of The Ohio State University, where he studied trumpet under Tom Battenberg and conducting under Donald McGinnis, Marshall Haddock, George Hardesty, and Craig Kirchoff. He is also active as an arranger, with works published by Cimarron Music, BVD Press, and 360° Music. Professionally, Tim is Manager of Talent Development for Ariel Corporation in Mount Vernon, Ohio.",
+        "conductor_photo": "",
+        "band_section": "first",
+        "contact_email": "timjameson1@gmail.com",
+        "choice_pieces": [
+          {
+            "title": "Essay",
+            "composer": "Edward Gregson"
+          }
+        ],
+        "contest_draw_identifiers": ["C_A"]
+      }
+    ],
+    
+    "performance_schedule": {
+      "2023-03-18": [
+        {
+          "band_id": 32,
+          "band_draw": "C_A",
+          "stage": "Main",
+          "performance_times": {            
+              "start_timestamp": "2023-03-24T11:00:00.000-05:00",
+              "end_timestamp": "2023-03-24T11:40:00.000-05:00"
+            }
+          
+        }
+      ]
+      
+    },
+    "venue_details": {
+      "name": "Dublin Jerome Performing Arts Center",
+      "image": "https://www.ritenour.k12.mo.us/cms/lib/MO01910124/Centricity/ModuleInstance/1466/large/RHS%20grad%20web.jpg",
+      "address": "Dublin Jerome Performing Arts Center, Dublin, OH",
+      "map_file": "",
+      "description": "The Dublin Festival of Brass is held in March every year. It hosts British-style brass bands from across the Midwest, USA, and beyond. The competition requires bands perform a march, slow melody, and major work. In addition to band performances, there are also some brief solo and ensemble performances.",
+      "link": "https://www.columbusmakesart.com/place/3994-dublin-jerome-high-school-center-for-the-performing-arts"
+    },
+    "partner_details": [
+      {
+        "image_src": "http://sparrowcourt.com/assets/images/sparrow-court-logo.png",
+        "name": "Sparrow Court Consulting",
+        "link": "http://www.sparrowcourt.com",
+        "background": "#000000"
+      },
+      {
+        "image_src": "https://nabba.org/wp-content/uploads/2019/05/NabbaNew-1.png",
+        "name": "North American Brass Band Association",
+        "link": "https://nabba.org",
+        "background": "#000000"
+      }
+    ]
+  }
+  
