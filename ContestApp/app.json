@@ -2,7 +2,7 @@
   "expo": {
     "name": "NABBA",
     "slug": "NABBA",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "orientation": "portrait",
     "icon": "./assets/circle-logo.png",
     "userInterfaceStyle": "light",
@@ -26,7 +26,8 @@
         "foregroundImage": "./assets/circle-logo.png",
         "backgroundColor": "#000000"
       },
-      "package": "com.nabba.ContestApp"
+      "package": "com.nabba.ContestApp",
+      "versionCode": "1.1.0"
     },
     "web": {
       "favicon": "./assets/favicon.png"
