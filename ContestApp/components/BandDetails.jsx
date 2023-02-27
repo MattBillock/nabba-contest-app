@@ -44,27 +44,36 @@ export function BandDetails(props) {
                     mode="elevated"
                     onPress={() => dispatch(changeActiveBand(-1))}
                   >
-                    <Text variant="titleSmall"> Go back</Text>
+                    <Text variant="titleSmall">Go back</Text>
                   </Button>
+
+  let website = "";
+  if(item.website) {
+    website = <IconButton icon="web" onPress={() => Linking.openURL(item.website)} />
+  }
+  let email="";
+  if(item.contact_email) {
+    email = <IconButton icon="email" onPress={() => Linking.openURL("mailto:"+item.contact_email)}/>
+  }
   return (
     <ScrollView>
       {button}
       <Card style={styles.card} key={activeBandId + "-band"}>
         <Card.Cover source={{ uri: item.band_logo }} resizeMode={'contain'} />
-        <Card.Title title={item.name} titleNumberOfLines={1} />
+        <Card.Title titleNumberOfLines={1}>{item.name}</Card.Title>
         <Card.Content>
           <Text variant="bodyLarge">{item.band_bio}</Text>
         </Card.Content>
 
         <Card.Actions alignItems='center'>
           <Chip mode='outlined' compact icon="information">{item.band_section.toUpperCase()}</Chip>
-          {item.website && <IconButton icon="web" onPress={() => Linking.openURL(item.website)} /> }
-          {item.contact_email && <IconButton icon="email" onPress={() => Linking.openURL("mailto:"+item.contact_email)}/>}
+          <View>{website}</View>
+          <View>{email}</View>
         </Card.Actions>
       </Card>
       <Card style={styles.card} key={activeBandId + "-conductor"}>
         <Card.Cover source={{ uri: item.conductor_photo }} resizeMode={'contain'} />
-        <Card.Title title={item.conductor_name} titleNumberOfLines={1} />
+        <Card.Title titleNumberOfLines={1}>{item.conductor_name}</Card.Title>
         <Card.Content>
           <Text variant="bodyLarge">{item.conductor_bio}</Text>
         </Card.Content>

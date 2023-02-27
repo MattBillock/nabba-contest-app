@@ -78,7 +78,11 @@ export function StageCalendar(props) {
       '3': 'Third',
       'YO': 'Youth Open',
       'Y1': 'Youth First',
-      'YC': 'Youth Championship'
+      'YC': 'Youth Championship',
+      'O': 'Open',
+      'NT': 'Non-Traditional',
+      'BC': 'Brass Choir',
+      'EX': 'Exhibition'
     }
     const contest_date = new Date(contestDates[0])
     if(contest_date > Date.now()) {
