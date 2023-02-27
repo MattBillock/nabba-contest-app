@@ -27,7 +27,7 @@
         "backgroundColor": "#000000"
       },
       "package": "com.nabba.ContestApp",
-      "versionCode": "1.1.0"
+      "versionCode": 2
     },
     "web": {
       "favicon": "./assets/favicon.png"
