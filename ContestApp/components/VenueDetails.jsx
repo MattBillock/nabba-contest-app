@@ -29,7 +29,7 @@ export function VenueDetails(props) {
         <Card.Title title={venue_details.contest_name} />
         <Card.Content>
           <Paragraph>{venue_details.contest_name}</Paragraph>
-          {(venue_details.judge_link &&  venue_details.judge_link != "") && (<Button onPress={() => Linking.openURL(venue_details.judging_link)}>Judging information</Button>) }
+          {(venue_details.judge_link &&  venue_details.judge_link != "") && (<Button onPress={() => Linking.openURL(venue_details.judge_link)}>Judging information</Button>) }
           {(venue_details.solo_ensemble_link && venue_details.solo_ensemble_link != "") && (<Button onPress={() => Linking.openURL(venue_details.solo_ensemble_link)}>I&E information</Button>) }
         </Card.Content>
       </Card>
