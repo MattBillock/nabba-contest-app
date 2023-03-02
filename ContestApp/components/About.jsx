@@ -47,8 +47,8 @@ export function About(props) {
               This application was developed by Sparrow Court Consulting as a donation to the North American Brass Band Association. Please use the envelope button below to submit any bug reports.</Paragraph> 
             <Paragraph />
             <Button onPress={() => Linking.openURL("http://sparrowcourt.com")}>Find us at https://sparrowcourt.com</Button>
-            <Paragraph />
-            <Button onPress={() => Linking.openURL("mailto:info@sparrowcourt.com")}> Want to use ContestApp for your contest or performance? Contact us at info@sparrowcourt.com to start the conversation!</Button>
+            <Paragraph>Want to use ContestApp for your contest or performance? </Paragraph>
+            <Button onPress={() => Linking.openURL("mailto:info@sparrowcourt.com")}>Email info@sparrowcourt.com t oget started!</Button>
           </Card.Content>
           <Card.Actions alignItems='center'>
             <IconButton icon="web" iconColor={theme.colors.primary} onPress={() => Linking.openURL("http://www.sparrowcourt.com")} />
