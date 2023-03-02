@@ -41,9 +41,12 @@
       "name": "Dublin Jerome Performing Arts Center",
       "image": "https://www.ritenour.k12.mo.us/cms/lib/MO01910124/Centricity/ModuleInstance/1466/large/RHS%20grad%20web.jpg",
       "address": "Dublin Jerome Performing Arts Center, Dublin, OH",
-      "map_file": "",
+      "map_file": "https://goo.gl/maps/n9R3WrBdMK6Bi9MV7",
       "description": "The Dublin Festival of Brass is held in March every year. It hosts British-style brass bands from across the Midwest, USA, and beyond. The competition requires bands perform a march, slow melody, and major work. In addition to band performances, there are also some brief solo and ensemble performances.",
-      "link": "https://www.columbusmakesart.com/place/3994-dublin-jerome-high-school-center-for-the-performing-arts"
+      "link": "https://www.columbusmakesart.com/place/3994-dublin-jerome-high-school-center-for-the-performing-arts",
+      "contest_name": "Gateway British Brass Band Championships",
+      "judge_link": "https://www.stlbb.org/rules",
+      "solo_ensemble_link": ""
     },
     "partner_details": [
       {

@@ -307,9 +307,13 @@
     "name": "Ritenour High School",
     "image": "https://www.ritenour.k12.mo.us/cms/lib/MO01910124/Centricity/ModuleInstance/1466/large/RHS%20grad%20web.jpg",
     "address": "9100 St. Charles Rock Rd., St. Louis, MO 63114",
-    "map_file": "",
+    "map_file": "https://goo.gl/maps/jNuj2RwdyKqqqne58",
     "description": "The Gateway British Brass Band Festival is happy to once again be taking place at Ritenour High School in St. Louis, MO. The unparalleled fine arts wing holds several rehearsal rooms, a large performance hall, and lots of opportunity for bands to get together and socialize between sets.",
-    "link": "https://www.ritenour.k12.mo.us/RHS"
+    "link": "https://www.ritenour.k12.mo.us/RHS",
+    "contest_name": "Gateway British Brass Band Championships",
+    "judge_link": "https://www.stlbb.org/rules",
+    "solo_ensemble_link": ""
+    
   },
   "partner_details": [
     {

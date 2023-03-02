@@ -65,7 +65,7 @@ export default function Navbar(props) {
         />
         <Tab.Screen name="Venue" x
           options={{
-            tabBarLabel:'Venue', 
+            tabBarLabel:'Contest', 
             tabBarIcon: ({ color, size }) => (
               <MaterialCommunityIcons name="office-building-marker" color={color} size={24} />
             )
