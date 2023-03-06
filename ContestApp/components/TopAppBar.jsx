@@ -1,7 +1,6 @@
 import * as React from 'react';
 import { Image, ScrollView, TouchableOpacity, View } from 'react-native';
 import { Appbar, Banner, Card, Divider, IconButton, Menu, Paragraph, Title, useTheme } from 'react-native-paper';
-import MaterialCommunityIcons from 'react-native-vector-icons/MaterialCommunityIcons';
 import { useDispatch } from 'react-redux';
 import { useSelector } from 'react-redux';
 import createStyle from '../app/styles';
@@ -22,8 +21,7 @@ export function TopAppBar(props) {
   return (
     <TouchableOpacity>
       <Appbar style={styles.appbar}>
-        <Appbar.Action icon="menu" onPress={() => dispatch(contestSelected(-1))} />
-        <Appbar.Content title={contestData.name} titleStyle={styles.topbarTitle} onPress={() => dispatch(contestSelected(-1))} />
+        <Appbar.Content title={contestData.name} onPress={() => dispatch(contestSelected(-1))} />
       </Appbar>
     </TouchableOpacity>
   )

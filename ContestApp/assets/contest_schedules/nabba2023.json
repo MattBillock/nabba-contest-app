@@ -430,7 +430,7 @@
       "band_logo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/22/band_logo.png",
       "conductor_name": "Kenneth Kroesche",
       "conductor_bio": "Kenneth Kroesche is the Professor of Trombone, Euphonium and Tuba at Oakland University in Rochester, Michigan.  He holds a masters and doctorate of musical arts degree in performance from the University of Michigan, in addition to a Bachelor of Music Education degree from Texas State University. He has appeared as a euphonium soloist with a number of notable ensembles, ranging from the National Symphony Orchestra at the Kennedy Center for the Performing Arts to the U.S. Army Band at the West Point Military Academy. The Washington Post described him as an 'an expert on the instrument.' As an orchestral musician, he is the principal trombonist of the Oakland Symphony Orchestra and the Saginaw Bay Symphony Orchestra. He is a frequent guest musician with the area’s leading ensembles which include the Detroit Symphony, Grand Rapids Symphony, Flint Symphony and Detroit Chamber Winds. In addition, each summer he performs as euphoniumist with the Toledo Symphony Concert Band. In 2009, he formed the Oakland University Brass Band which since its inception has gone on to receive national and international recognition. From 2008-2011, he served as the conductor of the award winning Capital City Brass Band of Lansing, Michigan.",
-      "conductor_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/22/conductor_photo.JPG",
+      "conductor_photo": "",
       "band_section": "first",
       "contact_email": "kroesche@oakland.edu",
       "choice_pieces": [
@@ -626,17 +626,17 @@
       "id": 32,
       "name": "Dublin Silver Brass Band",
       "website": "www.dublinsilverband.com",
-      "band_bio": "The Dublin Silver Band is made up of brass and percussion musicians from all parts of Ohio.  DSB exists as part of the Dublin Community Bands, a 501(c)(3) non-profit community arts organization that features seven different ensembles and over 200 musicians. DSB began its NABBA journey in the Second Section in 2014, placing first in the Second Section in 2015, and moving up to the First Section in 2016.  In 2019 the band is fortunate to have placed first in the First Section, arguably the most crowded and competitive in NABBA. The members of the Dublin Silver Band volunteer their time and talent because of three things they all have in common: a drive to chase perfection, a genuine affection for each other, and a passion for making connections with audiences on an emotional level.  To make these connections, the band commits to performing far more than ordinary concerts, instead telling stories that engage the audience in the musical performance.  It is this approach that has earned the band an international reputation. DSB has performed extensively throughout the Midwest, and has traveled and performed abroad.  In 2016 the band played concerts in Ireland and England before competing in Brass in Concert in Gateshead, England.  In 2020 the band once again traveled to England, competing at the Butlin's Festival. The Dublin Silver Band thanks the leadership of NABBA and all those from here in Huntsville for all the hard work required to put on an event like this, and wishes all the bands the best of luck in the competition.",
-      "band_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/32/band_photo.jpg",
-      "band_logo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/32/band_logo.jpg",
+      "band_bio": "Originally founded in 2008 as the Ohio Brass Band by Dr. Paul Droste and Dr. Patrick Herak, The Dublin Silver Band is made up of brass and percussion musicians from all parts of Ohio.  Since 2010 DSB has existed as part of the Dublin Community Bands, the sponsoring organization of today’s event. Since 2010 the band has transformed from a seasonal band to full time operation.  Also during that time DSB has steadily progressed from its first Second Section participation in North American Brass Band Association Championships in 2014 to placing first in the Second Section in 2015, then moving up to the First Section in 2016, and placing first in the First Section in 2019. The band has also competed regularly in the US Open Championships, winning that event in 2015. The members of the Dublin Silver Band volunteer their time and talent because of three things they all have in common: a drive to chase perfection, a genuine affection for each other, and a passion for making connections with audiences on an emotional level.  To make these connections, the band commits to performing far more than ordinary concerts, instead telling stories that engage the audience in the musical performance.  It is this approach that has earned the band an international reputation. DSB has performed and competed extensively throughout the Midwest, and has traveled and performed abroad.  In 2016 the band played concerts in Ireland and England before competing in Brass in Concert in Gateshead, England.  In 2020 the band once again traveled to England, competing at the Butlins Festival.",
+      "band_photo": "",
+      "band_logo": "",
       "conductor_name": "Tim Jameson",
       "conductor_bio": "Tim Jameson has served as Music Director of the Dublin Silver Band since 2010.  During that time, he has led the band to first place finishes in both the NABBA Second and First Sections. Before his involvement with the Dublin Silver Band, Tim was the Music Director of the Brass Band of Columbus for five years, leading BBC to a first place finish in the NABBA Championship Section in 2006. Mr. Jameson is a graduate of The Ohio State University, where he studied trumpet under Tom Battenberg and conducting under Donald McGinnis, Marshall Haddock, George Hardesty, and Craig Kirchoff. He is also active as an arranger, with works published by Cimarron Music, BVD Press, and 360° Music. Professionally, Tim is Manager of Talent Development for Ariel Corporation in Mount Vernon, Ohio.",
-      "conductor_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/32/conductor_photo.jpg",
+      "conductor_photo": "",
       "band_section": "first",
       "contact_email": "timjameson1@gmail.com",
       "choice_pieces": [
         {
-          "title": "Essay, II Soliloquy",
+          "title": "Essay",
           "composer": "Edward Gregson"
         }
       ],
@@ -788,140 +788,7 @@
   ],
   
   "performance_schedule": {
-    "2023-04-20": [
-      {
-        "band_id": 1000,
-        "band_draw": "session_1",
-        "stage": "Full Schedule",
-        "title": "Band and Solo Rehearsals Open",
-        "performance_times": {
-          "start_timestamp": "2023-04-20T15:30:00.000-05:00",
-          "end_timestamp": "2023-04-20T21:15:00.000-05:00"
-        }
-
-      },
-      {
-        "band_id": 1001,
-        "band_draw": "session_2",
-        "stage": "Full Schedule",
-        "title": "NABBA Board Meeting",
-        "performance_times": {
-          "start_timestamp": "2023-04-20T18:00:00.000-05:00",
-          "end_timestamp": "2023-04-20T21:15:00.000-05:00"
-        }
-      },
-      {
-        "band_id": 1002,
-        "band_draw": "session_3",
-        "stage": "Full Schedule",
-        "title": "Rehearsals close for Thursday",
-        "performance_times": {
-          "start_timestamp": "2023-04-20T21:15:00.000-05:00",
-          "end_timestamp": "2023-04-20T21:16:00.000-05:00"
-        }
-      }
-    ],
     "2023-04-21": [
-      {
-        "band_id": 1003,
-        "band_draw": "session_4",
-        "stage": "Full Schedule",
-        "title": "Solo and Ensemble starts",
-        "performance_times": {
-          "start_timestamp": "2023-04-21T08:00:00.000-05:00",
-          "end_timestamp": "2023-04-21T08:01:00.000-05:00"
-        }
-      },
-      {
-        "band_id": 1004,
-        "band_draw": "session_5",
-        "stage": "Full Schedule",
-        "title": "Vendor area opens",
-        "performance_times": {
-          "start_timestamp": "2023-04-21T09:00:00.000-05:00",
-          "end_timestamp": "2023-04-21T09:01:00.000-05:00"
-        }
-      },
-      {
-        "band_id": 1005,
-        "band_draw": "session_6",
-        "stage": "Full Schedule",
-        "title": "Vandercook Professional Learning Community Meeting (Vendor Area)",
-        "performance_times": {
-          "start_timestamp": "2023-04-21T10:00:00.000-05:00",
-          "end_timestamp": "2023-04-21T10:01:00.000-05:00"
-        }
-      },
-      {
-        "band_id": 1006,
-        "band_draw": "session_7",
-        "stage": "Full Schedule",
-        "title": " Solo & Ensemble Competition Concludes",
-        "performance_times": {
-          "start_timestamp": "2023-04-21T13:00:00.000-05:00",
-          "end_timestamp": "2023-04-21T13:01:00.000-05:00"
-        }
-      },
-      {
-        "band_id": 1007,
-        "band_draw": "session_8",
-        "stage": "Full Schedule",
-        "title": " 1st Section Test Piece (Concert Hall)",
-        "performance_times": {
-          "start_timestamp": "2023-04-21T13:00:00.000-05:00",
-          "end_timestamp": "2023-04-21T13:01:00.000-05:00"
-        }
-      },
-      {
-        "band_id": 1008,
-        "band_draw": "session_9",
-        "stage": "Full Schedule",
-        "title": " 2nd Section Test Piece (Playhouse)",
-        "performance_times": {
-          "start_timestamp": "2023-04-21T14:00:00.000-05:00",
-          "end_timestamp": "2023-04-21T14:01:00.000-05:00"
-        }
-      },
-      {
-        "band_id": 1009,
-        "band_draw": "session_10",
-        "stage": "Full Schedule",
-        "title": "Cornet Clinic w/Rex Richardson (Salon 3)",
-        "performance_times": {
-          "start_timestamp": "2023-04-21T15:00:00.000-05:00",
-          "end_timestamp": "2023-04-21T16:00:00.000-05:00"
-        }
-      },
-      {
-        "band_id": 1010,
-        "band_draw": "session_11",
-        "stage": "Full Schedule",
-        "title": " Vendor area closes for Friday",
-        "performance_times": {
-          "start_timestamp": "2023-04-21T17:30:00.000-05:00",
-          "end_timestamp": "2023-04-21T17:31:00.000-05:00"
-        }
-      },
-      {
-        "band_id": 1011,
-        "band_draw": "session_12",
-        "stage": "Full Schedule",
-        "title": " Championship Test Piece (Concert Hall)",
-        "performance_times": {
-          "start_timestamp": "2023-04-21T17:00:00.000-05:00",
-          "end_timestamp": "2023-04-21T21:40:00.000-05:00"
-        }
-      },
-      {
-        "band_id": 1012,
-        "band_draw": "session_13",
-        "stage": "Full Schedule",
-        "title": "Solo and Ensemble Awards",
-        "performance_times": {
-          "start_timestamp": "2023-04-21T21:40:00.000-05:00",
-          "end_timestamp": "2023-04-21T22:00:00.000-05:00"
-        }
-      },
       {
         "band_id": 6,
         "band_draw": "1_A",
@@ -1168,106 +1035,6 @@
             }
       ],
       "2023-04-22": [
-        {
-          "band_id": 1013,
-          "band_draw": "session_14",
-          "stage": "Full Schedule",
-          "title": "3rd Section (Playhouse)",
-          "performance_times": {
-            "start_timestamp": "2023-04-22T09:00:00.000-05:00",
-            "end_timestamp": "2023-04-22T09:01:00.000-05:00"
-          }
-        },
-        {
-          "band_id": 1014,
-          "band_draw": "session_15",
-          "stage": "Full Schedule",
-          "title": "Vendor area opens",
-          "performance_times": {
-            "start_timestamp": "2023-04-22T09:00:00.000-05:00",
-            "end_timestamp": "2023-04-22T09:01:00.000-05:00"
-          }
-        },
-        {
-          "band_id": 1015,
-          "band_draw": "session_16",
-          "stage": "Full Schedule",
-          "title": "2nd Section Own Choice Piece (Cocnert Hall)",
-          "performance_times": {
-            "start_timestamp": "2023-04-22T09:05:00.000-05:00",
-            "end_timestamp": "2023-04-22T13:05:00.000-05:00"
-          }
-        },
-        {
-          "band_id": 1016,
-          "band_draw": "session_17",
-          "stage": "Full Schedule",
-          "title": "1st Section Own Choice Piece (Cocnert Hall)",
-          "performance_times": {
-            "start_timestamp": "2023-04-22T13:05:00.000-05:00",
-            "end_timestamp": "2023-04-22T17:00:00.000-05:00"
-          }
-        },
-        {
-          "band_id": 1017,
-          "band_draw": "session_18",
-          "stage": "Full Schedule",
-          "title": "Youth Open and Youth 1st Section (Playhouse)",
-          "performance_times": {
-            "start_timestamp": "2023-04-22T13:20:00.000-05:00",
-            "end_timestamp": "2023-04-22T15:30:00.000-05:00"
-          }
-        },
-        {
-          "band_id": 1018,
-          "band_draw": "session_19",
-          "stage": "Full Schedule",
-          "title": "Military Bands Clinic w/ TSgt Ryan Spencer (Playhouse)",
-          "performance_times": {
-            "start_timestamp": "2023-04-22T15:30:00.000-05:00",
-            "end_timestamp": "2023-04-22T16:00:00.000-05:00"
-          }
-        },
-        {
-          "band_id": 1019,
-          "band_draw": "session_20",
-          "stage": "Full Schedule",
-          "title": "Vendor area closes for Saturday",
-          "performance_times": {
-            "start_timestamp": "2023-04-22T17:30:00.000-05:00",
-            "end_timestamp": "2023-04-22T18:00:00.000-05:00"
-          }
-        },
-        {
-          "band_id": 1020,
-          "band_draw": "session_21",
-          "stage": "Full Schedule",
-          "title": "Championship Own Choice Piece (Concert Hall)",
-          "performance_times": {
-            "start_timestamp": "2023-04-22T17:00:00.000-05:00",
-            "end_timestamp": "2023-04-22T21:30:00.000-05:00"
-          }
-        },
-        {
-          "band_id": 1021,
-          "band_draw": "session_22",
-          "stage": "Full Schedule",
-          "title": "Youth Championship (Concert Hall)",
-          "performance_times": {
-            "start_timestamp": "2023-04-22T21:30:00.000-05:00",
-            "end_timestamp": "2023-04-22T22:00:00.000-05:00"
-          }
-        },
-        {
-          "band_id": 1022,
-          "band_draw": "session_23",
-          "stage": "Full Schedule",
-          "title": "Youth Championship (Concert Hall)",
-          "performance_times": {
-            "start_timestamp": "2023-04-22T22:00:00.000-05:00",
-            "end_timestamp": "2023-04-22T22:30:00.000-05:00"
-          }
-        },
         {
           "band_id": 25,
           "band_draw": "3_A",
@@ -1630,7 +1397,7 @@
       "background": "#FFFFFF"
     },
     {
-      "image_src": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/partner_logos/brookwright_music_logo.jpg",
+      "image_src": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/partner_logos%2Fbrookwright_music_logo.jpg",
       "name": "Brookwright Music",
       "link": "https://www.brookwrightmusic.com/",
       "background": "#241f44"
