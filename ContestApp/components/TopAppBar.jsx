@@ -21,6 +21,7 @@ export function TopAppBar(props) {
   return (
     <TouchableOpacity>
       <Appbar style={styles.appbar}>
+        <Appbar.Action icon="menu" onPress={() => dispatch(contestSelected(-1))} />
         <Appbar.Content title={contestData.name} onPress={() => dispatch(contestSelected(-1))} />
       </Appbar>
     </TouchableOpacity>

@@ -48,7 +48,7 @@ export function About(props) {
             <Paragraph />
             <Button onPress={() => Linking.openURL("http://sparrowcourt.com")}>Find us at https://sparrowcourt.com</Button>
             <Paragraph>Want to use ContestApp for your contest or performance? </Paragraph>
-            <Button onPress={() => Linking.openURL("mailto:info@sparrowcourt.com")}>Email info@sparrowcourt.com t oget started!</Button>
+            <Button onPress={() => Linking.openURL("mailto:info@sparrowcourt.com")}>Email info@sparrowcourt.com to get started!</Button>
           </Card.Content>
           <Card.Actions alignItems='center'>
             <IconButton icon="web" iconColor={theme.colors.primary} onPress={() => Linking.openURL("http://www.sparrowcourt.com")} />

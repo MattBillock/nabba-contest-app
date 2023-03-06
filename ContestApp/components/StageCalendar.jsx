@@ -35,7 +35,7 @@ export function StageCalendar(props) {
       borderWidth: 1,
       marginVertical:1,
       borderRadius: 5,
-      height:40
+      height:48
     },
     sectionHeader: {
       paddingTop: 20,
@@ -70,24 +70,29 @@ export function StageCalendar(props) {
     return retval;
   }
 
-  function getBandName(band_name, slot_name) {
-    const section_map = {
-      'C': 'Championship',
-      '1': 'First',
-      '2': 'Second',
-      '3': 'Third',
-      'YO': 'Youth Open',
-      'Y1': 'Youth First',
-      'YC': 'Youth Championship',
-      'O': 'Open',
+  function getBandName(band_name, slot_name, title) {
+    if(title && title != "") {
+      return title;
+    }
+    const section_map = {      
+      'C': 'Championship section',
+      '1': 'First section',
+      '2': 'Second section',
+      '3': 'Third section',
+      'YO': 'Youth Open section',
+      'Y1': 'Youth First section',
+      'YC': 'Youth Championship section',
+      'O': 'Open section',
       'NT': 'Non-Traditional',
       'BC': 'Brass Choir',
-      'EX': 'Exhibition'
+      'EX': 'Exhibition',
+      'B': 'DFoB participant',
     }
+    
     const contest_date = new Date(contestDates[0])
     if(contest_date > Date.now()) {
       let split_arr = slot_name.split('_');
-      let constructed_band_name = section_map[split_arr[0]] + " section band " + split_arr[1]
+      let constructed_band_name = section_map[split_arr[0]] + " band " + split_arr[1]
       return constructed_band_name;
     }
     else{
@@ -132,7 +137,7 @@ export function StageCalendar(props) {
     let schedule = performanceSchedule[venue];
     contestDates.forEach(date => {
       let objectForDate = {
-        title: date,
+        title: moment(date).format("dddd, MMMM Do YYYY"),
         data: schedule[date],
       }
       result_array.push(objectForDate)
@@ -146,13 +151,13 @@ export function StageCalendar(props) {
         sections={buildListFormat()} 
         renderItem={(item) => {
           let band = getBandDetailsById(item.item.band_id);
-          let band_name = getBandName(band.name, item.item.band_draw)
+          let band_name = getBandName(band.name, item.item.band_draw, item.item.title)
           const options = { hour: "numeric", minute: "2-digit" };
           let start_time = new Date(item.item.performance_times.start_timestamp)
           return (
             //<TouchableOpacity>
               <Card elevated style={styles.card}>
-                <Card.Title title={moment(start_time).format('LT') + " - " + band_name} titleNumberOfLines={1} />
+                <Card.Title title={moment(start_time).format('LT') + " - " + band_name} titleNumberOfLines={2} />
                 
               </Card>
               
