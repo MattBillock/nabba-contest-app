@@ -42,14 +42,14 @@ export function StageCalendar(props) {
       paddingLeft: 10,
       paddingRight: 10,
       paddingBottom: 2,
-      fontSize: 20,
+      fontSize: '20',
       fontWeight: 'bold',
       backgroundColor: theme.colors.onPrimaryContainer,
       color: theme.colors.onPrimary
     },
     item: {
       padding: 10,
-      fontSize: 18,
+      fontSize: '18',
       height: 44,
     },
   });

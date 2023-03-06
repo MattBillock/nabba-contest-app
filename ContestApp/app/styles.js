@@ -41,7 +41,7 @@ export default function createStyle() {
       //padding: "50px"
     },
     topbarTitle: {
-      fontSize: '5vw',
+      fontSize: '4vw',
       allowFontScaling: true,
     },
     logo: {
