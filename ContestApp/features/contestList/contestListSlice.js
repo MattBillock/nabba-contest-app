@@ -1,5 +1,6 @@
 import { createAsyncThunk, createSlice } from '@reduxjs/toolkit'
 
+//const CONTEST_LIST_URL = "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/dev/contest_list_mapping_dev.json"
 const CONTEST_LIST_URL = "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/contest_list_mapping.json"
 
 const initialState = {

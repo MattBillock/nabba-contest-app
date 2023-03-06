@@ -40,6 +40,10 @@ export default function createStyle() {
       //borderRadius: '5px',
       //padding: "50px"
     },
+    topbarTitle: {
+      fontSize: '5vw',
+      allowFontScaling: true,
+    },
     logo: {
       resizeMode: 'stretch',
       width: 300,

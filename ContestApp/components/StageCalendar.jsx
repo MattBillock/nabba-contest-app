@@ -35,7 +35,7 @@ export function StageCalendar(props) {
       borderWidth: 1,
       marginVertical:1,
       borderRadius: 5,
-      height:40
+      height:48
     },
     sectionHeader: {
       paddingTop: 20,
@@ -70,58 +70,37 @@ export function StageCalendar(props) {
     return retval;
   }
 
-  function getBandName(band_name, slot_name) {
+  function getBandName(band_name, slot_name, title) {
     const section_map = {
-      'C': 'Championship',
-      '1': 'First',
-      '2': 'Second',
-      '3': 'Third',
-      'YO': 'Youth Open',
-      'Y1': 'Youth First',
-      'YC': 'Youth Championship',
-      'O': 'Open',
+      'C': 'Championship section',
+      '1': 'First section',
+      '2': 'Second section',
+      '3': 'Third section',
+      'YO': 'Youth Open section',
+      'Y1': 'Youth First section',
+      'YC': 'Youth Championship section',
+      'O': 'Open section',
       'NT': 'Non-Traditional',
       'BC': 'Brass Choir',
-      'EX': 'Exhibition'
+      'EX': 'Exhibition',
+      'B': 'DFoB participant',
     }
     const contest_date = new Date(contestDates[0])
-    if(contest_date > Date.now()) {
-      let split_arr = slot_name.split('_');
-      let constructed_band_name = section_map[split_arr[0]] + " section band " + split_arr[1]
-      return constructed_band_name;
+    if(band_name != "not_found" && !slot_name.includes("session")) {
+      if(contest_date > Date.now()) {
+        let split_arr = slot_name.split('_');
+        let constructed_band_name = section_map[split_arr[0]] + " band " + split_arr[1]
+        return constructed_band_name;
+      }
+      else{
+        return band_name
+      }
     }
     else{
-      return band_name
+      return title;
     }
   }
 
-  function getAgenda(itemList) {
-    return (
-      <Agenda
-        // The list of items that have to be displayed in agenda. If you want to render item as empty date
-        // the value of date key has to be an empty array []. If there exists no value for date key it is
-        // considered that the date in question is not yet loaded
-        items={performanceSchedule[venue]}
-        // Initially selected day
-        selected={'2023-04-21'}
-        // Minimum date that can be selected, dates before minDate will be grayed out. Default = undefined
-        minDate={'2023-04-21'}
-        // Maximum date that can be selected, dates after maxDate will be grayed out. Default = undefined
-        maxDate={'2023-04-22'}
-        // Max amount of months allowed to scroll to the past. Default = 50
-        pastScrollRange={0}
-        // Max amount of months allowed to scroll to the future. Default = 50
-        futureScrollRange={0}
-        rowHasChanged={(r1, r2) => {
-          return r1.band_draw !== r2.band_draw;
-        }}
-        // Specify how each item should be rendered in agenda
-        
-
-      />
-    );
-  }
-  let content = getAgenda(props.performanceSchedule);
   let moment = require('moment');
   //apiCalendar.listUpcomingEvents(100).then(({result}:any) => {
   //  setContestEvents(result)
@@ -132,10 +111,12 @@ export function StageCalendar(props) {
     let schedule = performanceSchedule[venue];
     contestDates.forEach(date => {
       let objectForDate = {
-        title: date,
+        title: moment(date).format("dddd, MMMM Do YYYY"),
         data: schedule[date],
       }
-      result_array.push(objectForDate)
+      if(objectForDate.data.length > 0) {
+        result_array.push(objectForDate);
+      }
     })
     return result_array;
   }
@@ -146,14 +127,13 @@ export function StageCalendar(props) {
         sections={buildListFormat()} 
         renderItem={(item) => {
           let band = getBandDetailsById(item.item.band_id);
-          let band_name = getBandName(band.name, item.item.band_draw)
+          let band_name = getBandName(band.name, item.item.band_draw, item.item.title)
           const options = { hour: "numeric", minute: "2-digit" };
           let start_time = new Date(item.item.performance_times.start_timestamp)
           return (
             //<TouchableOpacity>
               <Card elevated style={styles.card}>
-                <Card.Title title={moment(start_time).format('LT') + " - " + band_name} titleNumberOfLines={1} />
-                
+                <Card.Title title={moment(start_time).format('LT') + " - " + band_name} titleNumberOfLines={2} titleStyle={{overflow:'scroll'}} />
               </Card>
               
             //</TouchableOpacity>
