@@ -13,6 +13,11 @@
       "contact_email": "vicepresident@chicagobrassband.org",
       "choice_pieces": [
         {
+          "title": "Titan's Progress",
+          "composer": "Hermann Pallhuber",
+          "performance_slot": "C_G"
+        },
+        {
           "title": "A Gabrieli Fantasy",
           "composer": "Bert Appermont",
           "performance_slot": "C_DD"
@@ -35,6 +40,11 @@
       "contact_email": "treasurer@illinoisbrassband.org",
       "choice_pieces": [
         {
+          "title": "The Year of the Dragon",
+          "composer": "Philip Sparke",
+          "performance_slot": "1_D"
+        },
+        {
           "title": "Music of the Spheres",
           "composer": "Philip Sparke",
           "performance_slot": "1_AA"
@@ -55,6 +65,11 @@
       "band_section": "third",
       "contact_email": "mcabbconductor@gmail.com",
       "choice_pieces": [
+        {
+          "title": "Sinfonietta No. 4",
+          "composer": "Etienne Crausaz",
+          "performance_slot": "3_E"
+        },
         {
           "title": "Viking Age",
           "composer": "Thierry Deleruyelle",
@@ -77,6 +92,11 @@
       "contact_email": "",
       "choice_pieces": [
         {
+          "title": "Titan's Progress",
+          "composer": "Hermann Pallhuber",
+          "performance_slot": "C_I"
+        },
+        {
           "title": "On the Shoulders of Giants",
           "composer": "Peter Graham",
           "performance_slot": "C_AA"
@@ -97,6 +117,11 @@
       "band_section": "second",
       "contact_email": "webmaster@mcbb.org",
       "choice_pieces": [
+        {
+          "title": "Purcell Variations",
+          "composer": "Kenneth Downie",
+          "performance_slot": "2_F"
+        },
         {
           "title": "The Patriots",
           "composer": "Jan de Haan",
@@ -119,6 +144,11 @@
       "contact_email": "mho@coloradobrass.org",
       "choice_pieces": [
         {
+          "title": "The Year of the Dragon",
+          "composer": "Philip Sparke",
+          "performance_slot": "1_A"
+        },
+        {
           "title": "The Devil and the Deep Blue Sea",
           "composer": "Derek Bourgeois",
           "performance_slot": "1_CC"
@@ -139,6 +169,11 @@
       "band_section": "first",
       "contact_email": "princetonbrassband@gmail.com",
       "choice_pieces": [
+        {
+          "title": "The Year of the Dragon",
+          "composer": "Philip Sparke",
+          "performance_slot": "1_H"
+        },
         {
           "title": "Variations on an Enigma",
           "composer": "Philip Sparke",
@@ -182,6 +217,11 @@
       "contact_email": "dallasbrassband@gmail.com",
       "choice_pieces": [
         {
+          "title": "Titan's Progress",
+          "composer": "Hermann Pallhuber",
+          "performance_slot": "C_F"
+        },
+        {
           "title": "Journey of the Lone Wolf",
           "composer": "Simon Dobson",
           "performance_slot": "C_CC"
@@ -202,6 +242,11 @@
       "band_section": "first",
       "contact_email": "1bbtubas@gmail.com",
       "choice_pieces": [
+        {
+          "title": "The Year of the Dragon",
+          "composer": "Philip Sparke",
+          "performance_slot": "1_C"
+        },
         {
           "title": "From San Marco Quarter",
           "composer": "Joop van Dijk",
@@ -224,6 +269,11 @@
       "contact_email": "admin@crossroadsbrass.org",
       "choice_pieces": [
         {
+          "title": "Sinfonietta No. 4",
+          "composer": "Etienne Crausaz",
+          "performance_slot": "3_G"
+        },
+        {
           "title": "Rise Again",
           "composer": "Trent Phillip Taylor",
           "performance_slot": "3_G"
@@ -244,6 +294,11 @@
       "conductor_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/12/conductor_photo.jpg",
       "contact_email": "massanuttenbrassband@gmail.com",
       "choice_pieces": [
+        {
+          "title": "Purcell Variations",
+          "composer": "Kenneth Downie",
+          "performance_slot": "2_C"
+        },
         {
           "title": "Kingdom of Dragons",
           "composer": "Philip Harper",
@@ -266,6 +321,11 @@
       "contact_email": "admin@sfband.org",
       "choice_pieces": [
         {
+          "title": "Purcell Variations",
+          "composer": "Kenneth Downie",
+          "performance_slot": "2_I"
+        },
+        {
           "title": "The Patriots",
           "composer": "Jan de Haan",
           "performance_slot": "2_FF"
@@ -287,6 +347,11 @@
       "contact_email": "daniel.oehrle@ge.com",
       "choice_pieces": [
         {
+          "title": "Purcell Variations",
+          "composer": "Kenneth Downie",
+          "performance_slot": "2_E"
+        },
+        {
           "title": "Fantasy For Brass Band",
           "composer": "Malcolm Arnold",
           "performance_slot": "2_DD"
@@ -306,6 +371,11 @@
       "band_section": "first",
       "contact_email": "director@trianglebrass.org",
       "choice_pieces": [
+        {
+          "title": "The Year of the Dragon",
+          "composer": "Philip Sparke",
+          "performance_slot": "1_F"
+        },
         {
           "title": "Chivalry",
           "composer": "Martin Ellerby",
@@ -329,6 +399,11 @@
       "contact_email": "oldcrownbrassband@gmail.com",
       "choice_pieces": [
         {
+          "title": "Purcell Variations",
+          "composer": "Kenneth Downie",
+          "performance_slot": "2_D"
+        },
+        {
           "title": "The Patriots",
           "composer": "Jan de Haan",
           "performance_slot": "2_BB"
@@ -349,6 +424,11 @@
       "band_section": "championship",
       "contact_email": "info@atlanticbrassband.org",
       "choice_pieces": [
+        {
+          "title": "Titan's Progress",
+          "composer": "Hermann Pallhuber",
+          "performance_slot": "C_B"
+        },
         {
           "title": "Saints Triumphant",
           "composer": "Philip Wilby",
@@ -371,6 +451,11 @@
       "contact_email": "ricobelotti@comcast.net",
       "choice_pieces": [
         {
+          "title": "Purcell Variations",
+          "composer": "Kenneth Downie",
+          "performance_slot": "2_H"
+        },
+        {
           "title": "Eternal Home",
           "composer": "Dean Jones",
           "performance_slot": "2_GG"
@@ -383,14 +468,19 @@
       "name": "James Madison University Brass Band",
       "website": "http://www.jmubrassband.org/",
       "band_bio": "Under the direction of Professor Kevin Stees, the JMU Brass Band is one of the most successful collegiate brass bands in the world today. Formed by Stees in the Fall of 2000, the band was named the North American Brass Band Association 1st Section Champion in 2004 and 2005 and was the 2006, 2007, 2010, 2016, 2019, and 2022  NABBA Championship Section Runner-up. The group maintains an active schedule, performing regularly throughout the academic year, and has been a featured ensemble at numerous festivals and conferences including the American Trombone Workshop; Virginia Music Educators Conference; Great American Brass Band Festival; U.S. Army Tuba Euphonium Workshop, and the Southeast Regional Tuba Euphonium Conference. In the summer of 2008, the ensemble embarked on a concert tour of England and Wales sharing the stage with many outstanding bands including the No. 1 ranked brass band, Cory Band. In 2009, the group became the first brass band to perform a full length concert at the John F. Kennedy Center for the Performing Arts in Washington, D.C. In 2012, the band traveled to Linz, Austria to perform as a featured ensemble at the International Tuba Euphonium Conference. Always interested in showcasing new repertoire, the band has given the North American premiere of over a dozen major works for brass band. The band performed as a featured ensemble at the 2017 Royal Northern College of Music Brass Band Festival in Manchester, England. This past summer, the band competed in the Concert Division of the 2022 World Music Contest in Kerkrade, The Netherlands. The JMU Brass Band is currently ranked in the top 100 brass bands worldwide.",
-      "band_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/19/band_photo.jpg",
+      "band_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/19/band_photo.jpeg",
       "band_logo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/19/band_logo.jpg",
       "conductor_name": "Kevin stees",
       "conductor_bio": "Kevin Stees, now in his 38th year as Professor of Tuba and Euphonium at James Madison University, leads an active career as a soloist, chamber musician, conductor, and music educator. He has been a finalist in several solo competitions and was a prize winner in the Second International Brass Congress Tuba Solo Competition. Kevin has presented solo and chamber music performances at numerous universities, conferences, music festivals, and workshops throughout the United States. In addition to performances on tuba, he is very active as the conductor of the internationally recognized James Madison University Brass Band, having led the ensemble in performances at the John F. Kennedy Center for the Performing Arts in Washington, D.C., Brucknerhaus Concert Hall in Linz, Austria, Royal North College of Music in Manchester, England and the World Music Contest in Kerkrade, The Netherlands,  as well as music venues throughout England, Wales, and Austria. Kevin is also the conductor of the award winning Massanutten Brass Band.",
-      "conductor_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/19/conductor_photo.jpg",
+      "conductor_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/19/conductor_photo.jpeg",
       "band_section": "championship",
       "contact_email": "steeskj@jmu.edu",
       "choice_pieces": [
+        {
+          "title": "Titan's Progress",
+          "composer": "Hermann Pallhuber",
+          "performance_slot": "C_E"
+        },
         {
           "title": "Perihelion: Closer to the Sun",
           "composer": "Philip Sparke",
@@ -413,6 +503,11 @@
       "contact_email": "donations@georgiabrassband.com",
       "choice_pieces": [
         {
+          "title": "Titan's Progress",
+          "composer": "Hermann Pallhuber",
+          "performance_slot": "C_A"
+        },
+        {
           "title": "Dynasty",
           "composer": "Peter Graham",
           "performance_slot": "C_FF"
@@ -433,6 +528,11 @@
       "band_section": "third",
       "contact_email": "pherak@nabba.org",
       "choice_pieces": [
+        {
+          "title": "Sinfonietta No. 4",
+          "composer": "Etienne Crausaz",
+          "performance_slot": "3_B"
+        },
         {
           "title": "Saint-Saëns Variations",
           "composer": "Philip Sparke",
@@ -455,6 +555,11 @@
       "contact_email": "kroesche@oakland.edu",
       "choice_pieces": [
         {
+          "title": "The Year of the Dragon",
+          "composer": "Philip Sparke",
+          "performance_slot": "1_B"
+        },
+        {
           "title": "Heroes",
           "composer": "Bruce Broughton",
           "performance_slot": "1_FF"
@@ -475,6 +580,11 @@
       "band_section": "third",
       "contact_email": "cwthomas@jsu.edu",
       "choice_pieces": [
+        {
+          "title": "Sinfonietta No. 4",
+          "composer": "Etienne Crausaz",
+          "performance_slot": "3_C"
+        },
         {
           "title": "Images for Brass",
           "composer": "Stephen Bulla",
@@ -518,6 +628,11 @@
       "contact_email": "donr@romanfestivalbrass.org",
       "choice_pieces": [
         {
+          "title": "Sinfonietta No. 4",
+          "composer": "Etienne Crausaz",
+          "performance_slot": "3_A"
+        },
+        {
           "title": "Dimensions",
           "composer": "Peter Graham",
           "performance_slot": "3_A"
@@ -538,6 +653,11 @@
       "band_section": "first",
       "contact_email": "brassband@arkansasmusicworks.com",
       "choice_pieces": [
+        {
+          "title": "The Year of the Dragon",
+          "composer": "Philip Sparke",
+          "performance_slot": "1_G"
+        },
         {
           "title": "Coventry Variations",
           "composer": "Bramwell Tovey",
@@ -560,6 +680,11 @@
       "contact_email": "fcbb@fcbb.net",
       "choice_pieces": [
         {
+          "title": "Titan's Progress",
+          "composer": "Hermann Pallhuber",
+          "performance_slot": "C_D"
+        },
+        {
           "title": "Journey of the Lone Wolf",
           "composer": "Simon Dobson",
           "performance_slot": "C_GG"
@@ -580,6 +705,11 @@
       "band_section": "third",
       "contact_email": "helen@fcbb.net",
       "choice_pieces": [
+        {
+          "title": "Sinfonietta No. 4",
+          "composer": "Etienne Crausaz",
+          "performance_slot": "3_F"
+        },
         {
           "title": "The Dark Side of the Moon",
           "composer": "Paul Lovatt-Cooper",
@@ -602,6 +732,11 @@
       "contact_email": "barry@bocaner.net",
       "choice_pieces": [
         {
+          "title": "Titan's Progress",
+          "composer": "Hermann Pallhuber",
+          "performance_slot": "C_C"
+        },
+        {
           "title": "Earthrise",
           "composer": "Nigel Clarke",
           "performance_slot": "C_HH"
@@ -622,6 +757,11 @@
       "conductor_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/30/conductor_photo.jpg",
       "contact_email": "bbcfpresident@gmail.com",
       "choice_pieces": [
+        {
+          "title": "Titan's Progress",
+          "composer": "Hermann Pallhuber",
+          "performance_slot": "C_H"
+        },
         {
           "title": "Fraternity",
           "composer": "Thierry Deleruyelle",
@@ -644,6 +784,11 @@
       "contact_email": "charleswpage@gmail.com",
       "choice_pieces": [
         {
+          "title": "The Year of the Dragon",
+          "composer": "Philip Sparke",
+          "performance_slot": "1_I"
+        },
+        {
           "title": "Spectrum",
           "composer": "Gilbert Vinter",
           "performance_slot": "1_II"
@@ -664,6 +809,11 @@
       "band_section": "first",
       "contact_email": "timjameson1@gmail.com",
       "choice_pieces": [
+        {
+          "title": "The Year of the Dragon",
+          "composer": "Philip Sparke",
+          "performance_slot": "1_E"
+        },
         {
           "title": "Essay, II Soliloquy",
           "composer": "Edward Gregson",
@@ -686,6 +836,11 @@
       "contact_email": "kent.eversmeyer@brassbandofhuntsville.com",
       "choice_pieces": [
         {
+          "title": "Purcell Variations",
+          "composer": "Kenneth Downie",
+          "performance_slot": "2_A"
+        },
+        {
           "title": "Brass Triumphant",
           "composer": "Gareth Wood",
           "performance_slot": "2_CC"
@@ -706,6 +861,11 @@
       "band_section": "second",
       "contact_email": "stlouisbrassband@gmail.com",
       "choice_pieces": [
+        {
+          "title": "Purcell Variations",
+          "composer": "Kenneth Downie",
+          "performance_slot": "2_G"
+        },
         {
           "title": "The Raid",
           "composer": "Oliver Waespi",
@@ -728,6 +888,11 @@
       "contact_email": "tampabrassband@gmail.com",
       "choice_pieces": [
         {
+          "title": "Purcell Variations",
+          "composer": "Kenneth Downie",
+          "performance_slot": "2_B"
+        },
+        {
           "title": "Kingdom of Dragons",
           "composer": "Philip Harper",
           "performance_slot": "2_HH"
@@ -748,6 +913,11 @@
       "band_section": "third",
       "contact_email": "jvickers@ecok.edu",
       "choice_pieces": [
+        {
+          "title": "Sinfonietta No. 4",
+          "composer": "Etienne Crausaz",
+          "performance_slot": "3_D"
+        },
         {
           "title": "Dark Side of the Moon",
           "composer": "Paul Lovatt-Cooper",
@@ -770,6 +940,11 @@
       "contact_email": "youthband@trianglebrass.org",
       "choice_pieces": [
         {
+          "title": "Saga of Tyrfing",
+          "composer": "Jacob Vilhelm Larsen",
+          "performance_slot": "YC_A"
+        },
+        {
           "title": "Turris Fortissima",
           "composer": "Steven Ponsford",
           "performance_slot": "YC_A"
@@ -790,6 +965,11 @@
       "band_section": "youth_first",
       "contact_email": "youthband@trianglebrass.org",
       "choice_pieces": [
+        {
+          "title": "The Seasons",
+          "composer": "Philip Wilby",
+          "performance_slot": "Y1_A"
+        },
         {
           "title": "Corineus",
           "composer": "Christopher Bond",
