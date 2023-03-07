@@ -1,6 +1,6 @@
 
 import * as React from 'react';
-import { StyleSheet,  View, FlatList, Linking, Dimensions, ImageBackground, ScrollView } from "react-native";
+import { StyleSheet,  View, FlatList, Linking, Dimensions, Image, ScrollView } from "react-native";
 import { useState } from "react";
 
 import { Avatar, Card, Text, Button, Chip, FAB, IconButton, Paragraph, Surface, Title, TouchableRipple, useTheme } from 'react-native-paper';
@@ -61,8 +61,10 @@ export function BandDetails(props) {
       <Card style={styles.card} key={activeBandId + "-band"}>
         <Card.Cover source={{ uri: item.band_logo }} resizeMode={'contain'} />
         <Card.Title titleNumberOfLines={1}>{item.name}</Card.Title>
+        <Card.Cover source={{ uri: item.band_photo }} resizeMode={'contain'} />
         <Card.Content>
           <Text variant="bodyLarge">{item.band_bio}</Text>
+          <Image source={{uri: item.band_photo}}></Image>
         </Card.Content>
 
         <Card.Actions alignItems='center'>

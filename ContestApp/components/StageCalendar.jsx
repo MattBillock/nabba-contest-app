@@ -140,7 +140,9 @@ export function StageCalendar(props) {
         title: moment(date).format("dddd, MMMM Do YYYY"),
         data: schedule[date],
       }
-      result_array.push(objectForDate)
+      if(objectForDate.data.length > 0) {
+        result_array.push(objectForDate);
+      }
     })
     return result_array;
   }
