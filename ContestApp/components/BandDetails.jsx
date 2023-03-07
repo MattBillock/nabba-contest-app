@@ -64,7 +64,6 @@ export function BandDetails(props) {
         <Card.Cover source={{ uri: item.band_photo }} resizeMode={'contain'} />
         <Card.Content>
           <Text variant="bodyLarge">{item.band_bio}</Text>
-          <Image source={{uri: item.band_photo}}></Image>
         </Card.Content>
 
         <Card.Actions alignItems='center'>

@@ -705,13 +705,13 @@
     {
       "id": 39,
       "name": "East Central University Brass Band",
-      "website": "",
+      "website": "https://www.ecok.edu/academics/colleges-and-schools/college-liberal-arts-and-social-sciences/school-fine-arts/department-performing-arts/music-program/ensembles/brass",
       "band_bio": "The East Central University Brass Band was founded in January 2019 and is the only collegiate British-style brass band in the state of Oklahoma. The group performs frequently in the Ada, Oklahoma area and beyond. The band has performed at the 2019 Gateway Brass Band Festival in St Louis, the OkMEA Fall 2021 conference, and the South Central Regional Tuba-Euphonium Conference at Oklahoma State University. The group has also performed benefit concerts for Mama T’s Homeless Shelter in Ada, Oklahoma and performed at local elementary schools and churches. They made their NABBA debut in April 2022.",
-      "band_photo": "",
-      "band_logo": "",
+      "band_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/39/band_photo.jpg",
+      "band_logo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/39/band_logo.jpg",
       "conductor_name": "Jace T. Vickers",
       "conductor_bio": "Dr Jace T. Vickers is a dynamic performer and educator in demand throughout the US and abroad. Dr Vickers is a rare musician equally at home on both euphonium and tuba; accomplishments on euphonium include performances with the Colorado Symphony, award-winning performances with the OU Tuba-Euphonium Quartet, and solo appearances at the 2019 CMS International Conference in Ghent, Belgium. Notable accomplishments on tuba include Championship-winning performances at the North American Brass Band Championships in 2022 and a featured solo performance at the 2022 South Central Regional Tuba-Euphonium Conference at Oklahoma State University. As an arts education leader, Dr Vickers currently serves as Chair of the Department of Performing Arts, Assistant Director of Bands, and Assistant Professor of Music at East Central University in Ada, Oklahoma. Dr Vickers’ students have placed in competitions such as MTNA Competitions, the ECU Concerto Competition, the OkMEA Intercollegiate Honor Band, and have won positions with drum & bugle corps such as the Academy Drum & Bugle Corp, the Guardians Drum & Bugle Corp, the Troopers Drum & Bugle Corp, and the Cadets Drum & Bugle Corp. His students have also gone on to successful graduate study in the fields of music performance and conducting. Dr Vickers is a Mercer & Barker Performing Artist performing exclusively on Mercer & Barker tuba, euphonium, and baritone mouthpieces.",
-      "conductor_photo": "",
+      "conductor_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/39/conductor_photo.jpg",
       "band_section": "third",
       "contact_email": "jvickers@ecok.edu",
       "choice_pieces": [
