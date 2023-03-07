@@ -14,7 +14,8 @@
       "choice_pieces": [
         {
           "title": "A Gabrieli Fantasy",
-          "composer": "Bert Appermont"
+          "composer": "Bert Appermont",
+          "performance_slot": "C_DD"
         }
       ],
       "band_section": "championship",
@@ -35,7 +36,8 @@
       "choice_pieces": [
         {
           "title": "Music of the Spheres",
-          "composer": "Philip Sparke"
+          "composer": "Philip Sparke",
+          "performance_slot": "1_AA"
         }
       ],
       "contest_draw_identifiers": ["1_D","1_AA"]
@@ -55,7 +57,8 @@
       "choice_pieces": [
         {
           "title": "Viking Age",
-          "composer": "Thierry Deleruyelle"
+          "composer": "Thierry Deleruyelle",
+          "performance_slot": "3_E"
         }
       ],
       "contest_draw_identifiers": ["3_E"]
@@ -75,7 +78,8 @@
       "choice_pieces": [
         {
           "title": "On the Shoulders of Giants",
-          "composer": "Peter Graham"
+          "composer": "Peter Graham",
+          "performance_slot": "C_AA"
         }
       ],
       "contest_draw_identifiers": ["C_I","C_AA"]
@@ -95,7 +99,8 @@
       "choice_pieces": [
         {
           "title": "The Patriots",
-          "composer": "Jan de Haan"
+          "composer": "Jan de Haan",
+          "performance_slot": "2_AA"
         }
       ],
       "contest_draw_identifiers": ["2_F","2_AA"]
@@ -115,7 +120,8 @@
       "choice_pieces": [
         {
           "title": "The Devil and the Deep Blue Sea",
-          "composer": "Derek Bourgeois"
+          "composer": "Derek Bourgeois",
+          "performance_slot": "1_CC"
         }
       ],
       "contest_draw_identifiers": ["1_A","1_CC"]
@@ -135,7 +141,8 @@
       "choice_pieces": [
         {
           "title": "Variations on an Enigma",
-          "composer": "Philip Sparke"
+          "composer": "Philip Sparke",
+          "performance_slot": "1_GG"
         }
       ],
       "contest_draw_identifiers": ["1_H","1_GG"]
@@ -176,7 +183,8 @@
       "choice_pieces": [
         {
           "title": "Journey of the Lone Wolf",
-          "composer": "Simon Dobson"
+          "composer": "Simon Dobson",
+          "performance_slot": "C_CC"
         }
       ],
       "contest_draw_identifiers": ["C_F","C_CC"]
@@ -196,7 +204,8 @@
       "choice_pieces": [
         {
           "title": "From San Marco Quarter",
-          "composer": "Joop van Dijk"
+          "composer": "Joop van Dijk",
+          "performance_slot": "1_BB"
         }
       ],
       "contest_draw_identifiers": ["1_C","1_BB"]
@@ -216,7 +225,8 @@
       "choice_pieces": [
         {
           "title": "Rise Again",
-          "composer": "Trent Phillip Taylor"
+          "composer": "Trent Phillip Taylor",
+          "performance_slot": "3_G"
         }
       ],
       "contest_draw_identifiers": ["3_G"]
@@ -236,7 +246,8 @@
       "choice_pieces": [
         {
           "title": "Kingdom of Dragons",
-          "composer": "Philip Harper"
+          "composer": "Philip Harper",
+          "performance_slot": "2_EE"
         }
       ],
       "contest_draw_identifiers": ["2_C","2_EE"]
@@ -256,7 +267,8 @@
       "choice_pieces": [
         {
           "title": "The Patriots",
-          "composer": "Jan de Haan"
+          "composer": "Jan de Haan",
+          "performance_slot": "2_FF"
         }
       ],
       "contest_draw_identifiers": ["2_I","2_FF"]
@@ -276,7 +288,8 @@
       "choice_pieces": [
         {
           "title": "Fantasy For Brass Band",
-          "composer": "Malcolm Arnold"
+          "composer": "Malcolm Arnold",
+          "performance_slot": "2_DD"
         }
       ],
       "contest_draw_identifiers": ["2_E","2_DD"]
@@ -295,7 +308,8 @@
       "choice_pieces": [
         {
           "title": "Chivalry",
-          "composer": "Martin Ellerby"
+          "composer": "Martin Ellerby",
+          "performance_slot": "1_EE"
         }
       ],
       "conductor_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/15/conductor_photo.jpg",
@@ -316,7 +330,8 @@
       "choice_pieces": [
         {
           "title": "The Patriots",
-          "composer": "Jan de Haan"
+          "composer": "Jan de Haan",
+          "performance_slot": "2_BB"
         }
       ],
       "contest_draw_identifiers": ["2_D","2_BB"]
@@ -336,7 +351,8 @@
       "choice_pieces": [
         {
           "title": "Saints Triumphant",
-          "composer": "Philip Wilby"
+          "composer": "Philip Wilby",
+          "performance_slot": "C_EE"
         }
       ],
       "contest_draw_identifiers": ["C_B","C_EE"]
@@ -356,7 +372,8 @@
       "choice_pieces": [
         {
           "title": "Eternal Home",
-          "composer": "Dean Jones"
+          "composer": "Dean Jones",
+          "performance_slot": "2_GG"
         }
       ],
       "contest_draw_identifiers": ["2_H","2_GG"]
@@ -376,7 +393,8 @@
       "choice_pieces": [
         {
           "title": "Perihelion: Closer to the Sun",
-          "composer": "Philip Sparke"
+          "composer": "Philip Sparke",
+          "performance_slot": "C_BB"
         }
       ],
       "contest_draw_identifiers": ["C_E","C_BB"]
@@ -388,15 +406,16 @@
       "band_bio": "Hailed as 'a major force in the North American brass banding world,' the Georgia Brass Band has been entertaining audiences since its founding in 1999. The band is made up of Atlanta-area professional and avid amateur musicians, all of whom volunteer their time and talents to the band and commit to a year-round schedule of rehearsals and performances. The Georgia Brass Band is proud to preserve and advance the rich tradition of the British-style brass band. The band seeks to entertain and educate its audiences, as well as inspire brass players of all ages and instill an appreciation for brass banding. The Georgia Brass Band has performed at concert halls, churches, and universities throughout the state of Georgia. The band has also hit the road and performed in Alabama, Tennessee, Kentucky, Indiana, North Carolina, Massachusetts, and Vermont. The band has been featured at numerous prestigious festivals and conferences including the International Euphonium Institute, the Trumpet Festival of the Southeast, the US Army Tuba/Euphonium Conference, the Southeast Regional Tuba/Euphonium Conference, the Atlanta Trumpet Festival, the International Trumpet Guild Conference, the International Trombone Festival, Kennesaw State University’s Brass Blast, the Deep South Brass Band Festival, the Great American Brass Band Festival, and the Georgia Music Educators Association Conference. The band has been the subject of feature articles in both the Atlanta Journal-Constitution and the Louisville Courier Journal, and several of the band’s live concert performances have been aired on WABE-FM’s Atlanta Music Scene. Over the years the Georgia Brass Band has been privileged to perform with many of the world’s leading brass soloists. Past band programs have featured Scott Hartman, Patrick Sheridan, David Zerkel, Thomas Ruedi, Jukka Myllys, Demondrae Thurman, Matthew van Emmerik, Vincent DiMartino, Thomas Hooten, Christopher Martin, David Childs, Richard Marshall, Colin Williams, Chris Gekker, Joe Gransden, Ingrid Jensen, Brett Baker, Allen Vizzutti, Charles Vernon, Mike Roylance, Rex Richardson, Jose Sibaja, Joanna Ross Hersey, Steven Mead, and Philip Smith. The Georgia Brass Band has earned a reputation for musical excellence through its successes at the annual North American Brass Band Championships. In 2022 the band earned 4<sup>th</sup> place, its highest placement in the Championship section.  The band’s dynamic performances have garnered favorable reviews in both national and international brass publications such as Brass Band Bridge, British Bandsman, The Brass Herald, and 4barsrest.com. The band has scored victories in two different divisions at the Championships and has established itself as one of the finest brass bands in the United States.",
       "band_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/20/band_photo.jpg",
       "band_logo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/20/band_logo.jpg",
-      "conductor_name": "",
+      "conductor_name": "Colin Holman",
       "conductor_bio": "",
-      "conductor_photo": "",
+      "conductor_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/20/conductor_photo.png",
       "band_section": "championship",
       "contact_email": "donations@georgiabrassband.com",
       "choice_pieces": [
         {
           "title": "Dynasty",
-          "composer": "Peter Graham"
+          "composer": "Peter Graham",
+          "performance_slot": "C_FF"
         }
       ],
       "contest_draw_identifiers": ["C_A","C_FF"]
@@ -416,7 +435,8 @@
       "choice_pieces": [
         {
           "title": "Saint-Saëns Variations",
-          "composer": "Philip Sparke"
+          "composer": "Philip Sparke",
+          "performance_slot": "3_B"
         }
       ],
       "contest_draw_identifiers": ["3_B"]
@@ -436,7 +456,8 @@
       "choice_pieces": [
         {
           "title": "Heroes",
-          "composer": "Bruce Broughton"
+          "composer": "Bruce Broughton",
+          "performance_slot": "1_FF"
         }
       ],
       "contest_draw_identifiers": ["1_B","1_FF"]
@@ -456,7 +477,8 @@
       "choice_pieces": [
         {
           "title": "Images for Brass",
-          "composer": "Stephen Bulla"
+          "composer": "Stephen Bulla",
+          "performance_slot": "3_C"
         }
       ],
       "contest_draw_identifiers": ["3_C"]
@@ -497,7 +519,8 @@
       "choice_pieces": [
         {
           "title": "Dimensions",
-          "composer": "Peter Graham"
+          "composer": "Peter Graham",
+          "performance_slot": "3_A"
         }
       ],
       "contest_draw_identifiers": ["3_A"]
@@ -517,7 +540,8 @@
       "choice_pieces": [
         {
           "title": "Coventry Variations",
-          "composer": "Bramwell Tovey"
+          "composer": "Bramwell Tovey",
+          "performance_slot": "1_DD"
         }
       ],
       "contest_draw_identifiers": ["1_G","1_DD"]
@@ -537,7 +561,8 @@
       "choice_pieces": [
         {
           "title": "Journey of the Lone Wolf",
-          "composer": "Simon Dobson"
+          "composer": "Simon Dobson",
+          "performance_slot": "C_GG"
         }
       ],
       "contest_draw_identifiers": ["C_D","C_GG"]
@@ -557,7 +582,8 @@
       "choice_pieces": [
         {
           "title": "The Dark Side of the Moon",
-          "composer": "Paul Lovatt-Cooper"
+          "composer": "Paul Lovatt-Cooper",
+          "performance_slot": "3_F"
         }
       ],
       "contest_draw_identifiers": ["3_F"]
@@ -577,7 +603,8 @@
       "choice_pieces": [
         {
           "title": "Earthrise",
-          "composer": "Nigel Clarke"
+          "composer": "Nigel Clarke",
+          "performance_slot": "C_HH"
         }
       ],
       "contest_draw_identifiers": ["C_C","C_HH"]
@@ -597,7 +624,8 @@
       "choice_pieces": [
         {
           "title": "Fraternity",
-          "composer": "Thierry Deleruyelle"
+          "composer": "Thierry Deleruyelle",
+          "performance_slot": "C_II"
         }
       ],
       "contest_draw_identifiers": ["C_H","C_II"]
@@ -617,7 +645,8 @@
       "choice_pieces": [
         {
           "title": "Spectrum",
-          "composer": "Gilbert Vinter"
+          "composer": "Gilbert Vinter",
+          "performance_slot": "1_II"
         }
       ],
       "contest_draw_identifiers": ["1_I","1_II"]
@@ -637,7 +666,8 @@
       "choice_pieces": [
         {
           "title": "Essay, II Soliloquy",
-          "composer": "Edward Gregson"
+          "composer": "Edward Gregson",
+          "performance_slot": "1_HH"
         }
       ],
       "contest_draw_identifiers": ["1_E","1_HH"]
@@ -647,17 +677,18 @@
       "name": "Brass Band of Huntsville",
       "website": "https://www.brassbandofhuntsville.com/",
       "band_bio": "The Brass Band of Huntsville (BBoH) is proud to host the 2023 NABBA Championships. BBoH is a 30-piece brass and percussion ensemble that is based in the greater Huntsville area and draws its membership from across the State of Alabama. Offering casual, audience-friendly concerts that are both entertaining and educational, the band actively seeks to lead a musical renaissance as the original traditional brass band in the State of Alabama and to promote cultural enrichment, revitalization and arts awareness in the local community. BBoH performs a wide variety of music including classical, patriotic, jazz, Broadway and modern compositions written especially for the brass band genre, and aims to bridge the gap between popular and classical music.",
-      "band_photo": "",
-      "band_logo": "",
+      "band_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/33/band_photo.jpg",
+      "band_logo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/33/band_logo.jpg",
       "conductor_name": "Stephen Bulla",
       "conductor_bio": "Stephen Bulla began his musical instruction at age six, growing up in a musical household where his father played tuba and his mother played piano. He eventually graduated Magna Cum Laude from Berklee College of Music in Boston, where he studied trombone with Phil Wilson and Composition/Arranging with Herb Pomeroy. In 1980 he won an audition for the position of Staff Arranger to 'The President's Own' United States Marine Band and Chamber Orchestra in Washington DC. For the next thirty years he would provide musical scores for myriad White House events, beginning with the Reagan era until 2010. Working alongside film score legend John Williams he has transcribed music from 'Star Wars', 'Catch Me If You Can', and 'Close Encounters of the Third Kind' for performances by the Marine Band with the composer conducting. He has also scored music for the Discovery Channel ('Wings of the Luftwaffe' and 'Century of Flight') and the PBS television series 'In Performance At The White House.' On those occasions, his arrangements were performed by many artists including Sarah Vaughan, The Manhattan Transfer, Mel Torme, Doc Severinsen, Nell Carter, Shirley Jones, Larry Gatlin, and Jordan Sparks. His commissioned concert works are performed and recorded internationally.The Dutch, British, Swiss and New Zealand Brass Band Championship organizations have all commissioned test pieces from his pen. According to a recent ASCAP survey, his music has been used on the following television programs: CSI Miami, Cold Case, Jag, Joan of Arcadia, Without A Trace, Guiding Light, Survivor, 48 Hours, 60 Minutes, and Ren and Stimpy. Among many composer highlights was a commission from the Library of Congress to complete and orchestrate the last known manuscript march of John Philip Sousa, titled The Library of Congress March. Another major project was created for the 50th anniversary of the Apollo 11 lunar landing. For this event he was commissioned by the Brass Band of Huntsville (Alabama) to compose and conduct the premiere of the <em>Von Braun Suite</em> for band, narrator and NASA sourced video. On that occasion, held at the U.S. Space & Rocket Center, all living lunar astronauts were in attendance. As a conductor, for fifteen years he directed the National Capital Band (Washington DC), producing several CDs and touring Australia, New Zealand, Russia, and Scandinavia with that ensemble. He later served for thirteen years as music director of New England Brass Band and is presently music director for Brass Of The Potomac. As a frequent international band contest adjudicator, he received the President's Award in 2015 from the North American Brass Band Association. Stephen Bulla is an active member of ASCAP (American Society of Composers, Authors, and Publishers) and has received that organization's Performance Award annually since 1984. His published works can be found in the catalogs of Hal Leonard Music (USA and Europe), as well as in The Salvation Army's music publication catalog (UK).",
-      "conductor_photo": "",
+      "conductor_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/33/conductor_photo.jpg",
       "band_section": "second",
       "contact_email": "kent.eversmeyer@brassbandofhuntsville.com",
       "choice_pieces": [
         {
           "title": "Brass Triumphant",
-          "composer": "Gareth Wood"
+          "composer": "Gareth Wood",
+          "performance_slot": "2_CC"
         }
       ],
       "contest_draw_identifiers": ["2_A","2_CC"]
@@ -677,7 +708,8 @@
       "choice_pieces": [
         {
           "title": "The Raid",
-          "composer": "Oliver Waespi"
+          "composer": "Oliver Waespi",
+          "performance_slot": "2_II"
         }
       ],
       "contest_draw_identifiers": ["2_G","2_II"]
@@ -697,7 +729,8 @@
       "choice_pieces": [
         {
           "title": "Kingdom of Dragons",
-          "composer": "Philip Harper"
+          "composer": "Philip Harper",
+          "performance_slot": "2_HH"
         }
       ],
       "contest_draw_identifiers": ["2_B","2_HH"]
@@ -717,7 +750,8 @@
       "choice_pieces": [
         {
           "title": "Dark Side of the Moon",
-          "composer": "Paul Lovatt-Cooper"
+          "composer": "Paul Lovatt-Cooper",
+          "performance_slot": "3_D"
         }
       ],
       "contest_draw_identifiers": ["3_D"]
@@ -737,7 +771,8 @@
       "choice_pieces": [
         {
           "title": "Turris Fortissima",
-          "composer": "Steven Ponsford"
+          "composer": "Steven Ponsford",
+          "performance_slot": "YC_A"
         }
       ],
       "contest_draw_identifiers": ["YC_A"]
@@ -757,7 +792,8 @@
       "choice_pieces": [
         {
           "title": "Corineus",
-          "composer": "Christopher Bond"
+          "composer": "Christopher Bond",
+          "performance_slot": "Y1_A"
         }
       ],
       "contest_draw_identifiers": ["Y1_A"]
@@ -777,10 +813,12 @@
       "choice_pieces": [
         {
           "title": "Anglian Dances",
-          "composer": "Alan Fernie"
+          "composer": "Alan Fernie",
+          "performance_slot": "YO_A"
         },{
           "title": "Canticles",
-          "composer": "James Curnow"
+          "composer": "James Curnow",
+          "performance_slot": "YO_A"
         }
       ],
       "contest_draw_identifiers": ["YO_A"]

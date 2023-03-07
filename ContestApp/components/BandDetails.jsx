@@ -10,6 +10,7 @@ import { useDispatch, useSelector } from 'react-redux';
 import { useEffect } from 'react';
 import { changeActiveBand, selectActiveBandId } from '../features/appData/appDataSlice';
 import { selectBandById } from '../features/contestData/contestDataSlice';
+import { selectSelectedContestId } from '../features/selectedContestId/selectedContestIdSlice';
 
 /*
 "id": 9,
@@ -47,6 +48,11 @@ export function BandDetails(props) {
                     <Text variant="titleSmall">Go back</Text>
                   </Button>
 
+  
+  const selectedContestId = useSelector(selectSelectedContestId);
+  const contestData = useSelector(state => {
+    return state.contestList.contestList.find(contest => contest.id === selectedContestId)
+  });
   let website = "";
   if(item.website) {
     website = <IconButton icon="web" onPress={() => Linking.openURL(item.website)} />
@@ -55,13 +61,36 @@ export function BandDetails(props) {
   if(item.contact_email) {
     email = <IconButton icon="email" onPress={() => Linking.openURL("mailto:"+item.contact_email)}/>
   }
+
+  let band_logo_uri = ""
+  let band_photo_uri = ""
+  let conductor_photo_uri = ""
+  if(item.band_logo) {
+    band_logo_uri = item.band_logo
+  }
+  else {
+    band_logo_uri = contestData.contest_logo_file
+  }
+  if(item.band_photo) {
+    band_photo_uri = item.band_photo
+  }
+  else {
+    band_photo_uri = contestData.contest_logo_file
+  }
+  if(item.conductor_photo) {
+    conductor_photo_uri = item.conductor_photo
+  }
+  else {
+    conductor_photo_uri = contestData.contest_logo_file
+  }
+
   return (
     <ScrollView>
       {button}
       <Card style={styles.card} key={activeBandId + "-band"}>
-        <Card.Cover source={{ uri: item.band_logo }} resizeMode={'contain'} />
+        <Card.Cover source={{ uri: band_logo_uri }} resizeMode={'contain'} />
         <Card.Title titleNumberOfLines={1}>{item.name}</Card.Title>
-        <Card.Cover source={{ uri: item.band_photo }} resizeMode={'contain'} />
+        <Card.Cover source={{ uri: band_photo_uri }} resizeMode={'contain'} />
         <Card.Content>
           <Text variant="bodyLarge">{item.band_bio}</Text>
         </Card.Content>
@@ -73,7 +102,7 @@ export function BandDetails(props) {
         </Card.Actions>
       </Card>
       <Card style={styles.card} key={activeBandId + "-conductor"}>
-        <Card.Cover source={{ uri: item.conductor_photo }} resizeMode={'contain'} />
+        <Card.Cover source={{ uri: conductor_photo_uri }} resizeMode={'contain'} />
         <Card.Title titleNumberOfLines={1}>{item.conductor_name}</Card.Title>
         <Card.Content>
           <Text variant="bodyLarge">{item.conductor_bio}</Text>

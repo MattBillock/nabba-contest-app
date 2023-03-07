@@ -15,16 +15,19 @@
       "choice_pieces": [
         {
           "title": "Honest Toil",
-          "composer": "William Rimmer"
+          "composer": "William Rimmer",
+          "performance_slot": "B_3"
         },
         {
           "title": "Essay, II Soliloquy",
-          "composer": "Edward Gregson"
+          "composer": "Edward Gregson",
+          "performance_slot": "B_3"
         },
 
         {
           "title": "Year of the Dragon",
-          "composer": "Philip Sparke"
+          "composer": "Philip Sparke",
+          "performance_slot": "B_3"
         }
       ],
       "contest_draw_identifiers": ["B_3"]
@@ -44,15 +47,18 @@
       "choice_pieces": [
         {
           "title": "The Cossack",
-          "composer": "William Rimmer"
+          "composer": "William Rimmer",
+          "performance_slot": "B_4"
         },
         {
           "title": "Prayer for Ukraine",
-          "composer": "Lesenko, arr.Bulla"
+          "composer": "Lesenko, arr.Bulla",
+          "performance_slot": "B_4"
         },
         {
           "title": "Saint-Saëns Variations",
-          "composer": "Philip Sparke"
+          "composer": "Philip Sparke",
+          "performance_slot": "B_4"
         }
       ],
       "contest_draw_identifiers": ["B_4"]
@@ -72,15 +78,18 @@
       "choice_pieces": [
         {
           "title": "Cornish Cavalier",
-          "composer": "William E. Moyle"
+          "composer": "William E. Moyle",
+          "performance_slot": "B_7"
         },
         {
           "title": "Elegy from A Downland Suite",
-          "composer": "John Ireland"
+          "composer": "John Ireland",
+          "performance_slot": "B_7"
         },
         {
           "title": "Heroes",
-          "composer": "Bruce Broughton"
+          "composer": "Bruce Broughton",
+          "performance_slot": "B_7"
         }
       ],
       "contest_draw_identifiers": ["B_7"]
@@ -100,15 +109,18 @@
       "choice_pieces": [
         {
           "title": "Queensbury",
-          "composer": "James Kaye arr. Tommy Cheseaux"
+          "composer": "James Kaye arr. Tommy Cheseaux",
+          "performance_slot": "B_8"
         },
         {
           "title": "Hymn for Diana",
-          "composer": "Joseph Turrin"
+          "composer": "Joseph Turrin",
+          "performance_slot": "B_8"
         },
         {
           "title": "Fantasy For Brass Band ",
-          "composer": "Malcolm Arnold"
+          "composer": "Malcolm Arnold",
+          "performance_slot": "B_8"
         }
       ],
       "contest_draw_identifiers": ["B_8"]
@@ -128,15 +140,18 @@
       "choice_pieces": [
         {
           "title": "Honest Toil",
-          "composer": "William Rimmer"
+          "composer": "William Rimmer",
+          "performance_slot": "B_9"
         },
         {
           "title": "Glow",
-          "composer": "Eric Whitacre, arr. Jacob Vilhelm Larsen"
+          "composer": "Eric Whitacre, arr. Jacob Vilhelm Larsen",
+          "performance_slot": "B_9"
         },
         {
           "title": "On the Shoulders of Giants",
-          "composer": "Peter Graham"
+          "composer": "Peter Graham",
+          "performance_slot": "B_9"
         }
       ],
       "contest_draw_identifiers": ["B_9"]
@@ -156,15 +171,18 @@
       "choice_pieces": [
         {
           "title": "Knight Templar",
-          "composer": "George Allen"
+          "composer": "George Allen",
+          "performance_slot": "B_2"
         },
         {
           "title": "49th Parallel",
-          "composer": "Ralph Vaughan Williams"
+          "composer": "Ralph Vaughan Williams",
+          "performance_slot": "B_2"
         },
         {
           "title": "Resurgam",
-          "composer": "Eric Ball"
+          "composer": "Eric Ball",
+          "performance_slot": "B_2"
         }
       ],
       "contest_draw_identifiers": ["B_2"]
@@ -184,16 +202,19 @@
       "choice_pieces": [
         {
           "title": "George Washington Bicentennial",
-          "composer": "Sousa, arr. Hensler"
+          "composer": "Sousa, arr. Hensler",
+          "performance_slot": "B_5"
         },
         {
 
           "title": "The Spirit is Willing",
-          "composer": "Nicole Plumno"
+          "composer": "Nicole Plumno",
+          "performance_slot": "B_5"
         },
         {
           "title": "Trittico",
-          "composer": "James Curnow"
+          "composer": "James Curnow",
+          "performance_slot": "B_5"
         }
       ],
       "contest_draw_identifiers": ["B_5"]
@@ -213,15 +234,18 @@
       "choice_pieces": [
         {
           "title": "King Cotton March",
-          "composer": "John Phillip Sousa"
+          "composer": "John Phillip Sousa",
+          "performance_slot": "B_6"
         },
         {
           "title": "Sleep",
-          "composer": "Eric Whitacre arr. Sandy Smith"
+          "composer": "Eric Whitacre arr. Sandy Smith",
+          "performance_slot": "B_6"
         },
         {
           "title": "Purcell Variations",
-          "composer": "Kenneth Downie"
+          "composer": "Kenneth Downie",
+          "performance_slot": "B_6"
         }
       ],
       "contest_draw_identifiers": ["B_6"]
@@ -241,23 +265,28 @@
       "choice_pieces": [
         {
           "title": "Sing Hosanna",
-          "composer": "arr. David Rowsell"
+          "composer": "arr. David Rowsell",
+          "performance_slot": "B_1"
         },
         {
           "title": "National Anthems of the United Kingdom, Canada and the United States of America",
-          "composer": "arr. The Salvation Army"
+          "composer": "arr. The Salvation Army",
+          "performance_slot": "B_1"
         },
         {
           "title": "Unto Thee",
-          "composer": "Ruben Schmidt"
+          "composer": "Ruben Schmidt",
+          "performance_slot": "B_1"
         },
         {
           "title": "Invocation and Praye",
-          "composer": "Capt. Ray Valdez"
+          "composer": "Capt. Ray Valdez",
+          "performance_slot": "B_1"
         },
         {
           "title": "March - Nicely Saved",
-          "composer": "Ray Steadman-Allen"
+          "composer": "Ray Steadman-Allen",
+          "performance_slot": "B_1"
         }
       ],
       "contest_draw_identifiers": ["B_1"]
@@ -278,16 +307,19 @@
 
         {
           "title": "Death or Glory",
-          "composer": "Robert Browne Hall"
+          "composer": "Robert Browne Hall",
+          "performance_slot": "B_10"
         },
 
         {
           "title": "A Little Prayer",
-          "composer": "Evelyn Glennie, arranged by Robert Childs "
+          "composer": "Evelyn Glennie, arranged by Robert Childs ",
+          "performance_slot": "B_10"
         },
         {
           "title": "The Journal of Phileas Fogg",
-          "composer": "Peter Graham"
+          "composer": "Peter Graham",
+          "performance_slot": "B_10"
         }
       ],
       "contest_draw_identifiers": ["B_10"]

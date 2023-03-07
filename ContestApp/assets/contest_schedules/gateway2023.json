@@ -14,7 +14,8 @@
       "choice_pieces": [
         {
           "title": "A Gabrieli Fantasy",
-          "composer": "Bert Appermont"
+          "composer": "Bert Appermont",
+          "performance_slot": "C_H"
         }
       ],
       "band_section": "championship",
@@ -35,7 +36,8 @@
       "choice_pieces": [
         {
           "title": "Journey of the Lone Wolf",
-          "composer": "Simon Dobson"
+          "composer": "Simon Dobson",
+          "performance_slot": "C_J"
         }
       ],
       "contest_draw_identifiers": ["C_J"]
@@ -55,7 +57,8 @@
       "choice_pieces": [
         {
           "title": "The Dark Side of the Moon",
-          "composer": "Paul Lovatt-Cooper"
+          "composer": "Paul Lovatt-Cooper",
+          "performance_slot": "NT_C"
         }
       ],
       "contest_draw_identifiers": ["NT_C"]
@@ -75,7 +78,8 @@
       "choice_pieces": [
         {
           "title": "Music of the Spheres",
-          "composer": "Philip Sparke"
+          "composer": "Philip Sparke",
+          "performance_slot": "O_E"
         }
       ],
       "contest_draw_identifiers": ["O_E"]
@@ -95,7 +99,8 @@
       "choice_pieces": [
         {
           "title": "The Raid",
-          "composer": "Oliver Waespi"
+          "composer": "Oliver Waespi",
+          "performance_slot": "EX_A"
         }
       ],
       "contest_draw_identifiers": ["EX_A"]
@@ -116,7 +121,8 @@
       "choice_pieces": [
         {
           "title": "Music of the Spheres",
-          "composer": "Philip Sparke"
+          "composer": "Philip Sparke",
+          "performance_slot": "BC_D"
         }
       ],
       "contest_draw_identifiers": ["BC_D"]
@@ -137,7 +143,8 @@
       "choice_pieces": [
         {
           "title": "Music of the Spheres",
-          "composer": "Philip Sparke"
+          "composer": "Philip Sparke",
+          "performance_slot": "NT_B"
         }
       ],
       "contest_draw_identifiers": ["NT_B"]
@@ -159,7 +166,8 @@
       "choice_pieces": [
         {
           "title": "Music of the Spheres",
-          "composer": "Philip Sparke"
+          "composer": "Philip Sparke",
+          "performance_slot": "O_F"
         }
       ],
       "contest_draw_identifiers": ["O_F"]
@@ -179,7 +187,8 @@
       "choice_pieces": [
         {
           "title": "Music of the Spheres",
-          "composer": "Philip Sparke"
+          "composer": "Philip Sparke",
+          "performance_slot": "C_G"
         }
       ],
       "contest_draw_identifiers": ["C_G"]
@@ -199,7 +208,8 @@
       "choice_pieces": [
         {
           "title": "Music of the Spheres",
-          "composer": "Philip Sparke"
+          "composer": "Philip Sparke",
+          "performance_slot": "C_I"
         }
       ],
       "contest_draw_identifiers": ["C_I"]
