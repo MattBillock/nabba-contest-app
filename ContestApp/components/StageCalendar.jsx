@@ -3,16 +3,21 @@ import { Dimensions, ImageBackground, SafeAreaView, ScrollView, SectionList, Sty
 import Constants from 'expo-constants';
 import { Agenda } from 'react-native-calendars';
 
-import { Button, Card, DataTable, Divider, IconButton, Provider, Text, useTheme } from 'react-native-paper';
+import { Button, Card, DataTable, Divider, IconButton, List, Provider, Text, useTheme } from 'react-native-paper';
 import { useSelector } from 'react-redux';
 import { selectBandList, selectContestDates, selectDefaultVenue, selectPerformancesByStage, selectPerformanceSchedule, selectPerformancesForStage, selectVenueList } from '../features/contestData/contestDataSlice';
 import createStyle from '../app/styles';
+import { selectSelectedContestId } from '../features/selectedContestId/selectedContestIdSlice';
 
 export function StageCalendar(props) {
 
   const [activeSlot, setActiveSlot] = React.useState(undefined);
   const [activeBand, setActiveBand] = React.useState(undefined);
   const theme=useTheme();
+  const selectedContestId = useSelector(selectSelectedContestId);
+  const contestData = useSelector(state => {
+    return state.contestList.contestList.find(contest => contest.id === selectedContestId)
+  });
 
   //const styles = createStyle();
   const styles = StyleSheet.create({
@@ -82,6 +87,7 @@ export function StageCalendar(props) {
   }
 
   function getBandName(band_name, slot_name, title) {
+
     if(title && title != "") {
       return title;
     }
@@ -100,14 +106,27 @@ export function StageCalendar(props) {
       'B': 'DFoB participant',
     }
     
+    let full_reveal_date;
+    if(contestData.full_reveal_date){
+      full_reveal_date = new Date(contestData.full_reveal_date);
+    }
+
     const contest_date = new Date(contestDates[0])
-    if(contest_date > Date.now()) {
+    let contest_end_date = new Date(contestDates[0])
+    // assume contest range is +2 to cover all current contest lengths
+    contest_end_date.setDate(contest_end_date.getDate() + 2);
+
+    if(full_reveal_date < Date.now()){
+      return band_name
+    }
+    else if(contest_date < Date.now() && contest_end_date >= Date.now()) {
+      return band_name
+      
+    }
+    else{
       let split_arr = slot_name.split('_');
       let constructed_band_name = section_map[split_arr[0]] + " band " + split_arr[1]
       return constructed_band_name;
-    }
-    else{
-      return band_name
     }
   }
 
@@ -165,9 +184,13 @@ export function StageCalendar(props) {
     })
     return result_array;
   }
+  const [expanded, setExpanded] = React.useState(true);
+
+  const handlePress = () => setExpanded(!expanded);
 
   let content;
   if(activeSlot && activeBand && activeBand.name != "not found") {
+  
     let pieces = activeBand.choice_pieces.filter(entry => entry.performance_slot === activeSlot.item.band_draw)
     
     let piece_info = <Card elevated style={styles.cardNoHeight} onPress={() => setActiveItems(undefined,undefined)}>
@@ -177,18 +200,18 @@ export function StageCalendar(props) {
         <Divider />
         <Text>&nbsp;</Text>
         <Text>Pieces performed:</Text>
-        <DataTable>
-          <DataTable.Header>
-            <DataTable.Title>Piece</DataTable.Title>
-            <DataTable.Title>Composer</DataTable.Title>
-          </DataTable.Header>
+
+        <List.Accordion
+          title="Program order"
+          left={props => <List.Icon {...props} icon="music" />}
+          expanded={expanded}
+          onPress={handlePress}
+          titleNumberOfLines={2}>
             { pieces.map(element => { 
-              return <DataTable.Row key={element.title + '-' + element.composer}>
-                <DataTable.Cell>{element.title}</DataTable.Cell>
-                <DataTable.Cell>{element.composer}</DataTable.Cell>
-              </DataTable.Row>
+              return <List.Item  key={element.title + ' - ' + element.composer} title={element.title + ' - ' + element.composer} titleNumberOfLines={2} />
             })}
-        </DataTable>
+        </List.Accordion>
+        
       </Card.Content>
       {button}
     </Card>

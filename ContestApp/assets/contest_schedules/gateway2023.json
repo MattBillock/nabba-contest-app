@@ -13,13 +13,18 @@
       "contact_email": "vicepresident@chicagobrassband.org",
       "choice_pieces": [
         {
+          "title": "Titan's Progress",
+          "composer": "Hermann Pallhuber",
+          "performance_slot": "C_B"
+        },
+        {
           "title": "A Gabrieli Fantasy",
           "composer": "Bert Appermont",
-          "performance_slot": "C_H"
+          "performance_slot": "C_B"
         }
       ],
       "band_section": "championship",
-      "contest_draw_identifiers": ["C_H"]
+      "contest_draw_identifiers": ["C_B"]
     },
     {
       "id": 27,
@@ -35,12 +40,17 @@
       "contact_email": "fcbb@fcbb.net",
       "choice_pieces": [
         {
+          "title": "Titan's Progress",
+          "composer": "Hermann Pallhuber",
+          "performance_slot": "C_D"
+        },
+        {
           "title": "Journey of the Lone Wolf",
           "composer": "Simon Dobson",
-          "performance_slot": "C_J"
+          "performance_slot": "C_D"
         }
       ],
-      "contest_draw_identifiers": ["C_J"]
+      "contest_draw_identifiers": ["C_D"]
     },
     {
       "id": 28,
@@ -56,12 +66,17 @@
       "contact_email": "helen@fcbb.net",
       "choice_pieces": [
         {
+          "title": "Sinfonietta No. 4",
+          "composer": "Etienne Crausaz",
+          "performance_slot": "NT_B"
+        },
+        {
           "title": "The Dark Side of the Moon",
           "composer": "Paul Lovatt-Cooper",
-          "performance_slot": "NT_C"
+          "performance_slot": "NT_B"
         }
       ],
-      "contest_draw_identifiers": ["NT_C"]
+      "contest_draw_identifiers": ["NT_B"]
     },
     {
       "id": 40,
@@ -77,12 +92,22 @@
       "contact_email": "",
       "choice_pieces": [
         {
-          "title": "Music of the Spheres",
-          "composer": "Philip Sparke",
-          "performance_slot": "O_E"
+          "title": "Hollywood",
+          "composer": "Goff Richards",
+          "performance_slot": "O_A"
+        },
+        {
+          "title": "Gallipoli '100' March",
+          "composer": "Martin Ellerby",
+          "performance_slot": "O_A"
+        },
+        {
+          "title": "By Trevone Bay",
+          "composer": "Paul Lovatt-Cooper",
+          "performance_slot": "O_A"
         }
       ],
-      "contest_draw_identifiers": ["O_E"]
+      "contest_draw_identifiers": ["O_A"]
     },
     {
       "id": 34,
@@ -97,6 +122,11 @@
       "band_section": "Exhibition",
       "contact_email": "stlouisbrassband@gmail.com",
       "choice_pieces": [
+        {
+          "title": "Purcell Variations",
+          "composer": "Oliver Waespi",
+          "performance_slot": "EX_A"
+        },
         {
           "title": "The Raid",
           "composer": "Oliver Waespi",
@@ -120,12 +150,12 @@
       "contact_email": "",
       "choice_pieces": [
         {
-          "title": "Music of the Spheres",
-          "composer": "Philip Sparke",
-          "performance_slot": "BC_D"
+          "title": "Second Suite in F",
+          "composer": "Gustav Holst",
+          "performance_slot": "BC_A"
         }
       ],
-      "contest_draw_identifiers": ["BC_D"]
+      "contest_draw_identifiers": ["BC_A"]
     },
 
     {
@@ -138,16 +168,21 @@
       "conductor_name": "Matt Kuebler",
       "conductor_bio": "Mr. Matt Kuebler (Master Sergeant retired), St. Louis Academy Brass Band Director, is Adjunct Low Brass Professor and Lecturer with McKendree University and Southern Illinois University Edwardsville. At McKendree University, he has conducted the High School Honors Brass Ensemble, the Low Brass Ensemble, and the Middle School Band Camp.  Mr. Kuebler has been a private tuba and euphonium instructor since 1996 and has taught masterclasses all over the United States and internationally in Kyrgyzstan and Qatar during a deployment. Mr. Kuebler attended the University of Kentucky and earned a Bachelor of Music degree in 1995. In 2001, he earned a Master of Music Degree from Indiana University, Bloomington, Indiana. He also was accepted in the doctoral program of Cincinnati College Conservatory of Music (CCM) were he attended from 1997- 1999. In 2001, he became a tubist in the United States Air Force Regional Bands, with assignments at both the USAF Band of Liberty in Boston, Massachusetts and the Air Force Band of Mid-America in the metro east St. Louis area where he retired from military service in 2021. During his Air Force career, Mr. Kuebler performed all over the continental United States and internationally in Japan, Djibouti, Kuwait, Afghanistan, Iraq, Kyrgyzstan and Qatar. He has worked in Missouri, Massachusetts, Indiana, Ohio, Virginia, and Kentucky as a freelance musician. Additionally, Mr. Kuebler was member of the All-American College Band for Disneyland in 1994 and played with Columbus Brass Quintet from 1996-2001. He has been a substitute for the St. Louis Symphony, Metropolitan Orchestra of St. Louis, Richmond Symphony and the Evansville Philharmonic. He has performed with the St. Louis Low Brass Collective and the Lexington Brass Band (KY).  Mr. Kuebler was also a member and featured soloist with the Bay Colony Brass (Greater Boston Metropolitan Area) and the Jack Daniels Original Silver Cornet Band.",
       "conductor_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/42/conductor_photo.png",
-      "band_section": "first",
+      "band_section": "Non-Traditional",
       "contact_email": "STLAcademyBrassBand@gmail.com",
       "choice_pieces": [
         {
-          "title": "Music of the Spheres",
-          "composer": "Philip Sparke",
-          "performance_slot": "NT_B"
+          "title": "The Standard of St. George",
+          "composer": "Kenneth Alford",
+          "performance_slot": "NT_A"
+        },
+        {
+          "title": "The Dark Side of the Moon",
+          "composer": "Paul Lovatt-Cooper",
+          "performance_slot": "NT_A"
         }
       ],
-      "contest_draw_identifiers": ["NT_B"]
+      "contest_draw_identifiers": ["NT_A"]
     },
 
 
@@ -161,16 +196,36 @@
       "conductor_name": "Tom Davoren",
       "conductor_bio": "Tom Davoren (b.1986) is a conductor and composer with a growing international reputation. He began his conducting career with the BTM Band from South Wales, in the United Kingdom, and has since held positions with Britain's famous Desford Colliery and Fairey Bands, as well as  Bristol’s Filton Concert Brass, with whom he won a National Championship title in 2014. In 2015 he directed Maidstone Wind Symphony to British National Concert Band Championship honors, served as conductor to the National Youth Brass Band of Wales in 2016, and has appeared as a guest conductor in Austria, Lithuania, Norway, Sweden, the United States, Canada, Japan, and South Korea. He led conducting students and directed bands at the University of Salford from 2015 - 2019. Tom's music for band has been premiered, recorded and commissioned by artists including ‘The President’s Own’ United States Marine Band, Central Band of the Royal Air Force, Brass Band of Battle Creek, Cory Band, Jens Lindemann, Steven Mead, and Glenn Van Looy. Memorable performances include New York's Carnegie Hall, the College Band Directors National Association National Conference, BASBWE London Festival, Royal Northern College of Music Festival of Brass, World Music Contest (Kerkrade), Jeju International Wind Ensemble Festival (South Korea), International Tuba Euphonium Association Conferences, International Trumpet Guild Conferences, and the solo and band sections of the National Championships of New Zealand, Australia and Great Britain. He has a special relationship with the Belgian ensemble Brassband Buizingen, acting as their Associate Composer through 2015/16 and became Composer in Residence with the Band of the Welsh Guards, of the Household Division of the British Army, in 2019. Tom studied tuba with Nigel Seaman at the Royal Welsh College of Music & Drama and holds bachelor’s and Master’s degrees in composition from Cardiff University School of Music, where in 2009/10 he was awarded a research scholarship from the Arts and Humanities Research Council and the Welsh Livery Guild Composition Award. He was also a BASCA British Composer Award nominee in 2011, a prizewinner at the EBBA European Composers Competition 2012, the recipient of a Harvey Phillips Award for excellence in composition, presented by the International Tuba Euphonium Association, in 2014, and winner of the American National Band Association 'Merrill Jones' Composition Contest in 2020. Away from traditional band repertoire Tom composed a fanfare for the Royal opening  of the fifth National Assembly for Wales in 2016 whilst his work 'Legacy', commissioned by Tredegar Town Band and the Aneurin Bevan Society, celebrated the 70th Anniversary of the British National Health Service through a performance at Westminster Palace, the Houses of British Parliament. His first work for orchestra, Tourbillon, was premiered by Denmark's Aalborg Symfoniorkester in 2017. Tom is currently on the faculty of Benedictine College in Kansas, as well as a Doctoral Teaching Assistant in Wind Conducting at the University of Kansas, USA, working with Dr. Paul Popiel.",
       "conductor_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/43/conductor_photo.jpg",
-      "band_section": "first",
+      "band_section": "Open",
       "contact_email": "",
       "choice_pieces": [
         {
-          "title": "Music of the Spheres",
-          "composer": "Philip Sparke",
-          "performance_slot": "O_F"
+          "title": "Prelude on 'Tallis'",
+          "composer": "Peter Graham",
+          "performance_slot": "O_B"
+        },
+        {
+          "title": "Glow",
+          "composer": "Eric Whitacre arr Jacob Vilhelm Larsen",
+          "performance_slot": "O_B"
+        },
+        {
+          "title": "Star Lake March",
+          "composer": "Eric Ball",
+          "performance_slot": "O_B"
+        },
+        {
+          "title": "Land of the Living Skies",
+          "composer": "Peter Meechan",
+          "performance_slot": "O_B"
+        },
+        {
+          "title": "Tokyo Rising",
+          "composer": "Tom Davoren",
+          "performance_slot": "O_B"
         }
       ],
-      "contest_draw_identifiers": ["O_F"]
+      "contest_draw_identifiers": ["O_B"]
     },
     {
       "id": 44,
@@ -186,12 +241,22 @@
       "contact_email": "frontierbrassband@gmail.com",
       "choice_pieces": [
         {
-          "title": "Music of the Spheres",
-          "composer": "Philip Sparke",
-          "performance_slot": "C_G"
+          "title": "Dances and Arias",
+          "composer": "Edward Gregson",
+          "performance_slot": "C_A"
+        },
+        {
+          "title": "In Love for Me",
+          "composer": "Philip harper",
+          "performance_slot": "C_A"
+        },
+        {
+          "title": "Journey in Freedom",
+          "composer": "Eric Ball",
+          "performance_slot": "C_A"
         }
       ],
-      "contest_draw_identifiers": ["C_G"]
+      "contest_draw_identifiers": ["C_A"]
     },
     {
       "id": 45,
@@ -203,23 +268,43 @@
       "conductor_name": "Alex Beamer",
       "conductor_bio": "Alexander Beamer has been the Principal Conductor of Iowa Brass since 2013, making this his 10 year anniversary with the group. Throughout his tenure, the band has performed at numerous competitions, including the North American Brass Band Association Championships, the US Open Brass Band Championships, the Dublin Festival of Brass, and the Gateway Brass Band Championships. Mr. Beamer has led the band to accomplishments including Best Performance of a March and 2nd place at the Gateway Brass Band Festival in 2019. He has participated in numerous conducting competitions throughout Europe and in 2016 received a finalist award at the Brass Band conducting competition in Manchester, England. Mr. Beamer completed a master’s degree in Orchestral Conducting at the University of New Mexico (Albuquerque, NM) and a Bachelor’s degree in Music Education from Messiah College. His conducting teachers include Dr. Jorge Perez-Gomez, Dr. Timothy Dixon, and Dr. Bradley Genevro. He has studied percussion with Steve Fidyk, Chris Rose, Doug Cardwell and David Knott. Alex has also participated in many master classes and clinics with some of the nation’stop conductors, such as Mallory Thompson, Eugene Corporon, Dennis Fisher, and Col. Timothy Holton. Alex is the Vice President of School Music Services at West Music. During his down time, he enjoys life in the Amana Colonies with his wife Jessi, 3 boys Oliver, Henry and Paul, and their dog Lola.",
       "conductor_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/45/conductor_photo.png",
-      "band_section": "first",
+      "band_section": "championship",
       "contact_email": "TheIowaBrass@gmail.com",
       "choice_pieces": [
         {
-          "title": "Music of the Spheres",
-          "composer": "Philip Sparke",
-          "performance_slot": "C_I"
+          "title": "Through the Flames",
+          "composer": "Paul Lovatt-Cooper",
+          "performance_slot": "C_C"
+        },
+        {
+          "title": "Elegie",
+          "composer": "Peter Meechan",
+          "performance_slot": "C_C"
+        },
+        {
+          "title": "Lions of Legends",
+          "composer": "Thierry Deleruyele",
+          "performance_slot": "C_C"
+        },
+        {
+          "title": "The President",
+          "composer": "William German",
+          "performance_slot": "C_C"
+        },
+        {
+          "title": "Swedish Folk Song",
+          "composer": "Peter Graham",
+          "performance_slot": "C_C"
         }
       ],
-      "contest_draw_identifiers": ["C_I"]
+      "contest_draw_identifiers": ["C_C"]
     }
   ],
   
   "performance_schedule": {
     "2023-03-18": [
       {
-        "band_id": 1,
+        "band_id": 34,
         "band_draw": "EX_A",
         "stage": "Main",
         "performance_times": {            
@@ -228,8 +313,8 @@
           }
         
       },{
-        "band_id": 27,
-        "band_draw": "NT_B",
+        "band_id": 42,
+        "band_draw": "NT_A",
         "stage": "Main",
         "performance_times": {            
           "start_timestamp": "2023-03-18T11:40:00.000-05:00",
@@ -238,7 +323,7 @@
         
       },{
         "band_id": 28,
-        "band_draw": "NT_C",
+        "band_draw": "NT_B",
         "stage": "Main",
         "performance_times": {            
           "start_timestamp": "2023-03-18T12:10:00.000-05:00",
@@ -246,8 +331,8 @@
           }
         
       },{
-        "band_id": 40,
-        "band_draw": "BC_D",
+        "band_id": 41,
+        "band_draw": "BC_A",
         "stage": "Main",
         "performance_times": {            
             
@@ -256,8 +341,8 @@
           }
         
       },{
-        "band_id": 34,
-        "band_draw": "O_E",
+        "band_id": 40,
+        "band_draw": "O_A",
         "stage": "Main",
         "performance_times": {            
           "start_timestamp": "2023-03-18T13:25:00.000-05:00",
@@ -265,8 +350,8 @@
           }
         
       },{
-        "band_id": 41,
-        "band_draw": "O_F",
+        "band_id": 43,
+        "band_draw": "O_B",
         "stage": "Main",
         "performance_times": {            
           "start_timestamp": "2023-03-18T14:00:00.000-05:00",
@@ -274,8 +359,8 @@
           }
         
       },{
-        "band_id": 42,
-        "band_draw": "C_G",
+        "band_id": 44,
+        "band_draw": "C_A",
         "stage": "Main",
         "performance_times": {
           "start_timestamp": "2023-03-18T14:40:00.000-05:00",
@@ -283,8 +368,8 @@
           }
         
       },{
-        "band_id": 43,
-        "band_draw": "C_H",
+        "band_id": 1,
+        "band_draw": "C_B",
         "stage": "Main",
         "performance_times": {            
           "start_timestamp": "2023-03-18T15:30:00.000-05:00",
@@ -292,8 +377,8 @@
           }
         
       },{
-        "band_id": 44,
-        "band_draw": "C_I",
+        "band_id": 45,
+        "band_draw": "C_C",
         "stage": "Main",
         "performance_times": {            
           "start_timestamp": "2023-03-18T16:20:00.000-05:00",
@@ -301,8 +386,8 @@
           }
         
       },{
-        "band_id": 45,
-        "band_draw": "C_J",
+        "band_id": 27,
+        "band_draw": "C_D",
         "stage": "Main",
         "performance_times": {            
           "start_timestamp": "2023-03-18T17:10:00.000-05:00",
