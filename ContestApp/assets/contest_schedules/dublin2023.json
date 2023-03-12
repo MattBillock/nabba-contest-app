@@ -334,8 +334,8 @@
         "stage": "Main",
         "title": "Doors open",
         "performance_times": {            
-            "start_timestamp": "2023-03-18T08:30:00.000-05:00",
-            "end_timestamp": "2023-03-18T09:30:00.000-05:00"
+            "start_timestamp": "2023-03-18T08:30:00.000-04:00",
+            "end_timestamp": "2023-03-18T09:30:00.000-04:00"
           }
         
       },
@@ -344,8 +344,8 @@
         "band_draw": "B_1",
         "stage": "Main",
         "performance_times": {            
-            "start_timestamp": "2023-03-18T09:30:00.000-05:00",
-            "end_timestamp": "2023-03-18T10:00:00.000-05:00"
+            "start_timestamp": "2023-03-18T09:30:00.000-04:00",
+            "end_timestamp": "2023-03-18T10:00:00.000-04:00"
           }
         
       },
@@ -354,8 +354,8 @@
         "band_draw": "B_2",
         "stage": "Main",
         "performance_times": {            
-            "start_timestamp": "2023-03-18T10:00:00.000-05:00",
-            "end_timestamp": "2023-03-18T10:30:00.000-05:00"
+            "start_timestamp": "2023-03-18T10:00:00.000-04:00",
+            "end_timestamp": "2023-03-18T10:30:00.000-04:00"
           }
         
       },
@@ -364,8 +364,8 @@
         "band_draw": "B_3",
         "stage": "Main",
         "performance_times": {            
-            "start_timestamp": "2023-03-18T10:30:00.000-05:00",
-            "end_timestamp": "2023-03-18T11:00:00.000-05:00"
+            "start_timestamp": "2023-03-18T10:30:00.000-04:00",
+            "end_timestamp": "2023-03-18T11:00:00.000-04:00"
           }
       },
       {
@@ -373,8 +373,8 @@
         "band_draw": "B_4",
         "stage": "Main",
         "performance_times": {            
-            "start_timestamp": "2023-03-18T11:00:00.000-05:00",
-            "end_timestamp": "2023-03-18T11:30:00.000-05:00"
+            "start_timestamp": "2023-03-18T11:00:00.000-04:00",
+            "end_timestamp": "2023-03-18T11:30:00.000-04:00"
           }
       },
       {
@@ -382,8 +382,8 @@
         "band_draw": "B_5",
         "stage": "Main",
         "performance_times": {            
-            "start_timestamp": "2023-03-18T11:30:00.000-05:00",
-            "end_timestamp": "2023-03-18T12:00:00.000-05:00"
+            "start_timestamp": "2023-03-18T11:30:00.000-04:00",
+            "end_timestamp": "2023-03-18T12:00:00.000-04:00"
           }
       },
       {
@@ -391,8 +391,8 @@
         "band_draw": "B_6",
         "stage": "Main",
         "performance_times": {            
-            "start_timestamp": "2023-03-18T12:00:00.000-05:00",
-            "end_timestamp": "2023-03-18T12:30:00.000-05:00"
+            "start_timestamp": "2023-03-18T12:00:00.000-04:00",
+            "end_timestamp": "2023-03-18T12:30:00.000-04:00"
           }
       },
       {
@@ -401,8 +401,8 @@
         "stage": "Main",
         "title": "Lunch",
         "performance_times": {            
-            "start_timestamp": "2023-03-18T12:30:00.000-05:00",
-            "end_timestamp": "2023-03-18T13:45:00.000-05:00"
+            "start_timestamp": "2023-03-18T12:30:00.000-04:00",
+            "end_timestamp": "2023-03-18T13:45:00.000-04:00"
           }
       },
       {
@@ -410,8 +410,8 @@
         "band_draw": "B_7",
         "stage": "Main",
         "performance_times": {            
-            "start_timestamp": "2023-03-18T13:45:00.000-05:00",
-            "end_timestamp": "2023-03-18T14:15:00.000-05:00"
+            "start_timestamp": "2023-03-18T13:45:00.000-04:00",
+            "end_timestamp": "2023-03-18T14:15:00.000-04:00"
           }
       },
       {
@@ -419,8 +419,8 @@
         "band_draw": "B_8",
         "stage": "Main",
         "performance_times": {            
-            "start_timestamp": "2023-03-18T14:15:00.000-05:00",
-            "end_timestamp": "2023-03-18T14:45:00.000-05:00"
+            "start_timestamp": "2023-03-18T14:15:00.000-04:00",
+            "end_timestamp": "2023-03-18T14:45:00.000-04:00"
           }
       },
       {
@@ -428,8 +428,8 @@
         "band_draw": "B_9",
         "stage": "Main",
         "performance_times": {            
-            "start_timestamp": "2023-03-18T14:45:00.000-05:00",
-            "end_timestamp": "2023-03-18T15:15:00.000-05:00"
+            "start_timestamp": "2023-03-18T14:45:00.000-04:00",
+            "end_timestamp": "2023-03-18T15:15:00.000-04:00"
           }
       },
       {
@@ -437,8 +437,8 @@
         "band_draw": "B_10",
         "stage": "Main",
         "performance_times": {            
-            "start_timestamp": "2023-03-18T15:15:00.000-05:00",
-            "end_timestamp": "2023-03-18T15:45:00.000-05:00"
+            "start_timestamp": "2023-03-18T15:15:00.000-04:00",
+            "end_timestamp": "2023-03-18T15:45:00.000-04:00"
           }
       },
       {
@@ -447,8 +447,8 @@
         "stage": "Main",
         "title": "Awards",
         "performance_times": {            
-            "start_timestamp": "2023-03-18T16:00:00.000-05:00",
-            "end_timestamp": "2023-03-18T16:30:00.000-05:00"
+            "start_timestamp": "2023-03-18T16:00:00.000-04:00",
+            "end_timestamp": "2023-03-18T16:30:00.000-04:00"
           }
       }
     ]
@@ -459,10 +459,10 @@
     "image": "https://s3.us-east-1.amazonaws.com/columbusmakesart-content/site-images/_hero/artmakesus-hero.jpg",
     "address": "Dublin Jerome Performing Arts Center, Dublin, OH",
     "map_file": "https://goo.gl/maps/n9R3WrBdMK6Bi9MV7",
-    "description": "The Dublin Festival of Brass is held in March every year. It hosts British-style brass bands from across the Midwest, USA, and beyond. The competition requires bands perform a march, slow melody, and major work. In addition to band performances, there are also some brief solo and ensemble performances.",
+    "description": "The Dublin Festival of Brass is held in March every year. It hosts British-style brass bands from across the Midwest, USA, and beyond. The competition requires bands perform a march, slow melody, and major work. In addition to band performances, there are also some brief solo and ensemble performances. The judges for the 2023 Dublin Festival of Brass are Dr. John Phillips, Allan Ramsay, and Jessica Sneeringer, ",
     "link": "https://www.columbusmakesart.com/place/3994-dublin-jerome-high-school-center-for-the-performing-arts",
     "contest_name": "The Dublin Festival of Brass",
-    "judge_link": "",
+    "judge_link": "https://nabba.org/wp-content/uploads/2023/01/2023-NABBC-Band-Judges.pdf",
     "solo_ensemble_link": ""
   },
   "partner_details": [
