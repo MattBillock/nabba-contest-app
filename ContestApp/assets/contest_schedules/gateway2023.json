@@ -114,11 +114,11 @@
       "name": "St. Louis Brass Band",
       "website": "https://www.stlbb.org/",
       "band_bio": "Founded in 1998, the Saint Louis Brass Band features some of the area’s finest brass musicians, educators, and students, who come together to perform classics, marches, jazz, and the very best contemporary brass band music. Acclaimed by the St. Louis Post-Dispatch as “one of the city’s newest treasures,” the STLBB has won award at NABBA and the US Open Bass Band Championships. Generous financial support has come from the Missouri Arts Council, Regional Arts Commission, Ameren Illinois, the Garvey Foundation, Boeing, and area music stores throughout the region In 2014 the St. Louis Academy Brass Band was established as part of the Educational Outreach Program. The Fall of 2017 saw the establishment of Brass Extravaganza!: two days of brass and percussion workshops, clinics, rehearsals, and performances for students Grades 8 through college level, all led by members of the Saint Louis Brass Band. Guest soloists with the Saint Louis Brass Band include Karin Bliznik (Principal Trumpet - St. Louis Symphony Orchestra), Gerry Pagano (Bass Trombone - St. Louis Symphony Orchestra), J.D. Shaw (Boston Brass co-founder and horn), Christine Brewer (Grammy award-winning soprano) and Demondrae Thurman (Professor of Euphonium, Indiana University).",
-      "band_photo": "",
-      "band_logo": "",
+      "band_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/34/band_photo.jpg",
+      "band_logo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/34/band_logo.png",
       "conductor_name": "John Bell",
       "conductor_bio": "Dr. John Bell has served as the Music Director for the St. Louis Brass Band since 2009 and serves on the NABBA Board. In addition to his work in the brass band arena, he is the newly appointed Director of Wind Ensemble at McKendree University, in Lebanon, Illinois, and Professor of Music Emeritus at Southern Illinois University Edwardsville, a role he held for 30 years.Dr. Bell is an elected member of the prestigious American Bandmasters Association and has been an invited clinician and adjudicator throughout the United States, Asia and Canada, for DCI, Music for All, the World Music Festival, and numerous championship events. Previous appointments include Music Director of the Rocky Mountain Brassworks Brass Band in Denver, Colorado, Associate Director of Bands at the University of Northern Colorado, Doctoral Conducting intern at the University of Illinois, and band director at Willowbrook and Rolling Meadows High Schools in the Chicago suburbs Ensembles under his direction have been selected for performance at the international conference of the World Association for Symphonic Bands and Ensembles in Chiayi City, Taiwan; the national convention of the Music Educators National Conference (now NAfME); divisional conferences of the Southwest and North-Central College Band Directors National Association; the state conferences of the Illinois Music Educators and Colorado Music Educators; and twice in New York City’s Carnegie Hall. He resides in Lebanon, Illinois, with his spouse, Dr. Jennifer Moder-Bell and their pup, Wiggles.",
-      "conductor_photo": "",
+      "conductor_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/34/conductor_photo.jpeg",
       "band_section": "Exhibition",
       "contact_email": "stlouisbrassband@gmail.com",
       "choice_pieces": [
@@ -337,7 +337,7 @@
         "performance_times": {            
             
           "start_timestamp": "2023-03-18T12:45:00.000-05:00",
-          "end_timestamp": "2023-03-18T13:25:00.000-05:00"
+          "end_timestamp": "2023-03-18T13:45:00.000-05:00"
           }
         
       },{
@@ -345,8 +345,8 @@
         "band_draw": "O_A",
         "stage": "Main",
         "performance_times": {            
-          "start_timestamp": "2023-03-18T13:25:00.000-05:00",
-          "end_timestamp": "2023-03-18T14:00:00.000-05:00"
+          "start_timestamp": "2023-03-18T13:45:00.000-05:00",
+          "end_timestamp": "2023-03-18T14:20:00.000-05:00"
           }
         
       },{
@@ -354,8 +354,8 @@
         "band_draw": "O_B",
         "stage": "Main",
         "performance_times": {            
-          "start_timestamp": "2023-03-18T14:00:00.000-05:00",
-          "end_timestamp": "2023-03-18T14:40:00.000-05:00"
+          "start_timestamp": "2023-03-18T14:20:00.000-05:00",
+          "end_timestamp": "2023-03-18T15:00:00.000-05:00"
           }
         
       },{
@@ -363,8 +363,8 @@
         "band_draw": "C_A",
         "stage": "Main",
         "performance_times": {
-          "start_timestamp": "2023-03-18T14:40:00.000-05:00",
-          "end_timestamp": "2023-03-18T15:30:00.000-05:00"
+          "start_timestamp": "2023-03-18T15:00:00.000-05:00",
+          "end_timestamp": "2023-03-18T15:50:00.000-05:00"
           }
         
       },{
@@ -372,8 +372,8 @@
         "band_draw": "C_B",
         "stage": "Main",
         "performance_times": {            
-          "start_timestamp": "2023-03-18T15:30:00.000-05:00",
-          "end_timestamp": "2023-03-18T16:20:00.000-05:00"
+          "start_timestamp": "2023-03-18T15:50:00.000-05:00",
+          "end_timestamp": "2023-03-18T16:40:00.000-05:00"
           }
         
       },{
@@ -381,8 +381,8 @@
         "band_draw": "C_C",
         "stage": "Main",
         "performance_times": {            
-          "start_timestamp": "2023-03-18T16:20:00.000-05:00",
-          "end_timestamp": "2023-03-18T17:10:00.000-05:00"
+          "start_timestamp": "2023-03-18T16:40:00.000-05:00",
+          "end_timestamp": "2023-03-18T17:30:00.000-05:00"
           }
         
       },{
@@ -390,8 +390,8 @@
         "band_draw": "C_D",
         "stage": "Main",
         "performance_times": {            
-          "start_timestamp": "2023-03-18T17:10:00.000-05:00",
-          "end_timestamp": "2023-03-18T18:00:00.000-05:00"
+          "start_timestamp": "2023-03-18T17:30:00.000-05:00",
+          "end_timestamp": "2023-03-18T18:20:00.000-05:00"
           }
         
       }
