@@ -17,6 +17,12 @@ export default function createStyle() {
       width: '100%',
       backgroundColor: theme.colors.background,
     },
+    bandListContainer: {
+      flex: 1,
+      width: '100%',
+      backgroundColor: theme.colors.background,
+      
+    },
     card: {
       //backgroundColor: theme.colors.background,
       color: theme.colors.primary,

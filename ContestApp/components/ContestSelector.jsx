@@ -1,7 +1,7 @@
 import * as React from 'react';
 import { useEffect } from 'react';
 import { useState } from "react";
-import { Image, TouchableOpacity, View } from 'react-native';
+import { Image, ScrollView, TouchableOpacity, View } from 'react-native';
 import { ActivityIndicator, Card, MD2Colors, RadioButton, Text, Title } from 'react-native-paper';
 import { useDispatch, useSelector } from 'react-redux';
 import createStyle from '../app/styles.js';
@@ -54,9 +54,9 @@ export default function ContestSelector(props) {
   }
 
   return (
-    <View style={styles.container}>        
+    <ScrollView style={styles.bandListContainer} contentContainerStyle={styles.container}>        
       {content}
-    </View>
+    </ScrollView>
   );   
 }
 

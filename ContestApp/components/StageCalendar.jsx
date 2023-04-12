@@ -1,5 +1,5 @@
 import * as React from 'react';
-import { Dimensions, ImageBackground, SafeAreaView, ScrollView, SectionList, StyleSheet, TouchableOpacity, View } from "react-native";
+import { Dimensions, Image, ImageBackground, SafeAreaView, ScrollView, SectionList, StyleSheet, TouchableOpacity, View } from "react-native";
 import Constants from 'expo-constants';
 import { Agenda } from 'react-native-calendars';
 
@@ -193,7 +193,7 @@ export function StageCalendar(props) {
   
     let pieces = activeBand.choice_pieces.filter(entry => entry.performance_slot === activeSlot.item.band_draw)
     
-    let piece_info = <Card elevated style={styles.cardNoHeight} onPress={() => setActiveItems(undefined,undefined)}>
+    let piece_info = <Card elevated style={styles.cardNoHeight}>
       <Card.Title title={getBandName(activeBand.name, activeSlot.item.band_draw, activeSlot.item.title)} />
       <Card.Title title={"Event time: " + moment(activeSlot.item.performance_times.start_timestamp).format('LT')} />
       <Card.Content>
@@ -218,13 +218,15 @@ export function StageCalendar(props) {
     content = piece_info
   }
   else if(activeSlot && activeSlot.item.title && activeBand && activeBand.name == "not found") {
-    content = <Card elevated style={styles.cardNoHeight} onPress={() => setActiveItems(undefined,undefined)}>
+    let description_content;
+    content = <Card elevated style={styles.cardNoHeight}>
     <Card.Title title={activeSlot.item.title} />
     <Card.Content>
       <Text>Start time: {moment(activeSlot.item.performance_times.start_timestamp).format('LT')}</Text>
-      <Text>&nbsp;</Text>
       <Divider />
-      <Text>&nbsp;</Text>
+      <Text>{activeSlot.item.details && (activeSlot.item.details)}</Text>
+      <Divider />
+      {(activeSlot.item.slot_image) && (<Card.Cover source={{uri:activeSlot.item.slot_image}}  resizeMode={'contain'} style={{backgroundColor: 'white'}} />)}
     </Card.Content>
     {button}
   </Card>
@@ -254,10 +256,11 @@ export function StageCalendar(props) {
   }
   
   return (
-    <Provider>
-      <ImageBackground source={require('../assets/background.jpg')} style={styles.image}>
-      {content}
-      </ImageBackground>
-    </Provider>
+      <Provider>
+        <ImageBackground source={require('../assets/background.jpg')} style={styles.image}>
+          {content}
+        </ImageBackground>
+      </Provider>
+    
   );
 };
