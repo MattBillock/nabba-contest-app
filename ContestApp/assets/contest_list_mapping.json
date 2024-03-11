@@ -1,32 +1,31 @@
 {
   "contests": [
     {
-      "id": 1,
-      "name": "Gateway British Brass Band Festival",
-      "dev_app_active_date": "",
-      "live_date": "2023-03-18T00:00:00.000-05:00",
-      "contest_logo_file": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/contest_logos/gateway-small.png",
-      "contest_data_file": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/gateway2023.json",
-      "full_reveal_date": "2023-04-22T00:00:00.000-05:00"
-      
-    },
-    {
       "id": 2,
-      "name":"Dublin Festival of Brass",
-      "dev_app_active_date": "",
-      "live_date": "2023-03-25T00:00:00.000-05:00",
-      "contest_logo_file": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/contest_logos%2Fdfob-logo.webp",
-      "contest_data_file": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/dublin2023.json",
-      "full_reveal_date": "2023-04-22T00:00:00.000-05:00"
+      "name": "NABBA 2024",
+      "live_date": "2024-02-29T00:00:00.000-05:00",
+      "contest_logo_file": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/contest_logos/nabba_contest_logo.png",
+      "contest_data_file": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/nabba2024.json",
+      "full_reveal_date": "2024-04-06T00:00:00.000-05:00"
     },
+
     {
       "id": 3,
-      "name": "NABBA 2023",
-      "dev_app_active_date": "",
-      "live_date": "2023-04-21T00:00:00.000-05:00",
-      "contest_logo_file": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/contest_logos/nabba_contest_logo.png",
-      "contest_data_file": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/nabba2023.json",
-      "full_reveal_date": "2023-04-22T00:00:00.000-05:00"
+      "name": "Gateway 2024",
+      "live_date": "2024-02-29T00:00:00.000-05:00",
+      "contest_logo_file": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/contest_logos/gateway-small.png",
+      "contest_data_file": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/gateway2024.json",
+      "full_reveal_date": "2024-03-17T00:00:00.000-05:00"
+    },
+
+    {
+      "id": 4,
+      "name": "DFoB 2024",
+      "live_date": "2024-02-29T00:00:00.000-05:00",
+      "contest_logo_file": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/contest_logos/DFOB%20logo%20Horizontal.png",
+      "contest_data_file": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/dublin2024.json",
+      "full_reveal_date": "2024-03-17T00:00:00.000-05:00"
     }
+    
   ]
 }

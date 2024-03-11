@@ -32,6 +32,9 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
+    "packagerOpts": {
+      "sourceExts": [ "js", "json", "ts", "tsx", "jsx", "vue"]
+    },
     "extra": {
       "eas": {
         "projectId": "8cb5c970-f4c4-4e06-a98f-1660542f45c5"

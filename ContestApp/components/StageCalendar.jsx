@@ -104,6 +104,8 @@ export function StageCalendar(props) {
       'BC': 'Brass Choir',
       'EX': 'Exhibition',
       'B': 'DFoB participant',
+      'CH': 'Challenge section',
+      'E': 'Elite section'
     }
     
     let full_reveal_date;

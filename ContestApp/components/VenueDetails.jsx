@@ -32,7 +32,6 @@ export function VenueDetails(props) {
           {(venue_details.judge_link &&  venue_details.judge_link != "") && (<Button onPress={() => Linking.openURL(venue_details.judge_link)}>Judging information</Button>) }
           {(venue_details.solo_ensemble_link && venue_details.solo_ensemble_link != "") && (<Button onPress={() => Linking.openURL(venue_details.solo_ensemble_link)}>I&E information</Button>) }
           
-          <Button onPress={() => Linking.openURL("https://nabba.org/wp-content/uploads/2023/04/NABBA-2023-Band-Contest-Flow.pdf")}>NABBA Contest Flow</Button>
         </Card.Content>
       </Card>
         <Card >

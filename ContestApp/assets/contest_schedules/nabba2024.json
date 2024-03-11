@@ -1,0 +1,2040 @@
+{
+    "band_list": [
+        {
+            "id": 6,
+            "name": "Arkansas Musicworks Brass Band",
+            "website": "https://arkansasmusicworks.com",
+            "band_bio": "Arkansas Musicworks Brass Band, founded in 2017, is an entirely volunteer brass band based in the Northwest Arkansas area. The 'Musicworks Band' seeks to create world-class performances featuring regional musicians, fostering a culture of professional excellence in the amateur music-making community. To that end, the band regularly engages with composers and conductors who are new to the brass band genre and want to hear their musical ideas brought to life for the public. More broadly, the band takes pride in offering a high-quality outlet for musicians, composers, and conductors seeking to push their artistry to new heights in a friendly and constructive environment. The band is also very proud of its growing youth programs, alumni from which have already found their way into NABBA bands from third section to championship.",
+            "band_photo": null,
+            "band_logo": null,
+            "conductor_name": "Evan Harger",
+            "conductor_bio": "Dr. Evan Harger serves as Assistant Director of Bands and Music Entrepreneurship at Texas A&M University Kingsville. In that capacity, he conducts the Concert and University Bands, teaches undergraduate conducting, mentors graduate students, and leads an all -undergraduate conducting studio. An advocate for new music and living composers, Dr. Harger serves as a Staff Conductor for the Sofia Symphonic Summit and Vienna Summer Music Festival where he collaborates with world-class ensembles and living composers to promote new music and international collaboration. \r\n\r\nPast guest conducting engagements have included the Sofia Philharmonic, Ensemble PHACE, Maryland Chamber Winds, Young People\u2019s Philharmonic of the Lehigh Valley, St. Petersburg State Symphony, Oregon Mozart Players, Members of the Northeastern Pennsylvania Philharmonic and Northeastern Pennsylvania Chamber Music Society, Idaho All Collegiate Band, Pennsylvania Music Educators Association District 8 Orchestra, PMEA District 9 Orchestra, Marywood Honor Chamber Orchestra, Lycoming County Honor Band, Berks County Honor Orchestra, and other guest clinics with high school bands and orchestra. He is passionate about teaching the art of conducting, score study, and entrepreneurship to undergraduate and graduate students and currently resides in Kingsville Texas.",
+            "conductor_photo": null,
+            "contact_email": "brassband@arkansasmusicworks.com",
+            "choice_pieces": [
+                {
+                    "title": "St. James - A New Beginning",
+                    "composer": "Philip Harper",
+                    "performance_slot": "1_C"
+                },
+                {
+                    "title": "Dances and Arias",
+                    "composer": "Edward Gregson",
+                    "performance_slot": "1_GG"
+                }
+            ],
+            "band_section": "First Section",
+            "contest_draw_identifiers": [
+                "1_C",
+                "1_GG"
+            ]
+        },
+        {
+            "id": 30,
+            "name": "Atlantic Brass Band",
+            "website": "www.atlanticbrassband.net",
+            "band_bio": "Originally formed as the Wheaton Brass Band by Yorkshire-born Herb Roselle in 1984, the three-time North American Champion Atlantic Brass Band is a premier all-volunteer ensemble in the greater Philadelphia/ Southern New Jersey area, and artists-in-residence at Rowan University (Glassboro, NJ). Composed of professional musicians, educators, and non-music professionals, the band is committed to bringing the arts to the community through entertainment, educational collaborations, and fundraising partnerships.\r\n\r\nAtlantic follows a traditional brass band schedule, meeting twice a week for rehearsal throughout the year. The band has previously performed at Cape May Victorian Week, the Great American Brass Band Festival, the Gettysburg Brass Band Festival, the International Trumpet Guild Conference, and the National Trumpet Competition, and has performed internationally in Italy, the U.K. (two tours), and in the Netherlands (with appearances at both NATO JFC Brunssum and the World Brass Band Championship).\r\n\r\nThe band has been privileged to work with world renowned musicians, bands, conductors, and composers Phil Harper, the Cory Band, Tom Hutchinson, Steve Sykes, Garry Cutt, Mark Frost, Ronald Waiksnoris, the New York Staff Band, Tyrone Breuninger, Stephen Bulla, James Gourlay, Dr. Nicholas Childs, the Black Dyke Band, Philip Smith, Peter Graham, Iain David Culross, Ronald Romm, Jens Lindemann, Brett Baker, Peter Bond, and David Childs.\r\n\r\nRecent initiatives to promote brass banding include the inception of the Mid-Atlantic Brass Band Festival in 2012, an annual event including masterclasses, clinics, solo competitions, and band performances that culminated in 2016 with hosting the #1 brass band in the world, the Cory Band from Wales, UK, as well as the collaborative effort with Rowan Prep to form the Rowan Prep Atlantic Youth Brass Band, an introductory brass band experience for area middle and high school musicians.",
+            "band_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/30/ABB%20Photo%20%20%20-%20Michael%20Armstrong.jpg",
+            "band_logo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/30/ABB%20logo%20-%20Michael%20Armstrong.jpg",
+            "conductor_name": "Salvatore Scarpa",
+            "conductor_bio": "In addition to being Music Director/Conductor of Atlantic Brass Band (3-time North American Brass Band Champions & the 2017 US Open Brass Band Champions), Salvatore Scarpa was Director of Orchestras at Rowan University, where he conducted the University Orchestra and Opera Company productions; also teaching conducting, music theory, and music history until his recent retirement. He is also Music Director/Conductor of the Bel Canto Lyric Opera Company and a frequent guest conductor of Pennsylvania Ballet and the Orvieto Festival of Strings (Italy).\r\n\r\nA graduate of the Eastman School of Music and Rowan University, Mr. Scarpa is a member of a generation of musicians at home in the worlds of classical, jazz, and popular music. He has written works for the Empire Brass, the Philadelphia Pops, and the International Trombone Association, several theater scores, and was the winner of a Down Beat Magazine \u201cdee bee\u201d award for Best Jazz Arrangement. He was a member of the first BMI Jazz Composers Workshop and Assistant Music Director for the Grammy Award-winning production Zappa\u2019s Universe.",
+            "conductor_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/30/conductor%20photo%20-%20Michael%20Armstrong.jpg",
+            "contact_email": "info@atlanticbrassband.org",
+            "choice_pieces": [
+                {
+                    "title": "Other Lives",
+                    "composer": "Oliver Waespi",
+                    "performance_slot": "C_D"
+                },
+                {
+                    "title": "A Tale As Yet Untold",
+                    "composer": "Philip Sparke",
+                    "performance_slot": "C_GG"
+                }
+            ],
+            "band_section": "Championship Section",
+            "contest_draw_identifiers": [
+                "C_D",
+                "C_GG"
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Austin Brass Band",
+            "website": "www.austinbrassband.com",
+            "band_bio": "The Austin Brass Band is made up of local brass and percussion musicians in central Texas who are passionate about the British brass banding tradition. Originally founded in 2005 by members of the Austin Civic Wind Ensemble, the band has delighted the community for nearly two decades. Under the direction of John Caputo since 2011, they perform local concerts at a variety of venues, and in 2019 they attended their first North American Brass Band Association Championships.",
+            "band_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/14/Band1%20Cropped%20-%20abb%20treasurer.jpg",
+            "band_logo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/14/ABB%20Logo%202023%20-%20abb%20treasurer.png",
+            "conductor_name": "John Caputo",
+            "conductor_bio": "Euphonium soloist, conductor and educator John Caputo is the Lecturer of Euphonium and Trombone at the University of Texas at San Antonio. A sixteen-year veteran of the US Air Force Bands Program, he has built an international reputation for excellence as a performer and educator. As a chamber musician and clinician for the Air Force, he travelled to top university programs throughout the US with the USAF Reserve Brass Quintet. That quintet is featured on Firepower, which has played on NPR\u2019s Performance Today over forty times in the last ten years.\r\n\r\nJohn is a seasoned soloist, having performed numerous times in front of both the Band of the USAF Reserve and the USAF Band of the West, including a premiere performance of Eric Frank\u2019s Watercolors at the International Euphonium Institute. John was also a critical member of the Georgia Brass Band, where he performed as their Solo Euphoniumist from 2003-2010. He was featured as a soloist with that band many times, including a performance at the 2011 Southeast Regional Tuba Euphonium Conference. John has given additional solo performances at the Great American Brass Band Festival, the Mid West and Southwest Regional Tuba Euphonium Conferences, and the Northwest Big Brass Bash.\r\n\r\nSince retiring from active duty in 2015, John has become an active teacher and clinician throughout South Central Texas and Louisiana. He is currently the Music Director for the Austin Brass Band and the British Brass Band of Louisiana. John plays Solo Euphonium for the San Antonio Brass Band and is in demand as a Besson Performing Artist and Clinician throughout the US. He currently resides in San Antonio with his wife Elizabeth Jones and their cats Lily and Joey Pancakes.",
+            "conductor_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/14/John%202023%20-%20abb%20treasurer.jpg",
+            "contact_email": "abbtreasurer2018@gmail.com",
+            "choice_pieces": [
+                {
+                    "title": "Albinus Variations",
+                    "composer": "Etienne Crausaz",
+                    "performance_slot": "2_K"
+                },
+                {
+                    "title": "Brass Triumphant",
+                    "composer": "Gareth Wood",
+                    "performance_slot": "2_AA"
+                }
+            ],
+            "band_section": "Second Section",
+            "contest_draw_identifiers": [
+                "2_K",
+                "2_AA"
+            ]
+        },
+        {
+            "id": 32,
+            "name": "Brass Band of Central Florida",
+            "website": "www.bbcfband.com",
+            "band_bio": "Under the music direction of Gareth Pritchard, the BBCF features Central Florida\u2019s finest brass and percussion musicians, performing in the British Brass Band style with traditional British Brass Band instrumentation. BBCF has an active performance schedule of concerts, outreach programs and competitions throughout the United States and the United Kingdom.\r\n\r\nThe Brass Band of Central Florida is very fortunate to perform two separate programs each year at St. Luke\u2019s Lutheran Church as part of the prestigious St. Luke\u2019s Concert series, which also features other groups such as the Orlando Philharmonic Orchestra, UCF Symphony Orchestra and Orlando Concert Band. The Band has also performed regularly at the Winter Park Arts Festival and the Celebration Foundation Concert Series. Many students from Orange, Seminole and Volusia Counties, plus UCF and Stetson Universities have benefitted from the Band\u2019s outreach programs and are now full-time members of the Band.\r\n\r\nBBCF has competed regularly in the Championship Section of the North American Brass Band Championships (NABBA) and the US Open, winning NABBA in 2005 and the US Open on 4 occasions.\r\n\r\nThey have also appeared once at the British Open Brass Band Championships and three times at the Brass in Concert Championship, gaining 2nd Prize in 2011.\r\n\r\nThe Brass Band of Central Florida is an IRS 501 c (3) tax-exempt and a Florida non-profit corporation. The organization\u2019s mission is to promote the traditional British Brass Band style and sound while helping to preserve and foster its long and colourful history and its music.",
+            "band_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/32/BBCF%20Photo%20-%20BBCF%20President.jpg",
+            "band_logo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/32/BBCF%20logo%20-%20BBCF%20President.jpg",
+            "conductor_name": "Gareth Pritchard",
+            "conductor_bio": "Originally from South Wales in the UK, where he began playing Cornet in the local Colliery Band at 9 years of age, Gareth moved to the Orlando area in 2015 and by the summer of 2016, he was delighted to accept the vacant position of Music Director for the BBCF.\r\n\r\nHaving studied Conducting, Composition, Music History and Performance at Trinity College of Music, London, Gareth graduated with both an FTCL (Master\u2019s Degree) and an LTCL (Bachelor\u2019s Degree - with added Teacher\u2019s Diploma - TD) in just 4 years. A feat not equalled by anyone, even to this day.\r\n\r\nAs a conductor, he brings with him a wealth of experience in wide-ranging styles and genres from Big Band & Jazz to Classical Orchestral, Wind Band, and Brass Band, all at the highest level. Gareth attained unprecedented success at the Norwegian National Brass Band Championships gaining 4 first prizes in 6 years, spread over Championship, 1st, and 2nd Sections and many 1st prizes in Championship Section Competitions in the UK. He also won the title of \u2018Champion Cornet Soloist of Great Britain\u2019 on two separate occasions.\r\n\r\nAn active member of the Association of Brass Band Adjudicator, Gareth is also a registered adjudicator for the Florida Bandmasters Association. He has adjudicated at major Festivals and Competitions all over Western Europe and the USA. His compositions and arrangements are played worldwide with many of them also having been commercially recorded.",
+            "conductor_photo": null,
+            "contact_email": "bbcfpresident@gmail.com",
+            "choice_pieces": [
+                {
+                    "title": "Other Lives",
+                    "composer": "Oliver Waespi",
+                    "performance_slot": "C_B"
+                },
+                {
+                    "title": "Variations and Fugue on an Original Theme (Vita Aeterna Variations)",
+                    "composer": "Alexander Comitas",
+                    "performance_slot": "C_BB"
+                }
+            ],
+            "band_section": "Championship Section",
+            "contest_draw_identifiers": [
+                "C_B",
+                "C_BB"
+            ]
+        },
+        {
+            "id": 19,
+            "name": "Brass Band of Huntsville",
+            "website": "www.brassbandofhuntsville.com",
+            "band_bio": "Alabama's own, the Brass Band of Huntsville (BBoH), is proud to host and compete in the 2024 North American Brass Band Association (NABBA) Championships in the Von Braun Center on 5-6 April 2024. Founded in 2001, BBoH is an all volunteer, 501(c)3 non-profit corporation and founding resident tenant in the Sandra Moon Community Complex, where BBoH has launched the Youth Brass Academy (YBA) to expand the opportunities for life-changing experiences in brass banding.",
+            "band_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/19/BBoH_NABBA_2023_Brass_Triumphant_20230422%20-%20Kent%20Eversmeyer.PNG",
+            "band_logo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/19/BBoH_logo_individual%20-%20Kent%20Eversmeyer.png",
+            "conductor_name": "Casey Thomas",
+            "conductor_bio": "Originally from Cedartown, Georgia, Dr. Casey Thomas is Assistant Professor of Trombone at Jacksonville State University. Dr. Thomas completed both his Masters and Doctor of Musical Arts degrees in trombone performance and pedagogy from The University of Iowa in Iowa City and his Bachelors degree in music education from JSU. He is a low brass instructor with The Cadets Drum and Bugle Corps. He is also a member of Resonant Projection, a professional trombone quartet dedicated to promoting new and undiscovered works, and is a founding member of the Durward Ensemble, which performs across the country and is a chamber ensemble that promotes the diversity of contemporary music to a broad audience through performances of rarely performed works and by commissioning new works by living composers. Dr. Thomas is the principal trombonist of the Gadsden (AL) Symphony Orchestra, bass trombonist with the Rome (GA) Symphony Orchestra, the Music Director of the Brass Band of Huntsville (AL) and has performed with various ensembles throughout the U.S. and Canada. Previous academic appointments were at Berry College, Georgia Highlands College, Georgia Northwestern Technical College, Ouachita Baptist University, Cornell College, and Saint Ambrose University.\r\n\r\nIn the brass band world he is a Music Director of the Eastern Iowa Brass Band and has performed with the Jericho Brass, Roman Festival Brass, and the Georgia, Rockville, and Tallgrass Brass Bands. In 2022 Dr. Thomas founded the Jacksonville State University Brass Band, which won Third Section at the NABBA 2023 Championships.\r\n\r\nDr. Thomas is married to Teresa Beary (a tubist) and together they have two cats, Feech and The Dude.",
+            "conductor_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/19/2019CaseyThomas%20headshot%20-%20Kent%20Eversmeyer.jpg",
+            "contact_email": "kent.eversmeyer@brassbandofhuntsville.com",
+            "choice_pieces": [
+                {
+                    "title": "Albinus Variations",
+                    "composer": "Etienne Crausaz",
+                    "performance_slot": "2_F"
+                },
+                {
+                    "title": "Saint-Saens Variations",
+                    "composer": "Philip Sparke",
+                    "performance_slot": "2_KK"
+                }
+            ],
+            "band_section": "Second Section",
+            "contest_draw_identifiers": [
+                "2_F",
+                "2_KK"
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Central Ohio Brass Band",
+            "website": "centralohiobrass.com",
+            "band_bio": "The Central Ohio Brass Band (COBB) was formed in 1989 as the Ohio Collegiate Brass Band. Today, COBB is a 501c3 non-profit organization whose members represent a diverse cross section of the Central Ohio community and a multitude of professions, including teachers, dentists, nurses, IT specialists, and a variety of business careers.\r\n\r\nCOBB competes regularly at the North American Brass Band Association (NABBA) Championships, having earned first place in the first section five times (2007, 2009, 2010, 2011, 2012). In the winter of 2009, COBB was awarded first place in the Devilish Publishing online competition based in the United Kingdom. In addition to the NABBA Championships, COBB has performed at the Butlin\u2019s Mineworkers Open National Brass Band Festival in the United Kingdom, the Great American Brass Band Festival, the US Open Brass Band Championships, the Dublin Festival of Brass, and the International Trombone Festival.\r\n\r\nCOBB enjoys a vigorous performance schedule, frequently playing at church functions, community festivals, and with school groups to promote life-long learning as well as to foster the brass band tradition in the United States.\r\n\r\nCOBB has been hosting the Ohio Brass Arts Festival since 2007 and will continue with its 17th edition on Saturday, June 22, 2024, at Creekside in Gahanna Ohio. Come join us for our annual event as we embrace our mission and help to share brass band music with our community!",
+            "band_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/09/COBB%20-%20Andrew%20Wolf.JPG",
+            "band_logo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/09/COBB%20logo-2%20-%20Andrew%20Wolf.jpg",
+            "conductor_name": "Matthew Henry",
+            "conductor_bio": "Matthew Shane Henry, Music Director\r\n\r\nA native of Beavercreek, Ohio, Matthew Shane Henry received his Bachelor of Music Education degree with an emphasis in Jazz Studies (trumpet performance) from The Ohio State University, Columbus, Ohio. Quickly demonstrating his educational prowess, he was named the first recipient of the School of Music's Outstanding Student Teacher Award. He enjoyed a successful seven-year career as a music educator in the public schools of Ohio, prior to being offered a graduate assistantship at the Jordan College of Fine Arts of Butler University, Indianapolis, Indiana, where he pursued a Master of Music degree in orchestral and wind conducting. While at Butler, he served as Associate Conductor of the Symphonic Band and Wind Ensemble and adjunct faculty with the undergraduate conducting and music education programs. During this time, he also was active as Principal Guest Conductor with the Butler Symphony Orchestra. In addition to his conducting and teaching responsibilities, Matthew also held the position of Principal Trumpet with the Orchestra throughout his assistantship including their tour of The Republic of China (Taiwan).\r\n\r\nMaking a shift from the education realm to the professional, Matthew was offered a highly selective position with the United States Air Force\u2019s Music program as a conductor. Major (ret.) Henry has held a wide variety of assignments over his 20-year career in the Air Force to include 11 years as Commander, Conductor & Music Director of bands worldwide. He has literally joined the Air Force and seen the world. In a combined 7 years leading bands overseas, he has visited or performed in 49 different countries throughout the Pacific, Asia, Europe, Africa, and the Middle East. He retired as Director of Staff & Associate Conductor for The United States Air Force Band, Joint Base Anacostia-Bolling, Washington DC. He remains active as a guest conductor, clinician, educator, adjudicator, and producer. Additionally, Matthew is 2/3 complete in pursuing a Doctor of Musical Arts from UNLV\u2019s Wind Studies Division. Prior to returning to Ohio he served as a graduate assistant.\r\n\r\nC. Scott Smith, Associate Music Director\r\n\r\nC. Scott Smith joined the School of Music, Ohio University in Athens, Ohio in 1992 where he is Associate Professor of Horn and Theory and founding member of two faculty quintets: OhioBrass and OhioWinds. Prior to his tenure at O. U., Mr. Smith was Director of Bands and Assistant Professor of Horn at Susquehanna University in Selinsgrove, Pennsylvania. Prior to teaching and performing at the university level, Mr. Smith taught public school in Pennsylvania and Maine, directing concert, marching, and jazz bands and orchestras and teaching private brass and percussion students. Many of his students have become professional musicians performing internationally in symphony orchestras, military bands, and touring musical companies and teaching at both the college level and public schools.\r\n\r\nC. Scott performs with numerous regional orchestras and chamber music ensembles, presents solo recitals, and serves as guest artist, clinician, and adjudicator throughout the United States. Mr. Smith has also taught, performed, and coached ensembles at the Saarburg International Chamber Music Festival (Germany).\r\n\r\nFor 33 summers, Mr. Smith served on the faculty at New England Music Camp at the Snow Pond Center of the Arts in Sidney, Maine. During his tenure at NEMC, Mr. Smith has taught horn, performed in all large and small faculty ensembles, conducted the Concert Band, Concert Orchestra, and Symphony Band, and he organized the theory/composition and sight-singing curriculum and taught conducting.\r\n\r\nMr. Smith\u2019s education includes a Bachelor of Science (B. S.) degree in Music Education from the University of Southern Maine, Master of Music (M. M.) in Music Theory from Michigan State University where he also began the PhD degree in Horn, Theory and Literature. He completed the requirements for a B.M. and M.M. in Horn Performance at USM and MSU, respectively. He also spent one year of residency toward the DMA in Horn performance with a conducting minor at the Hartt School of Music, University of Hartford in Hartford, CT. His horn teachers include Katherine Tolliver, Dr. Douglas G. Campbell, Thomas Newell, Neill Sanders, Louis Stout, David Jolley, and Rick Seraphinoff. His brass and wind instrument repair mentors include John Rynne, Douglas Neal, Rick Seraphinoff, Bob Barclay, Meisterbuilder, Mike M\u00fcnkwitz. His conductor mentors include Dr. Jerry Bowder, Mr. Gerard Chamberlain, and Professor Stanley DeRusha.",
+            "conductor_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/09/COBB-Conductor-MatthewShaneHenry%20-%20Andrew%20Wolf.jpg",
+            "contact_email": "ztrombonewolf@gmail.com",
+            "choice_pieces": [
+                {
+                    "title": "Albinus Variations",
+                    "composer": "Etienne Crausaz",
+                    "performance_slot": "2_G"
+                },
+                {
+                    "title": "A London Overture",
+                    "composer": "Philip Sparke",
+                    "performance_slot": "2_FF"
+                }
+            ],
+            "band_section": "Second Section",
+            "contest_draw_identifiers": [
+                "2_G",
+                "2_FF"
+            ]
+        },
+        {
+            "id": 27,
+            "name": "Cherry Blossom Brass Band",
+            "website": "www.cbbrassband.com",
+            "band_bio": "The Cherry Blossom Brass Band was founded in 2023 to provide artistic experiences and competition opportunities for musicians in the Washington D.C. area. The ensemble is excited to be making its competition debut at the 2024 NABBA Championships!\r\n\r\nUnder the baton of Dereck Scott, the Cherry Blossom Brass Band strives to create engaging, high-quality performances while staying true to the competitive spirit and community-building traditions of British Brass Banding.\r\n\r\nThe band would like to extend a sincere thank you to the Herndon United Methodist Church for acting as the band\u2019s home, and to all those that have supported the band.",
+            "band_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/27/Cherry%20Blossom%20Brass%20Band%20Dec%202023%20-%20Caleb%20D..png",
+            "band_logo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/27/CBBB%20Logo%20-%20Caleb%20D..jpg",
+            "conductor_name": "Dereck Scott",
+            "conductor_bio": "Dr. Dereck Scott is a versatile musician who excels in performing, educating, composing, and conducting. He currently holds the position of Music Director of the Cherry Blossom Brass Band. Previously, he served as the Principal Cornet and Soloist with the Rockville Brass Band and has been actively involved in presenting engaging music recitals within the Northern Virginia region.\r\n\r\nDr. Scott is a founding member of Ensemble 29, a brass quintet, and he performs with various ensembles, including The Brass of the Potomac and The Cathedral Brass. He has also collaborated with regional orchestras in the area. Prior to relocating to the DC Metro area, he was a freelance musician in the Pittsburgh area and performed regularly with the Wheeling Symphony Orchestra.\r\n\r\nIn addition to his performance career, Dr. Scott is an accomplished arranger and composer with over fifty arrangements to his name. He is known for composing music for various ensemble sizes and instrument combinations, and his compositions have been performed by student, adult, and semi-professional ensembles, including numerous brass bands in the United States and internationally.\r\n\r\nDr. Scott serves as the Director of Bands at the Flint Hill School in Oakton, Virginia, and is the conductor of the Cathedral Brass in Vienna, Virginia. He has also contributed to the music education community as a judge for organizations like the Maryland Music Educators' Association and the Virginia Band and Orchestra Directors\u2019 Association. Additionally, he has served as a clinician for Loudoun County Public Schools.",
+            "conductor_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/27/Dereck%20Scott%20Headshot%20-%20Caleb%20D..webp",
+            "contact_email": "caleb.degroote@gmail.com",
+            "choice_pieces": [
+                {
+                    "title": "Vitae Aeternum",
+                    "composer": "Paul Lovatt-Cooper",
+                    "performance_slot": "3_C"
+                },
+                {
+                    "title": "The Unfortunate Traveler",
+                    "composer": "Imogen Holst",
+                    "performance_slot": "3_C"
+                }
+            ],
+            "band_section": "Third Section",
+            "contest_draw_identifiers": [
+                "3_C"
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Chicago Brass Band",
+            "website": "https://chicagobrassband.org",
+            "band_bio": "The Chicago Brass Band is a 30-piece brass and percussion ensemble formed in the British brass band tradition, but with Chicago flair. The band, led by music director Dr. Mark A. Taylor, just celebrated its 20th anniversary. During its first two decades, the Chicago Brass Band has won the North American Brass Band Championship, been awarded Most Entertaining Band at the US Open Brass Band Championships, twice competed in the World Music Contest in the Netherlands, participated in the renowned Whit Friday Marches in England, has been a featured ensemble in front of 40,000 brass fans at the Great American Brass Festival, competed in the 2019 New Zealand National Brass Band Championships, and won first prize at the 2019 Gateway British Brass Band Festival. The band\u2019s favorite activity, however, remains dazzling audiences in Chicago, one of the world\u2019s premiere cities for brass musicianship. The band has particularly enjoyed performances with soloists drawn from the Chicago Symphony Orchestra\u2019s celebrated brass section, including Chris Martin, Charlie Vernon, Gene Pokorny, John Hagstrom, and Mark Ridenour, and multiple collaborations with famed artist Rex Richardson. The Chicago Brass Band was selected to be a Chamber Group at the 2011 Midwest Band and Orchestra Clinic in Chicago, with guest soloist Jens Lindemann- rekindling the brass band movement at this annual convention. Additionally, the Chicago Brass Band has continued engaging young musicians with its Project Horizon initiative, a program developed to promote and enhance the performance and enjoyment of live music in public schools. Through collaborative concerts, workshops, and clinics, the band inspires students to continue to perform and enjoy live music at a high level into and throughout adulthood, even if they do not pursue music as their chosen profession.",
+            "band_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/01/band_photo.jpg",
+            "band_logo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/01/band_logo.jpg",
+            "conductor_name": "Mark A. Taylor",
+            "conductor_bio": "Mark A. Taylor is honored to serve as the Music Director of the internationally award-winning Chicago Brass Band. Dr. Taylor is a conductor, educator, and performer in demand throughout the Great Lakes region. No stranger to brass band leadership, Dr. Taylor is now in his second decade as Music Director of the Milwaukee Festival Brass and serves on the NABBA Board as its current Vice President for Contest Operations. Elsewhere, he is the Music Director of the Waukegan Band (one of America's oldest and most historic civic ensembles) and serves as Band Director at College of DuPage. He received the Doctor of Musical Arts degree in 2016 from the University of North Texas, where his principal conducting teachers were Eugene Migliaro Corporon, Dennis Fisher, and Nicholas Enrico Williams. Dr. Taylor\u2019s dissertation, 'British-Style Brass Bands in U.S. Colleges and Universities,' documented the existence of brass bands in American college music programs, past and present. Prior to his doctoral study, he served five years as Director of Bands and Coordinator of Ensembles at Loyola University Chicago and taught on the music education faculty at the Chicago College of Performing Arts at Roosevelt University. He received the Master of Music degree from Northwestern University, where he studied conducting with John P. Paynter and Stephen G. Peterson and music education with Bennett Reimer and Peter Webster. He received his undergraduate degrees from the University of Notre Dame, where his first conducting teachers were Walter Ginter and Carl Stam. Dr. Taylor and his wife and son reside in Lake Forest, IL.",
+            "conductor_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/11/Mark%20Taylor%20-%20Tom%20Robertson.jpg",
+            "contact_email": "matt@billock.org",
+            "choice_pieces": [
+                {
+                    "title": "Other Lives",
+                    "composer": "Oliver Waespi",
+                    "performance_slot": "C_C"
+                },
+                {
+                    "title": "Metropolis 1927",
+                    "composer": "Peter Graham",
+                    "performance_slot": "C_DD"
+                }
+            ],
+            "band_section": "Championship Section",
+            "contest_draw_identifiers": [
+                "C_C",
+                "C_DD"
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Cincinnati Brass Band",
+            "website": "www.cincinnatibrassband.com",
+            "band_bio": "The Cincinnati Brass Band (CBB) was founded in 1993 and organized by William Harvey of Buddy Rogers Music; Director, Anita Cocker Hunt; and Assistant Director, Drew Cremisio. The CBB performs regularly throughout the greater-Cincinnati area bringing their signature sound in the British brass band tradition. The Cincinnati Brass Band was proclaimed as the \u201cOfficial Brass Band of Cincinnati\u201d by the Mayor of Cincinnati in recognition for contributions to the musical culture of Cincinnati.\r\n\r\nCommunity Outreach has always been an important aspect of the band\u2019s history, and it continues today. The band has collaborated with other members of the Cincinnati art community including: Xavier University\u2019s Symphonic Winds Ensemble, Cincinnati\u2019s Music Resource Center, the Cincinnati Conservatory of Music Prep Brass Choir, the Cincinnati School for the Creative and Performing Arts, along with several private and public schools throughout the greater Cincinnati area.\r\n\r\nThe Cincinnati Brass Band is a member of the North American Brass Band Association (NABBA) which promotes the growth and development of brass bands in North America and sponsors an annual competition of the member bands. The Cincinnati Brass Band entered their first NABBA competition in 1996 and currently competes in the Second Section.",
+            "band_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/13/Cincinnati_Brass_Band_2024%20-%20Daniel%20Oehrle.jpg",
+            "band_logo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/13/Cincinnati%20Brass%20Band%20Logo%20-%20Daniel%20Oehrle.jpg",
+            "conductor_name": "Joshua Thompson",
+            "conductor_bio": "Dr. Joshua K. Thompson is extremely excited to assume his new role as the Cincinnati Brass Band\u2019s fourth Music Director. In addition to conducting the band, he is also the Orchestra Director at Winton Woods High school in Cincinnati, Ohio. He grew up in Ohio and attended Miami University where he graduated cum laude with degrees in Music Education and Music Performance. After later completing his Masters Degree in Music at Bowling Green State University, he then completed his Doctorate of Musical Arts from the University of Iowa.\r\n\r\nBefore returning to the Cincinnati area, he taught at several colleges throughout the Midwest, teaching Wind Ensemble, Symphony Orchestra, Brass Choir, Jazz Ensemble, Trumpet, Music Technology, Music Theory, and Music Education courses. Josh has been an active guest conductor, clinician, honor band conductor, and judge, and has also enjoyed a varied and active performing career as an orchestral trumpeter, chamber musician, and soloist. He was previously the Music Director of the Eastern Iowa Brass Band (now \u201cIowa Brass\u201d) and had also played cornet in the Chicago Brass Band.",
+            "conductor_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/13/Joshua%20K%20Thompson%20-%20Daniel%20Oehrle.jpg",
+            "contact_email": "daniel.oehrle@ge.com",
+            "choice_pieces": [
+                {
+                    "title": "Albinus Variations",
+                    "composer": "Etienne Crausaz",
+                    "performance_slot": "2_N"
+                },
+                {
+                    "title": "The Patriots: Symphonic Fantasia for Brass Band",
+                    "composer": "Jan de Haan",
+                    "performance_slot": "2_MM"
+                }
+            ],
+            "band_section": "Second Section",
+            "contest_draw_identifiers": [
+                "2_N",
+                "2_MM"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Colorado Brass",
+            "website": "https://www.coloradobrass.org/",
+            "band_bio": "Colorado Brass is the state's premier British-style brass band. The ensemble consists of thirty brass players and percussionists from all over Colorado, including professional musicians, music educators, students, and brass band enthusiasts.\r\n\r\nThe band performs an annual subscription concert series and participates in national competitions and festivals, including the Rocky Mountain Brassworks Festival, the U.S. Masters Brass Band Championships, and the North American Brass Band Association Championships. Their repertoire covers various styles, including British brass band standards, contemporary works, jazz, Latin music, and World Premieres.\r\n\r\nIn recent competitions, Colorado Brass achieved 2nd place in the 1st Section at NABBA in 2022, and 2nd place at the US Masters in 2022 & 2023. The Colorado Versatile Brass also earned 1st place honors in the 10-piece section in 2022 & 2023.",
+            "band_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/03/2023%20NABBA%20Full%20Band%20High%20Res%20Wide%20-%20Michael%20Horsford.jpg",
+            "band_logo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/03/2021%20Logo%20-%20transparent%20-%20Michael%20Horsford.png",
+            "conductor_name": "Brett Keating",
+            "conductor_bio": "Dr. Brett M. Keating is the Music Director of Colorado Brass (Denver) and has conducted the group since 2022. He has led the group to national recognition with podium finishes at NABBA and the US Masters. In addition to the Colorado Brass, Keating is active in the brass banding community by serving as the Music & Executive Director of the Colorado Brass Band (Gunnison, CO), Music Director of the Great Western Rocky Mountain Brass Band (Silverton, CO), and Executive Director of the Alpine Brass & Percussion Academy.\r\n\r\nAs a performer, Dr. Keating has appeared as a featured soloist with orchestras, brass bands, and wind bands in the US and Europe, including Switzerland, Italy, Germany, and the UK. His playing has been recognized at national and international competitions, including The Fischoff International & Plowman Chamber Music Competitions, Swiss National Brass band Championships, and North American Brass Band Championships. Dr. Keating has been brass-banding for over fifteen years and has enjoyed the opportunity to compete in England, Switzerland, and the US as a member of bands stateside and abroad.\r\n\r\nCurrently, Dr. Keating serves as Director of Bands & Brass at Western Colorado University. Keating also serves as the Music Director of the Lake City Stinger Wind Band (Lake City, CO).",
+            "conductor_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/03/2022%20brett-keating%20-%20Michael%20Horsford.jpeg",
+            "contact_email": "mhorsford@coloradobrass.org",
+            "choice_pieces": [
+                {
+                    "title": "St. James - A New Beginning",
+                    "composer": "Philip Harper",
+                    "performance_slot": "1_D"
+                },
+                {
+                    "title": "Dances and Arias",
+                    "composer": "Edward Gregson",
+                    "performance_slot": "1_BB"
+                }
+            ],
+            "band_section": "First Section",
+            "contest_draw_identifiers": [
+                "1_D",
+                "1_BB"
+            ]
+        },
+        {
+            "id": 29,
+            "name": "Dallas Brass Band",
+            "website": "thedallasbrassband.org",
+            "band_bio": "Dallas Brass Band was formed in 2017 as an outreach project of the Salvation Army, with the organization providing a rehearsal venue and equipment. The band is based in the British brass band tradition and consists of over 30 members.\r\n\r\nThe current band is made up of members from a variety of musical backgrounds, with many coming out of the Salvation Army banding tradition, as well as a number of universities in Dallas including the University Of North Texas, Texas Woman's University, and the University of Texas at Arlington.\r\n\r\nThe band has had the opportunity to perform with and receive masterclasses from Dr. David Childs, Jens Lindemann, Dr. Jonathan Corry, Owen Farr (International Horn Soloist), Elmer Churampi (Dallas Symphony), Thomas Hulten (Houston Grand Opera), and Charlie Green (Britain's Got Talent). The band has performed across the DFW Metroplex, including the Murchison Performing Arts Center, The Dallas Arboretum, and the Ed Landreth Auditorium. In 2022, the band was invited to give a clinic and performance at the Texas Music Educators Association Conference. The band was named 1st Section Champions at NABBA in 2022 and was nominated for the \u201cLower Section Band Of The Year\u201d award by the brass band website \u201c4BarsRest\u201d the same year.\r\n\r\nThe band\u2019s current leadership is Principal Conductor Grant Jameson, formerly conducted by Dr. David Childs and Dr. Daniel Cook. Its mission is to provide high quality music making to the Dallas Fort Worth metroplex, and give brass players and percussionists an opportunity to experience a traditional British brass band setting.",
+            "band_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/29/Dallas%20Brass%20Band%20NABBA%20Photo%202023%20-%20Nathaniel%20Geiger.jpg",
+            "band_logo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/29/Dallas%20Brass%20Band%20Logo%20Final%202%20-%20Nathaniel%20Geiger.jpg",
+            "conductor_name": "Grant Jameson",
+            "conductor_bio": "Originally from Dublin, Ohio, Grant Jameson has spent extensive time both in the United States and the United Kingdom. He received his Bachelor of Music and Masters degrees from the Royal Welsh College of Music and Drama (RWCMD) in Cardiff (UK) where he studied with David Childs for six years. During his time in the UK, Grant immersed himself in the British brass band tradition and won many awards and prizes within this genre, including the Best soloist prize at the Welsh Open (2014). Grant has also performed as a guest soloist with many of the UK's finest bands, including Cory - the world's No. 1 ranked band, Grimethorpe Colliery from the movie 'Brassed Off!', Brighouse and Rastrick, and the current National Champions of Great Britain (2018), Foden's.\r\n\r\nGrant was also principal euphonium of Tredegar Town, Tongwynlais, and Woodfalls bands before joining the Flowers Band with whom he won various contests and featured as a soloist, performing part of Sir Karl Jenkins's Euphonium Concerto, on the band's highly acclaimed CD release - Celebrate! - 50 years of Flowers.\r\n\r\nCurrently a DMA candidate and Teaching Fellow at the University of North Texas, Grant is busy as both a performer as Principal Euphonium with the Dallas Winds and Musical Director of the Dallas Brass Band.",
+            "conductor_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/29/Conductor%20Photo%20-%20Nathaniel%20Geiger.JPG",
+            "contact_email": "dallasbrassband@gmail.com",
+            "choice_pieces": [
+                {
+                    "title": "Other Lives",
+                    "composer": "Oliver Waespi",
+                    "performance_slot": "C_A"
+                },
+                {
+                    "title": "Angels and Demons",
+                    "composer": "Philip Sparke",
+                    "performance_slot": "C_FF"
+                }
+            ],
+            "band_section": "Championship Section",
+            "contest_draw_identifiers": [
+                "C_A",
+                "C_FF"
+            ]
+        },
+        {
+            "id": 21,
+            "name": "Dublin Metro Brass",
+            "website": "https://dublinbands.com/bands/metro-brass/",
+            "band_bio": "Dublin Metro Brass is the most recent addition to the Dublin Community Bands family, having been formed in 2018. In an area already populated by several fine brass bands, the formation of another one might appear superfluous, but the fact that 35 or so musicians eagerly gather regularly to experience the performance of brass band repertoire is testimony to the fact that Dublin Metro Brass has a valuable place. The band\u2019s progress as a brass band has been accelerated in the last 18 months by the appointment of the vastly-experienced Dr. Keith M. Wilkinson as Musical Director. Recent highlights include placing 3rd in the Third Section of the 2023 North American Brass Band Championships and an exciting concert where they were able to feature the world-renowned trombone soloist Brett Baker.",
+            "band_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/21/image_123650291-1%20-%20Kevin%20Pfefferle.JPG",
+            "band_logo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/21/DMB_Horz_on_White%20-%20Kevin%20Pfefferle.png",
+            "conductor_name": "Keith Wilkinson",
+            "conductor_bio": "Dr. Keith M. Wilkinson has been successfully directing brass bands for more than 50 years. He commenced regularly conducting while he was a student at the University of Manchester and following two periods directing prominent Salvation Army bands, he entered the highly competitive British Brass Band contesting scene in the Fall of 1976. In the following years, he enjoyed an enormous amount of success, including having the privilege of directing the first-placed band in more than 40 contests. His success has continued in this country as he has led the first-placed band on 5 occasions in different sections of the North American Brass Band Championships. Since moving to the US in 1996, he has been delighted to receive several invitations to return to Britain to conduct and following a recent appearance one commentator wrote a 'welcome return to the UK of a conductor of proven 24 carat class' (Iwan Fox, 4barsrest). Keith\u2019s first home in the US was in northeast Ohio, and shortly after his arrival knowledge that he was living in the area led to the formation of Brass Band of the Western Reserve, a band he led with distinction until the summer of 2021. Each of the bands Keith has directed has established an outstanding reputation for their concert presentations, and these have been enhanced by the inclusion of some of his own brass band arrangements. Keith has more than 120 published arrangements with publishers in Britain, Switzerland, and the US.",
+            "conductor_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/21/image_123650291%20-%20Kevin%20Pfefferle.JPG",
+            "contact_email": "dmb@dublinbands.com",
+            "choice_pieces": [
+                {
+                    "title": "Albinus Variations",
+                    "composer": "Etienne Crausaz",
+                    "performance_slot": "2_D"
+                },
+                {
+                    "title": "Lakeland Variations",
+                    "composer": "Philip Sparke",
+                    "performance_slot": "2_CC"
+                }
+            ],
+            "band_section": "Second Section",
+            "contest_draw_identifiers": [
+                "2_D",
+                "2_CC"
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Dublin Silver Band",
+            "website": "https://dublinbands.com/bands/silver-band/",
+            "band_bio": "Originally founded in 2008 as the Ohio Brass Band, The Dublin Silver Band is made up of brass and percussion musicians from all parts of Ohio.\r\n\r\nSince 2010 DSB has steadily progressed from its first Second Section participation in North American Brass Band Association Championships in 2014 to placing first in the Second Section in 2015, then moving to the First Section in 2016, and placing first in the First Section in 2019. The band has also competed regularly in the US Open Championships, being named the Most Entertaining Band seven times, being awarded the Best New Composition or Arrangement prize six times, earning ten individual or busker awards, and winning the event in 2015.\r\n\r\nThe members of the Dublin Silver Band volunteer their time and talent because of three things they all have in common: a drive to chase perfection, a genuine affection for each other, and a passion for making connections with audiences on an emotional level. To make these connections, the band commits to performing far more than ordinary concerts, instead telling stories that engage the audience in the musical performance. It is this approach that has earned the band an international reputation.\r\n\r\nDSB has performed and competed extensively throughout the Midwest, and has traveled and performed abroad. In 2016 the band played concerts in Ireland and England before competing in Brass in Concert in Gateshead, England. In 2020 the band once again traveled to England, competing at the Butlins Festival.",
+            "band_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/04/DSB%20NABBA%202023%20-%20Tim%20Jameson.png",
+            "band_logo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/04/SilverHorizLarge%20-%20Tim%20Jameson.jpg",
+            "conductor_name": "Tim Jameson",
+            "conductor_bio": "Tim Jameson has served as Music Director of the Dublin Silver Band since 2010. During that time, he has led the band to first-place finishes in both the NABBA Second and First Sections. Before his involvement with the Dublin Silver Band, Tim was the Music Director of the Brass Band of Columbus for five years, leading BBC to a first-place finish in the NABBA Championship Section in 2006.\r\n\r\nMr. Jameson is a graduate of The Ohio State University, where he studied trumpet under Tom Battenberg and conducting under Donald McGinnis, Marshall Haddock, George Hardesty, and Craig Kirchoff. He is also active as an arranger, with works published by Cimarron Music, BVD Press, and 360\u00b0 Music.\r\n\r\nProfessionally, Tim is Manager of Talent Development for Ariel Corporation in Mount Vernon, Ohio.",
+            "conductor_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/04/Jameson_T%20cropped%20-%20Tim%20Jameson.jpg",
+            "contact_email": "timjameson1@gmail.com",
+            "choice_pieces": [
+                {
+                    "title": "St. James - A New Beginning",
+                    "composer": "Philip Harper",
+                    "performance_slot": "1_A"
+                },
+                {
+                    "title": "Dances and Alleluias",
+                    "composer": "Philip Sparke",
+                    "performance_slot": "1_CC"
+                }
+            ],
+            "band_section": "First Section",
+            "contest_draw_identifiers": [
+                "1_A",
+                "1_CC"
+            ]
+        },
+        {
+            "id": 33,
+            "name": "Five Lakes Silver Band",
+            "website": "fivelakessilverband.com",
+            "band_bio": "Five Lakes Silver Band (FLSB) is a nationally acclaimed British style brass band established in Rochester Hills, Michigan in 2006. The band\u2019s name refers to the Great Lakes which surround Michigan. Each week, music educators, freelance musicians, and people who make their livelihood outside of music travel to rehearse from all around the Great Lakes region.\r\n\r\nAs well as performing in a variety of venues such as concert halls, cathedrals, amphitheaters, schools, libraries, and parks, FLSB is also a championship-level contesting band that regularly competes in the North American Brass Band Association (NABBA) Championships, Dublin Festival of Bands (DFOB) Championships, the Hannaford Festival of Bands in Toronto, Canada, and the U.S. Open Brass Band Championships.\r\n\r\nIn 2012 and 2013, FLSB won the Hannaford Cup. In 2013, the band won the First Section at the NABBA Championships, capturing its first national title. 2022 was the beginning of a new era for the band, as they were crowned Grand Champions at DFOB, placed second in the First Section at the NABBA Championships and were crowned Grand Champions and Most Entertaining Band at The U.S. Open Brass Band Championships. In 2023, Five Lakes won the treble, by successfully defending their titles at DFOB and the U.S. Open, and also winning the Championship Section at the North American Brass Band Championships.",
+            "band_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/33/FLSB%20good%20pic%20-%20Mike%20Flickinger.jpg",
+            "band_logo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/33/FLSBlogo%20-%20Mike%20Flickinger.png",
+            "conductor_name": "Christopher Ward",
+            "conductor_bio": "Christopher Ward became the Musical Director of the Five Lakes Silver Band in July of 2019. Under his leadership, Five Lakes won the U.S. Open Brass Band Championships in 2022, Dublin Festival of Brass in 2022 and 2023, and most recently, the North American Brass Band Championships in 2023. Christopher was also named a national finalist for the 2023 American Prize in Conducting a band/wind ensemble.\r\n\r\nIn March of 2018, Christopher and his family moved to Michigan, where he assumed the role of Senior Director of Music and Gospel Arts for the Great Lakes Division of the Salvation Army. As part of his responsibilities, he is the conductor of the Great Lakes Divisional Band and is the founder and conductor of the Great Lakes Divisional Choir. Christopher also serves on the North American Brass Band Association Board of Directors and is the chairman of the Great Lakes Brass Band Association. He is an ambassador for Denis Wick Products, an artist for Work of Art Custom Batons and plays cornet with the Brass Band of Battle Creek.\r\n\r\nPrior to his appointment in Michigan, Christopher served as an Assistant Music Director for the Salvation Army in Greater New York for 16 years, and concurrently served as conductor for several groups, including the Greater New York Youth Band and the Hempstead Citadel Band. He was a member of the New York Staff Band for 23 years, 11 of those as its Eb Soprano Cornet Soloist. Christopher has performed or conducted in 23 different countries, and in venues such as Carnegie Hall, Lincoln Center, Brooklyn Tabernacle, Royal Festival Hall, The Royal Albert Hall and Buckingham Palace. He has had the privilege of performing with the New York Philharmonic, The Canadian Brass, The Kings Singers and Sir Elton John.\r\n\r\nChristopher received his formal music training at New York's Mannes College of Music and The State University of New York - Purchase, where he received degrees in Fine Arts of Music & Trumpet Performance. In recent years, he has studied conducting privately with Professor David King.",
+            "conductor_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/33/Chris%20Ward%20New%20PIc%20-%20Mike%20Flickinger.jpg",
+            "contact_email": "flsb.affiliate@gmail.com",
+            "choice_pieces": [
+                {
+                    "title": "Other Lives",
+                    "composer": "Oliver Waespi",
+                    "performance_slot": "C_F"
+                },
+                {
+                    "title": "Sand and Stars",
+                    "composer": "Thierry Deleruyelle",
+                    "performance_slot": "C_CC"
+                }
+            ],
+            "band_section": "Championship Section",
+            "contest_draw_identifiers": [
+                "C_F",
+                "C_CC"
+            ]
+        },
+        {
+            "id": 31,
+            "name": "Fountain City Brass Band",
+            "website": "www.fcbb.net",
+            "band_bio": "Founded in 2002, the Fountain City Brass Band, based in Kansas City, USA, seeks to bridge the gap between popular and classical art music by performing a wide variety of music, including modern compositions written specifically for brass bands and innovative arrangements of classical works, jazz, and Broadway hits.\r\n\r\nFountain City has been featured performers throughout North America and Europe at such events as the Midwest Clinic, Brass in Concert, Great American Brass Band Festival, U.S. Masters Brass Entertainment Championships, Glenn Miller Festival, International Trombone Festival, International Tuba & Euphonium Conference, Longs Peak Scottish Irish Highlands Festival, Missouri Music Educators Association Conference, Kansas Music Educators Association Conference, Missouri Bandmasters Association, Nebraska Bandmasters Association, Celebration at the Station, and the Scottish Festival of Brass, as well as collaborated with many of the world's most prominent brass and percussion solo artists.\r\n\r\nThe band actively seeks to initiate cultural revitalization and arts awareness in the Kansas City community. In 2008, Dr. Helen Harrelson established The Fountain City Youth Brass Academy as the educational outreach component of the Fountain City Brass Band. The mission of the Academy is to inspire young musicians of all performance ability levels to achieve a high standard of musicianship and to foster a life-long love of music.\r\n\r\nWhen not performing in concert, Fountain City maintains an active competition schedule. Since the band\u2019s first competition in 2005, it has won 10 U.S. Open Brass Band Championships, 9 North American Brass Band Championships, and 1 Scottish Open Brass Band Championship, becoming the first U.S. band ever and the first non\u2010UK band in over 50 years, to win a major brass band competition on UK soil. For over a decade, Fountain City has been the top-ranked brass band in North America.",
+            "band_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/31/fcbb%20blue%20stage%20cropped%20-%20Lee%20Harrelson.jpeg",
+            "band_logo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/31/FCBB%20Logo%20Stroke%20-%20Lee%20Harrelson.png",
+            "conductor_name": "Michael Fowles",
+            "conductor_bio": "Widely regarded as one of the leading conductors of his generation Michael hails from the rich musical tradition of North Staffordshire. He is an honours and post-graduate of the Royal Northern College of Music and has been Musical Director of Foden\u2019s Band since 2009 and Professional Conductor of the Desford Colliery Band since 2016.\r\n\r\nHaving worked with many of the country\u2019s leading bands Michael has a reputation for entertaining concert programming and high standards in competition. He is well known for having transferable skills having won Championship section contests with 11 different bands either in regular working relationships or on a freelance basis. As such he is much in demand both in the UK and abroad.\r\n\r\nMichael is also a member of the Association of Brass Band Adjudicators and has officiated at numerous Regional Qualifying contests, The National Finals, Butlins Mineworkers Festival and the Swiss Nationals amongst others.\r\n\r\nEducational work also forms an important part of Michael\u2019s musical life. He is Course Director of both the Wessex Band Summer School and Fodens Armagh Summer School. He is Musical Director of Fodens Youth Band and Associate Conductor and Musical Adviser of Lions Youth Band. As a guest conductor he undertakes much training work throughout the UK with bands of all levels from championship to youth.\r\n\r\nMichael\u2019s work in the recording studio is also highly respected having directed around 45 CDs including numerous solo discs, his skills for accompanying being held in high regard. In addition, he has given many premiere performances, conducted concerto appearances of eminent soloists and directed broadcasts for both BBC Radio 2 and 3. He has also written articles and reviews for both Brass Band World and British Bandsman.",
+            "conductor_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/31/GS1_6772b%20-%20Lee%20Harrelson.jpg",
+            "contact_email": "fcbb@fcbb.net",
+            "choice_pieces": [
+                {
+                    "title": "Other Lives",
+                    "composer": "Oliver Waespi",
+                    "performance_slot": "C_G"
+                },
+                {
+                    "title": "Angels and Demons",
+                    "composer": "Philip Sparke",
+                    "performance_slot": "C_AA"
+                }
+            ],
+            "band_section": "Championship Section",
+            "contest_draw_identifiers": [
+                "C_G",
+                "C_AA"
+            ]
+        },
+        {
+            "id": 24,
+            "name": "Fountain City Youth Brass Academy",
+            "website": "www.fcyba.net",
+            "band_bio": "The Fountain City Youth Brass Academy (FCYBA) is the educational outreach component of the Fountain City Brass Band, North America\u2019s premiere volunteer brass and percussion ensemble. The mission of the FCYBA is to inspire young musicians of all performance ability levels to achieve a high standard of musicianship and to foster a life-long love of music.\r\n\r\nThe Fountain City Youth Brass Academy was founded in 2008 by Helen Harrelson while she was on a sabbatical from her job in England. Helen is a native of England and grew up in the brass band tradition before attending the Royal Northern College of Music. From there, she became one of the world\u2019s foremost baritonists and performed with some of the finest bands in the United Kingdom. Her passion for music education and this rich tradition led her to establish the FCYBA.\r\n\r\nThe FCYBA began as day-long \u2018Expo\u2019 workshops and has grown into season-long brass bands with over 150 members. The bands within the Academy are made up of brass and percussionists of all standards and abilities from late elementary through young adult. The bands of the FCYBA are non-cut programs for participants 18 years of age and younger. The conductors and specialists for the FCYBA bands are professional music educators that also perform with the Fountain City Brass Band.\r\n\r\nSince its inception, the bands of the FCYBA have won numerous national championships at the North American Brass Band Championships and the US Open Brass Band Championships, and been featured at prestigious events such as the Great American Brass Band Festival and the Kansas Music Educators Association\u2019s annual conference.",
+            "band_photo": null,
+            "band_logo": null,
+            "conductor_name": "Lee Harrelson",
+            "conductor_bio": "Lee Harrelson is a Professor of Music at Missouri Western State University. At Missouri Western, he serves as the Director of Instrumental Studies and Bands, low brass specialist, and conducts the Missouri Western Symphonic Winds. Dr. Harrelson has also served on the faculties of the University of Kansas, the University of Central Missouri, and the UMKC Conservatory. Dr. Harrelson attended the University of Southern Mississippi, where he studied music education and performance before completing his masters and doctorate at the UMKC Conservatory.\r\n\r\nDr. Harrelson is the founder of the Fountain City Brass Band and currently serves as its artistic director, executive director, and principal euphoniumist.\r\n\r\nDedicated to furthering the development of brass bands in America, Dr. Harrelson, along with his wife Helen, founded the Fountain City Youth Brass Academy in 2009, which regularly serves 120 students per year, and in 2019, the National Youth Brass Band of America. After serving three years as the executive director of the U.S. Open Brass Band Championships, in 2022, Dr. Harrelson founded the US Masters Brass Band Entertainment Championships.\r\n\r\nIn the fall of 2019, Dr. Harrelson was awarded the first-ever Visiting International Professor position with the world-famous Brighouse & Rastrick Band.\r\n\r\nDr. Harrelson can be heard on numerous commercially released recordings and has appeared throughout North America and Europe as a clinician, soloist, and chamber musician. He is a Besson/Buffet Crampon performing artist.",
+            "conductor_photo": null,
+            "contact_email": "helen@fcbb.net",
+            "choice_pieces": [
+                {
+                    "title": "Fearless",
+                    "composer": "Andrew Wainwright",
+                    "performance_slot": "3_E"
+                },
+                {
+                    "title": "The Unfortunate Traveler",
+                    "composer": "Imogen Holst",
+                    "performance_slot": "3_E"
+                }
+            ],
+            "band_section": "Third Section",
+            "contest_draw_identifiers": [
+                "3_E"
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Illinois Brass Band",
+            "website": "https://illinoisbrassband.org",
+            "band_bio": "Dedicated to bringing British \u2013 style brass band music to audiences in Chicago and across the Midwest, George Foster and William Homer founded The Illinois Brass Band in February of 1991 with assistance from Boosey and Hawkes. The band is composed of thirty volunteer musicians and is the most senior of Illinois\u2019 brass bands.\r\n\r\nAs a member of the North American Brass Band Association (NABBA), IBB attended its first competition in 1993. IBB won first place in NABBA\u2019s Honors Division in 1994 and followed with an unprecedented string of six championships in seven years (1996- 2002) in the Championship Division. IBB also represented NABBA at the Great American Brass Band Festival in 1999 and was honored to attend the 2003 British Open Brass Band Championships \u2013 the first brass band outside the British Commonwealth to compete in this prestigious event.\r\n\r\nThe band has released several recordings: A Christmas Fantasy; Championship Brass; Shaken\u2019 \u2026 not Stirred; Live and Kickin; Hark!; and most recently Cookin\u2019 With Brass. IBB has also showcased exceptional guest soloists, including internationally renowned euphonium virtuosi Robert and David Childs, cornet soloist Roger Webster, trombone soloist Brett Baker, euphonium soloist David Thornton, and tenor horn soloist Paul Bennett. IBB has astonished audiences with the power, virtuosity, and beauty of the British - style brass band and breadth of its repertoire. Through performances, recordings, and participation in competitions and festivals, IBB continues to bring the excitement of brass band music to general audiences and brass aficionados alike.\r\n\r\nThe Illinois Brass Band is an IRS 501(c)(3) tax exempt and Illinois non-profit corporation and is supported in part by a grant from the Illinois Arts Council, a state agency. For more information on The Illinois Brass Band please visit: www.illinoisbrassband.org",
+            "band_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/05/band_photo.jpg",
+            "band_logo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/05/band_logo.jpg",
+            "conductor_name": "Stephen Squires",
+            "conductor_bio": "Stephen Squires is a musician with a career that blends his passions for conducting, teaching, and performing. As a professional conductor, Mr. Squires has worked with many exceptional artists, including Frederica von Stade, Samuel Ramey, Janos Starker, Pinchas Zuckerman, Samuel Ashkenasi, John Browning, Leon Bates, Stewart Goodyear, Richard Stoltzman, Ani Kavafian, Wendy Warner, James Tocco, and most of the principal players of the Chicago Symphony and Lyric Opera Orchestras. Fully committed to the music of living composers, he has conducted premieres of over 100 new works.\r\n\r\nMr. Squires received his musical training at the Preparatory School of the Eastman School of Music and earned his Bachelor of Music Education degree from the Crane School of Music, State University of New York at Potsdam. He earned his Master of Music in Instrumental Conducting and Trumpet Performance at California State University, Northridge. Further conducting studies were with Helmuth Rilling, Maurice Abravanel, Daniel Lewis, Tsung Yeh, and at the Aspen Music Festival. Mr. Squires has conducted recordings for the Albany, Delos, Spring Hill (a division of EMI), MEDR, and Centaur labels.\r\n\r\nStephen Squires is Professor of Conducting in the Music Conservatory at the Chicago College of Performing Arts, Roosevelt University. Prior to this appointment, he served on the faculties of Plymouth State College (New Hampshire) and the Northern Illinois University School of Music.\r\n\r\nThis year Mr. Squires marks his sixteenth season as Music Director of The Illinois Brass Band. His other professional appointments include Music Director of the Fox Valley Orchestra (Aurora, IL), and Music Director of the Millar Brass Ensemble (Evanston). He is the former Music Director of the Illinois Chamber Symphony, the Mendelssohn Chamber Orchestra (Rockford, IL), and Resident Conductor of the Elgin Symphony Orchestra. Mr. Squires has guest conducted the Chicago Symphony Orchestra, the Syracuse Symphony, the Green Bay Symphony, the Columbus (OH) Symphony, and the Chicago Composers Orchestra, as well as numerous educational festivals around the country. In addition to his conducting and teaching activities, he is an accomplished recital accompanist and freelance trumpeter.",
+            "conductor_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/05/conductor_photo.png",
+            "contact_email": "treasurer@illinoisbrassband.org",
+            "choice_pieces": [
+                {
+                    "title": "St. James - A New Beginning",
+                    "composer": "Philip Harper",
+                    "performance_slot": "1_G"
+                },
+                {
+                    "title": "Gothique Fantasy - On a theme by Boellmann",
+                    "composer": "Andrew Wainwright",
+                    "performance_slot": "1_EE"
+                }
+            ],
+            "band_section": "First Section",
+            "contest_draw_identifiers": [
+                "1_G",
+                "1_EE"
+            ]
+        },
+        {
+            "id": 34,
+            "name": "James Madison University Brass Band",
+            "website": "https://www.jmu.edu/music/areas/brass/index.shtml",
+            "band_bio": "Under the direction of Professor Kevin Stees, the JMU Brass Band is one of the most successful collegiate brass bands in the world today. Formed by Stees in the Fall of 2000, the band was named the North American Brass Band Association 1st Section Champion in 2004 and 2005, and was the 2006, 2007, 2010, 2016, 2019 and 2022 NABBA Championship Section Runner-up. The group maintains an active schedule, performing regularly throughout the academic year, and has been a featured ensemble at numerous festivals and conferences including the American Trombone Workshop, Virginia Music Educators Association Conference, Great American Brass Band Festival, U.S. Army Tuba Euphonium Workshop, and the Southeast Regional Tuba Euphonium Conference.\r\n\r\nIn the summer of 2008, the ensemble embarked on a concert tour of England and Wales sharing the stage with many outstanding bands including the world-famous Cory Band. In 2009, the group became the first brass band to perform a full-length concert at the John F. Kennedy Center for the Performing Arts in Washington, D.C. In 2012, the band traveled to Linz, Austria, to perform as a featured ensemble at the International Tuba Euphonium Conference. Always interested in showcasing new repertoire, the band has given the North American premiere of over a dozen major works for brass band. The band performed as a featured ensemble at the 2017 Royal Northern College of Music Brass Band Festival in Manchester, England. In the summer of 2022, the band competed in the Concert Division of the 2022 World Music Contest in Kerkrade, The Netherlands. The JMU Brass Band is currently ranked in the top 100 brass bands worldwide.",
+            "band_photo": null,
+            "band_logo": null,
+            "conductor_name": "Kevin Stees (JMU)",
+            "conductor_bio": "Kevin Stees, now in his 39th year as Professor of Tuba and Euphonium at James Madison University, leads an active career as a soloist, chamber musician, conductor, and music educator. He has studied with tuba artists Daniel Perantoni (Indiana University), Charles Daellenbach (Canadian Brass), and Jack Tilbury (U.S. Army Brass Quintet, ret.) and holds music degrees from the University of Illinois and Arizona State University.\r\n\r\nStees has presented solo and chamber music performances at numerous universities, conferences, music festivals, and workshops, including the U.S. Army Band Tuba-Euphonium Conference, Southeast Regional Tuba-Euphonium Conference, International Tuba-Euphonium Conference, and the Keystone Brass Institute. He has performed with a number of orchestras including the Roanoke Symphony Orchestra, Phoenix Symphony, Canadian Chamber Orchestra, and the Calgary Philharmonic, and was a member of the Southwest Brass Quintet and the Skyline Brass.\r\n\r\nStees currently performs with the Madison Brass (quintet-in-residence at James Madison University), Shenandoah Valley Bach Festival Orchestra, Staunton Music Festival Orchestra, and the Waynesboro Symphony Orchestra. In addition to performances on tuba, he is very active as the conductor of the internationally recognized James Madison University Brass Band, having led the ensemble in performances at the John F. Kennedy Center for the Performing Arts in Washington, D.C. and the Brucknerhaus Concert Hall in Linz, Austria, as well as music venues in England, Wales, Austria, and The Netherlands. Stees is also the conductor of the award-winning Massanutten Brass Band. Additionally, he has served on the Board of Directors of the North American Brass Band Association and is a member of the International Tuba Euphonium Association.",
+            "conductor_photo": null,
+            "contact_email": "steeskj@jmu.edu",
+            "choice_pieces": [
+                {
+                    "title": "Other Lives",
+                    "composer": "Oliver Waespi",
+                    "performance_slot": "C_H"
+                },
+                {
+                    "title": "Explorers on the Moon",
+                    "composer": "Paul Raphael",
+                    "performance_slot": "C_EE"
+                }
+            ],
+            "band_section": "Championship Section",
+            "contest_draw_identifiers": [
+                "C_H",
+                "C_EE"
+            ]
+        },
+        {
+            "id": 22,
+            "name": "Jericho Brass Band",
+            "website": "jerichobrassband.org",
+            "band_bio": "The Jericho Brass, founded in 1998, in Chattanooga, Tennessee, is celebrating its 25 th anniversary this\r\nyear, by providing music in the British-Style Brass Bands to the tri-state area. During these 25 years, the\r\nJericho Brass has given more than 670 performances at sites and venues throughout the USA, England,\r\nand Ireland. Some of our accomplishments include 1 st place in the Explorer Section of the 2004 NABBA\r\ncompetition; Winner of the \u201cGeorge Washington Medal\u201d for a presentation of an original patriotic\r\npresentation \u2013 Defenders of Liberty, written by some of our members; and \u201cBest Hymn Presentation\u201d\r\nand \u201cBest March Presentation\u201d at the 2019 Southeastern Brass Band Festival. Directed by Mr. Frank\r\nHale, the Jericho Brass is excited to compete in the 2024 NABBA competition!",
+            "band_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/22/jericho%20group%20pic%202024%20hixson.jpg",
+            "band_logo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/22/JB-Logo+Name%20-%20Phyllis%20Finney.jpg",
+            "conductor_name": "Frank Hale",
+            "conductor_bio": "Frank Hale is perhaps best known as the band director at Hixson High School, a position he held for 26 years of his 29-year career. Prior to that he taught at several school in the Knoxville school system, among them South High School. During his tenure at Hixson High School, the Hixson Band received superior ratings at local, regional, and national concert festivals, and placed at every marching contest that it entered. The Hixson High Band also performed in Hawaii, Europe, Australia, and was selected to perform twice at the Tennessee Music Education Conference under his direction. \r\nMr. Hale served on the Executive Board of the East Tennessee School Band & Orchestra Association for 26 years of his career in various elected positions, including President of the Association. In addition, he has served as the Executive Secretary-Treasurer of the Tennessee Music Education Association for eight years, and also served as the All State Band Chair. \r\nMr. Hale is a recipient of the National Band Association Certificate of Excellence and an elected member of Phi Beta Mu International Bandmasters Fraternity. He has served as a clinician and guest conductor throughout the Southeastern US, Hawaii, Australia, Europe, and Japan. While working for World Projects, he helped establish the World Symposium for Symphony Youth Orchestras in Budapest, Hungary, and the London International Wind Band Festival in England. In addition, Mr. Hale was responsible for establishing the International Bands for the 1996 Summer Olympics in Atlanta, GA, and the 2000 Summer Olympics in Sydney, Australia. \r\nMr. Hale is one of the founding members of the Jericho Brass, a British-style brass band, and currently serves as its conductor. They actively perform throughout the year in the Chattanooga area as well as national and international brass band competitions.",
+            "conductor_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/22/Frank%20Hale%20head%20shot%20for%20NABBA%20-%20Phyllis%20Finney.jpg",
+            "contact_email": "jbbchatt@gmail.com",
+            "choice_pieces": [
+                {
+                    "title": "Albinus Variations",
+                    "composer": "Etienne Crausaz",
+                    "performance_slot": "2_L"
+                },
+                {
+                    "title": "Cathedrals",
+                    "composer": "Nick Simmons Smith",
+                    "performance_slot": "2_GG"
+                }
+            ],
+            "band_section": "Second Section",
+            "contest_draw_identifiers": [
+                "2_L",
+                "2_GG"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Madison Brass Band",
+            "website": "https://www.madisonbrass.com/",
+            "band_bio": "The Madison Brass Band, founded in 2002, is an all-volunteer ensemble consisting of 30 members based in Madison, Wisconsin. This band performs in the British Brass Band style and uses traditional British Brass Band instrumentation. They have a diverse repertoire, covering a wide variety of music styles, and they regularly perform in and around the Midwest.\r\n\r\nThe original Madison Brass Band was established in 1863 by Bavarian immigrant George Scherer. Its early members included individuals from various professions, such as businessmen, cobblers, cigar-makers, stonecutters, and a saloon proprietor. Remarkably, only one member was a professional musician. George Scherer served as the band's leader from 1863 to 1878. The band eventually went into remission in the 1890s, but it was revived and reestablished in its current form in 2002. Dr. John Lynch currently serves as the band's director.\r\n\r\nThe Madison Brass Band was officially incorporated as a 501(c)(3) non-profit organization in 2004, with a mission to reintroduce the great British and American brass band tradition to the greater Madison area. The band is active throughout the year, presenting concerts across southern Wisconsin. Since 2012, The Madison Brass Band has also participated in the North American Brass Band Association contest.",
+            "band_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/02/IMG_3554%20-%20Steve%20Tweed.jpeg",
+            "band_logo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/02/IMG_3556%20-%20Steve%20Tweed.png",
+            "conductor_name": "John Lynch",
+            "conductor_bio": "John Lynch is a leading international conductor and a dual citizen of the United States and Australia. He is currently Director of Bands and Professor of Music at the University of Wisconsin Stevens Point and the new Music Director of the Madison Brass Band. He was formerly Director of Bands at the Sydney Conservatorium of Music. There he created the first comprehensive university band program in the nation\u2019s history and founded their professional faculty chamber orchestra-in-residence. Prior to that he served as Director of Bands/Music at the University of Georgia, the University of Kansas, and Associate Director of Bands at Northwestern University. He was the conductor of Chicago\u2019s Northshore Concert Band, the Atlanta Youth Wind Symphony, and founder of the Greater New York Wind Symphony. He has performed throughout the United States, Canada, Europe, South America, Asia, and Australia including the national conferences of CBDNA, ABA, WASBE NAfME, the Australian National Band and Orchestra Conference, Midwest, and Interlochen. A passionate advocate for new music, he has commissioned, recorded, and premiered works from around the globe with a focus on diversity. He is a recording artist with Naxos and Klavier Records.\r\n\r\nJohn Lynch is the recipient of the American Prize, the Georgia Creative Research Medal, the Stanbury Award for outstanding teaching and conducting, a Northwestern University Searle Fellow for Teaching Excellence, and elected membership in the American Bandmasters Association. He holds degrees from Indiana University, the Eastman School of Music, and the Cincinnati College-Conservatory of Music.",
+            "conductor_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/02/IMG_3555%20-%20Steve%20Tweed.jpeg",
+            "contact_email": "1bbtubas@gmail.com",
+            "choice_pieces": [
+                {
+                    "title": "St. James - A New Beginning",
+                    "composer": "Philip Harper",
+                    "performance_slot": "1_F"
+                },
+                {
+                    "title": "Connotations",
+                    "composer": "Edward Gregson",
+                    "performance_slot": "1_FF"
+                }
+            ],
+            "band_section": "First Section",
+            "contest_draw_identifiers": [
+                "1_F",
+                "1_FF"
+            ]
+        },
+        {
+            "id": 20,
+            "name": "Massanutten Brass Band",
+            "website": "www.massanuttenbrassband.org",
+            "band_bio": "The Massanutten Brass Band, from Virginia\u2019s beautiful Shenandoah Valley, was formed in September of 2001 and has developed a loyal and enthusiastic following of brass band enthusiasts. Now celebrating their 20th season, the ensemble is comprised of outstanding musicians from Northern Virginia, Charlottesville and the Shenandoah Valley. The band\u2019s personnel include school band directors, music professors, university music students, and serious amateur musicians. The ensemble performs throughout the central Shenandoah Valley region and has performed as the featured ensemble at the Virginia Music Educators Conference. The Massanutten Brass Band was awarded first prize in the 2nd Section (2007) and third prize in the 1st Section (2009, 2010) and, most recently, second prize in the 2nd Section (2023) at the NABBA Championships. In the Spring of 2011, the band collaborated with the Shenandoah Valley Choral Society in presenting the U.S. premiere of the brass band version of Karl Jenkin\u2019s The Armed Man: A Mass for Peace.",
+            "band_photo": null,
+            "band_logo": null,
+            "conductor_name": "Kevin Stees (massanutten)",
+            "conductor_bio": "Kevin Stees, now in his 39th year as Professor of Tuba and Euphonium at James Madison University, leads an active career as a soloist, chamber musician, conductor and music educator. He has studied with tuba artists Daniel Perantoni (Indiana University), Charles Daellenbach (Canadian Brass) and Jack Tilbury (U.S. Army Brass Quintet, ret.) and holds music degrees from the University of Illinois and Arizona State University.\r\n\r\nStees has presented solo and chamber music performances at numerous universities, conferences, music festivals and workshops, including the U.S. Army Band Tuba-Euphonium Conference, Southeast Regional Tuba-Euphonium Conference, International Tuba-Euphonium Conference and the Keystone Brass Institute. He has performed with a number of orchestras including the Roanoke Symphony Orchestra, Phoenix Symphony, Canadian Chamber Orchestra and the Calgary Philharmonic, and was a member of the Southwest Brass Quintet and the Skyline Brass. Stees currently performs with the Madison Brass (quintet-in-residence at James Madison University), Shenandoah Valley Bach Festival Orchestra, Staunton Music Festival Orchestra and the Waynesboro Symphony Orchestra. In addition to performances on tuba, he is very active as the conductor of the internationally recognized James Madison University Brass Band, having led the ensemble in performances at the John F. Kennedy Center for the Performing Arts in Washington, D.C. and the Brucknerhaus Concert Hall in Linz, Austria, as well as music venues in England, Wales, Austria, and The Netherlands. Stees is also the conductor of the award-winning Massanutten Brass Band. Additionally, he has served on the Board of Directors of the North American Brass Band Association and is a member of the International Tuba Euphonium Association.",
+            "conductor_photo": null,
+            "contact_email": "massanuttenbrassband@gmail.com",
+            "choice_pieces": [
+                {
+                    "title": "Albinus Variations",
+                    "composer": "Etienne Crausaz",
+                    "performance_slot": "2_J"
+                },
+                {
+                    "title": "St. James - A New Beginning",
+                    "composer": "Philip Harper",
+                    "performance_slot": "2_LL"
+                }
+            ],
+            "band_section": "Second Section",
+            "contest_draw_identifiers": [
+                "2_J",
+                "2_LL"
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Milwaukee Festival Brass",
+            "website": "mfbrass.org",
+            "band_bio": "Founded in 1985, Milwaukee Festival Brass is an exciting brass ensemble made up of volunteer brass and percussion players from all over Southeastern Wisconsin. Led by its highly regarded Director, Mark A. Taylor, they have added their own unique flair to a repertoire ranging from classics to contemporary selections using traditional British Brass Band instruments.\r\n\r\nAs highly regarded musical ambassadors for the great and vibrant city of Milwaukee, the award-winning Milwaukee Festival Brass supports its strong cultural foundation and is dedicated to developing younger brass and percussion musicians. The band is dedicated to advancing and maintaining a successful brass band of the highest possible musical quality. As a nationally recognized organization, we will strive to satisfy the musical ideals of our members while simultaneously nurturing audience awareness and establishing community support.\r\n\r\nThe Band is a state of Wisconsin registered 501(C)3 non-profit organization as well as a 509(A)2 Public Charity and is run by a member elected Board of Directors.",
+            "band_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/11/MFB%20Band%20Pic%20-%20Tom%20Robertson.jpg",
+            "band_logo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/11/mfb-logo-feb-2015%20-%20Tom%20Robertson.jpg",
+            "conductor_name": "Mark A. Taylor",
+            "conductor_bio": "Since 2012, Mark A. Taylor has served as the Music Director of the nationally award-winning Milwaukee Festival Brass. A conductor, educator, and performer in demand throughout the Great Lakes region, Dr. Taylor is also the Music Director of the Chicago Brass Band and serves on the NABBA Board as its current Vice President for Contest Operations.  Elsewhere, he is Music Director of the Waukegan Band (one of America's oldest and most historic civic ensembles), and Band Director for College of DuPage.  He received the Doctor of Musical Arts degree in 2016 from the University of North Texas, where his principal conducting teachers were Eugene Migliaro Corporon, Dennis Fisher, and Nicholas Enrico Williams. Dr. Taylor's dissertation, 'British-Style Brass Bands in U.S. Colleges and Universities,' documented the existence of brass bands in American college music programs, past and present. Prior to his doctoral study, he served five years as Director of Bands and Coordinator of Ensembles at Loyola University Chicago and taught on the music education faculty at the Chicago College of Performing Arts at Roosevelt University. He received the Master of Music degree from Northwestern University, where he studied conducting with John P. Paynter and Stephen G. Peterson and music education with Bennett Reimer and Peter Webster. He received his undergraduate degrees from the University of Notre Dame, where his first conducting teachers were Walter Ginter and Carl Stam. Dr. Taylor and his wife and son reside in Lake Forest, IL.",
+            "conductor_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/11/Mark%20Taylor%20-%20Tom%20Robertson.jpg",
+            "contact_email": "itahockeycoach@hotmail.com",
+            "choice_pieces": [
+                {
+                    "title": "Albinus Variations",
+                    "composer": "Etienne Crausaz",
+                    "performance_slot": "2_I"
+                },
+                {
+                    "title": "Vivat",
+                    "composer": "Tom Davoren",
+                    "performance_slot": "2_NN"
+                }
+            ],
+            "band_section": "Second Section",
+            "contest_draw_identifiers": [
+                "2_I",
+                "2_NN"
+            ]
+        },
+        {
+            "id": 23,
+            "name": "Motor City Academy Brass Band",
+            "website": "mcbb.org/mcabb/index.html",
+            "band_bio": "The Motor City Academy Brass Band, formerly Motor City Youth Brass Band, was established in 2006 as an educational outreach program of the Motor City Brass Band and welcomes dedicated musicians that wish to achieve a high level of musicianship through performing brass band literature. MCABB consists of high school, college and beyond college members that have a variety of musical backgrounds. The main focus of the band is to help members improve in all areas of brass and percussion performance and introduce them to the world of British-style Brass Banding. The band participated in the North American Brass Band Association Championships consistently from 2014-2018 and was awarded second place in the Youth division in 2017. Two soloists and an ensemble have also placed in the top three at NABBA. Guest clinicians have included Brett Baker, Philip Hannevik, Helen Harrelson, David King, John Madden, Christopher Ward, and Gordon Ward. This season, MCABB performed on the Motor City Brass Band Sounds of the Season concert and a combined concert also featuring Motor City Brass Band and Five Lakes Silver Band. The mission of the Motor City Academy Brass Band is to provide high quality instruction and performing opportunities for brass players and percussionists in Southeastern Michigan using the traditional British Brass Band instrumentation. MCABB uses talented artistic direction, visionary leadership, and community involvement to ensure a successful experience. Instructors include: Andrew Cicchelli, cornet, Zach Musienko, cornet, Jennifer Kmet, tenor horn, Scott Voytush, trombone, Iyla Miller, baritone and euphonium, Colin Holstein, tuba, and Patricia Fisher, percussion. Motor City Academy Brass Band is a family of musicians that are committed to lifelong learning and exceeding expectations.",
+            "band_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/23/motorcityacademybrassband%20-%20Patricia%20Cunningham.jpg",
+            "band_logo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/23/logo%20-%20Patricia%20Cunningham.jpg",
+            "conductor_name": "Bona Opatich",
+            "conductor_bio": "Bona Opatich became the conductor of the Motor City Academy Brass Band, formerly Motor City Youth Brass Band, in January 2011. Miss Opatich received her Bachelor of Music Education from Michigan State University and her Master of Music degree from Bowling Green State University, where she conducted the tuba-euphonium ensemble and was a graduate assistant on full scholarship. During her 35 years of teaching public and private school musicians, she was the K-12 Director of Music in DeTour Village, in the Upper Peninsula of Michigan, and following her master's degree, she became Director of Music at Wayne Trace High School in Ohio. After returning to Michigan, she held various positions in the Waterford School District, including the Director of Bands at Mott High School. Opatich currently has a private lesson studio, assists the music faculty in Bloomfield Hills, and teaches for the Salvation Army. She is a member of Detroit Harmony, an initiative to give every student in Detroit an instrument. Throughout her career, Opatich has always been an active performer. She has performed throughout the United States, United Kingdom, Europe, China, and performed in the New Zealand National Brass Band Championships in 2023. She currently plays euphonium in Motor City Brass Band since 1997 and has been a member of the MCBB Board of Directors as Secretary, Treasurer, Artistic Committee Chair, and is currently the Education Outreach Chair. She has studied euphonium with Steven Mead and conducting with David King and Christopher Ward.",
+            "conductor_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/23/unnamed%20-%20Patricia%20Cunningham.jpg",
+            "contact_email": "mcabbconductor@gmail.com",
+            "choice_pieces": [
+                {
+                    "title": "Chorale and Toccata",
+                    "composer": "Stephen Bulla",
+                    "performance_slot": "3_A"
+                },
+                {
+                    "title": "The Unfortunate Traveler",
+                    "composer": "Imogen Holst",
+                    "performance_slot": "3_A"
+                }
+            ],
+            "band_section": "Third Section",
+            "contest_draw_identifiers": [
+                "3_A"
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Motor City Brass Band",
+            "website": "www.mcbb.org",
+            "band_bio": "Motor City Brass Band (MCBB) is a 32-member British-style brass band that performs in various venues throughout the year, covering a wide range of musical styles from classical to jazz, pop to sacred. MCBB has been a prominent part of the national brass band movement, known for its innovation and musical contributions.\r\n\r\nMCBB was founded in 1996 by John Aren, a Salvation Army officer and former member of the Illinois Brass Band. The band's inaugural Music Director and Conductor was Craig Strain, who held these roles for 25 years. In 2021, Craig Strain was named Music Director Emeritus, and in 2022, Gordon Ward assumed the position of the band's new Music Director & Conductor.\r\n\r\nThe band has a rich history of participating in brass band competitions. MCBB consistently takes part in the North American Brass Band Association (NABBA) Championships. In 2019, MCBB was named runner-up in the Second Section. After a two-year hiatus due to COVID, the NABBA Championships resumed in 2022, where MCBB achieved a historic milestone by winning First Place in the Second Section. In 2023, MCBB also participated in the US Open Brass Band Championship, successfully defending its Challenge Section title. Additionally, MCBB's trombone section received recognition as the Outstanding Trombone Section of the day. In 2023, MCBB secured its fifth consecutive Detroit Music Award as the Outstanding Classical Small Ensemble.\r\n\r\nThe band's musical excellence has been acknowledged on a national level. MCBB was invited to perform as the state representative for Michigan State Day at the Kennedy Center for Performing Arts in Washington, DC, in 2001. Over the years, MCBB has been invited to perform at various events, including multiple appearances with the Detroit Symphony Orchestra at Greenfield Village for the annual Salute To America concerts.\r\n\r\nIn a commitment to carry forward the British brass band tradition, Motor City Youth Brass Band was established in 2006 as part of the MCBB organization. This initiative has evolved into the Motor City Academy Brass Band, which in 2022 made its debut appearance at the North American Brass Band Championships, securing First Place in the Open Section.\r\n\r\nThrough its performances across the region, participation in events like the Motor City Festival of Bands, and numerous school outreach concerts, Motor City Brass Band lives up to its motto, \"It's more than a concert, it's a SHOW!\"",
+            "band_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/10/MCBB%202023%20Hi%20Res%20cropped%20-%20Mark%20Stephens.jpg",
+            "band_logo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/10/MCBB4_NoBorder%20-%20Mark%20Stephens.png",
+            "conductor_name": "Gordon Ward",
+            "conductor_bio": "Gordon Ward was born in Hull, Yorkshire, England and started learning the cornet at age 6. After attending the Royal Northern College of Music in Manchester, he was employed as a brass teacher and conductor of the Hull Youth Concert Band. He also attended the University of Hull and gained a postgraduate certificate in education.\r\n\r\nHe was offered the position as Director of Music for the Salvation Army for New York in 1980 and emigrated to the USA. He became the conductor of the Greater New York Youth Band and oversaw the music programs in 30 centers as well as extensive summer camps and conservatories at the Star Lake Camp. Under his musical direction, the GNY Youth Band undertook tours throughout the USA, Canada, Australia, Argentina, and Europe.\r\n\r\nIn 2019 after leaving New York, he moved to Michigan residing in Northville and serves as President of the Five Lakes Silver Band and became a playing member of that band. He also joined the Royal Oak Salvation Army Band as principal cornet and the Eastern Michigan Divisional Band. After serving as Interim Conductor for MCBB, Gordon accepted the position of Music Director and Conductor of the band in June 2022.",
+            "conductor_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/10/GordonWard%20-%20Mark%20Stephens.JPG",
+            "contact_email": "webmaster@mcbb.org",
+            "choice_pieces": [
+                {
+                    "title": "Albinus Variations",
+                    "composer": "Etienne Crausaz",
+                    "performance_slot": "2_C"
+                },
+                {
+                    "title": "The Land of the Long White Cloud",
+                    "composer": "Philip Sparke",
+                    "performance_slot": "2_EE"
+                }
+            ],
+            "band_section": "Second Section",
+            "contest_draw_identifiers": [
+                "2_C",
+                "2_EE"
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Natural State Brass Band",
+            "website": "nsbb.org",
+            "band_bio": "Established on July 1, 2003, the Natural State Brass Band has become one of the premier performing ensembles in Arkansas while bringing the sounds and styles of the traditional British Brass Band to new audiences statewide. The avocational musicians who comprise the membership of the band come from all walks of life, bonding together to share their mutual love of the brass and percussion medium they have embraced. The band has performed not only within the borders of the Natural State, but in several states and in 2010 the United Kingdom during a ten-day tour. They hold the distinction of being the last ensemble to play in the original Black Dyke rehearsal room. In their thirteen-year history, the ensemble has garnered two North American Brass Band Association Championships, and in 2010 became the first U.S. brass band to perform at the English National Championships. The group performs a wide variety of musical styles in many varied types of venues from the concert hall to the outdoor music festival stage, having been an opening act for Earth, Wind, and Fire and playing for President Bill Clinton several times. The band performed under the leadership of founding member and Music Director Russell Morris from its inception until April 2016. In November 2016, Dr. Gretchen Renshaw was appointed Music Director, and Nevada Mills became the band\u2019s MD in January 2022. Throughout its history, the band has worked to abide by its mission statement, \"To provide an enjoyable musical experience for our audience, to promote the brass band idiom, and to enhance the musicianship of our members through the performance of quality literature.",
+            "band_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/17/IMG_0764%20-%20Rico%20Belotti.JPG",
+            "band_logo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/17/NSBB%20SHIRT%20ART%202%20(2)%20-%20Rico%20Belotti.JPG",
+            "conductor_name": "Nevada Mills",
+            "conductor_bio": "The NSBB will be conducted at the 2024 NABBA Championships by Nevada Mills, who became the band\u2019s Music Director in January 2022. Mills graduated from Henderson State University in 2006 with a Bachelor of Music degree in instrumental music education. He completed his master\u2019s degree in Education at Arkansas State University in 2015. Mills has served as music coordinator for the Ouachita School District, Assistant Director of Bands, and marching band director at Ouachita Baptist University, and directed bands at Mena High School, Lakeside Junior High, Watson Chapel Junior High, and Malvern High School. He joined Henderson State University as interim associate director of bands and coordinator of athletic bands for the 2021-2022 school year, and in 2023 was appointed the Director of Bands at HSU. Marching and concert bands under Mills\u2019 direction have earned first division ratings and sweepstakes awards from the Arkansas School Band and Orchestra Association (ASBOA). He has designed marching drills for schools throughout Arkansas, including high schools and collegiate bands. Mills is a member of the ASBOA, Arkansas Choral Directors Association, Kappa Kappa Psi, and Phi Beta Mu.",
+            "conductor_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/17/IMG_2103%20-%20Rico%20Belotti.WEBP",
+            "contact_email": "ricobelotti@comcast.net",
+            "choice_pieces": [
+                {
+                    "title": "Albinus Variations",
+                    "composer": "Etienne Crausaz",
+                    "performance_slot": "2_M"
+                },
+                {
+                    "title": "Lions Of Legends",
+                    "composer": "Thierry Deleruyelle",
+                    "performance_slot": "2_II"
+                }
+            ],
+            "band_section": "Second Section",
+            "contest_draw_identifiers": [
+                "2_M",
+                "2_II"
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Old Crown Brass Band",
+            "website": "www.oldcrownbrassband.org",
+            "band_bio": "The Old Crown Brass Band was founded in 2007 and has become one of Fort Wayne, Indiana\u2019s premier performing ensembles. The band is a traditional British brass band and plays all styles of music. The 32-piece brass and percussion ensemble is made up of members of the Fort Wayne Philharmonic, local music educators and freelance musicians. All members of the band are non-compensated and share a passion for brass band music. While conforming to the model of the traditional British brass band, the band programs all types of music including marches, jazz arrangements, show and movie scores, and orchestral transcriptions. The band also has formed a separate smaller performing group known as the \u201cOld Crown Lite\u201d The band performs at many venues throughout northeast Indiana and northwest Ohio.\r\n\r\nThe band has received numerous honors including first place in the open section of the 2014 and 2015 North American Brass Band Association Championships. The Band moved up into the third section of the 2016 Championships and received third place honors. The band repeated the third place honors in 2017 and in 2018. In 2019, the band won first place in the third section. In 2022 the band participated for the last time in the third section. 2023 brought a move up to the NABBA second section and OCBB placed third out of a field of nine. The Old Crown Brass Band was a featured ensemble at the 2010 and 2018 Indiana Music Educators Conference. The Old Crown Brass Band has served as host band for the North American Brass Band Association Championships from 2015 through 2020. We are looking forward to hosting the NABBA Championships again in 2025.\r\n\r\nOld Crown Brass Band has welcomed guest soloists: trumpeter Tim Zimmerman, trumpeter Rex Richardson, trombonist Adam Johnson and the Synergy Brass Quintet. In 2014, the band also enjoyed sharing a program during a joint concert with the award-winning Stavanger Brass Band from Norway.\r\n\r\nThe band has enjoyed having several conductors through the years. T.J. Faur (cornet) is currently serving as conductor of the Old Crown Brass Band. Old Crown Brass Band is a member of Arts United of Fort Wayne and the North American Brass Band Association.",
+            "band_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/15/OldCrownBrassBand%202023%20NABBA%20-%20David%20Jones.jpg",
+            "band_logo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/15/Home-OCB-Web%20-%20David%20Jones.png",
+            "conductor_name": "T.J. Faur",
+            "conductor_bio": "T.J Faur received his Bachelor of Arts Degree from Northwestern Illinois University in 1991and his Master's degree in Music Education from Butler University in 1995. T.J. studied trumpet under Leon Rapier of the Louisville Symphony and Marvin Perry of the Indianapolis Symphony.\r\n\r\nMr. Faur taught in Batesville, IN for three years before moving to Fort Wayne where he taught college courses at Indiana University-Purdue University Fort Wayne. He then worked at Manchester College for six years as Director of Instrumental Studies and later as the Jazz Band Director;\r\n\r\nT.J has spent 15 years studying and working at the Interlochen Arts Camp. He was formerly Fine Arts Director and Band Director at Lakewood Park Christian School in Auburn, IN. T.J is an active cornet/trumpet performer and is in his eighth year as music conductor of the Old Crown Brass Band.",
+            "conductor_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/15/TJ-new%20-%20David%20Jones.webp",
+            "contact_email": "oldcrownbrassband@gmail.com",
+            "choice_pieces": [
+                {
+                    "title": "Albinus Variations",
+                    "composer": "Etienne Crausaz",
+                    "performance_slot": "2_H"
+                },
+                {
+                    "title": "Music for a Festival",
+                    "composer": "Philip Sparke",
+                    "performance_slot": "2_DD"
+                }
+            ],
+            "band_section": "Second Section",
+            "contest_draw_identifiers": [
+                "2_H",
+                "2_DD"
+            ]
+        },
+        {
+            "id": 28,
+            "name": "Princeton Brass Band",
+            "website": "princetonbrassband.org",
+            "band_bio": "The Princeton Brass Band, a major cultural presence in the state of New Jersey, attracts top players from throughout the northeast and mid-atlantic regions. The band is devoted to advancing the British-style brass band tradition in our corner of the world through performance and educational outreach, involving guest artists, holding clinics, and through the Princeton Youth Brass Band. In 2008, the band brought the first NABBA trophy back to New Jersey and in 2013 were crowned NABBA Championship section winners. In 2023, the band returned to NABBA after a six year hiatus and claimed first place honors in the First section of the competition. The band is currently directed by Aaron VanderWeele, Principle Euphonium with the New York Staff Band.",
+            "band_photo": null,
+            "band_logo": null,
+            "conductor_name": "Aaron VanderWeele",
+            "conductor_bio": "Aaron VanderWeele currently serves on the faculty of Mason Gross School of the Arts at Rutgers University, the State University of New Jersey. He has been Principal Euphonium and Euphonium Soloist of the world-renowned New York Staff Band since 1993.\r\n\r\nIn 2007, Mr. VanderWeele was awarded International Euphonium Player of the Year \u2014 only the third American to receive this prestigious recognition.\r\n\r\nHe is a Buffet Crampon Artist and performs exclusively on the Besson Brass 2052 Prestige Euphonium. He has over twenty recordings to his credit \u2014 four of which are solo album recordings. He received his FTCL and LTCL Euphonium Performance Diplomas from Trinity College, London.\r\n\r\nMr. VanderWeele has been featured as a soloist and clinician at many Northeast Regional Tuba Euphonium Conferences and the U.S. Army Band\u2019s Tuba Euphonium Workshop. He is an avid pedagogue and brass band exponent in the United States.\r\n\r\nIn 2013, Mr. VanderWeele was Principal Euphonium in the Princeton Brass Band when the band won the Championship Section competition at the NABBA in Fort Wayne, Indiana.\r\n\r\nHis single greatest memory as a brass band artist was accompanying famed rock star Elton John at Carnegie Hall with fellow members of the New York Staff Band. Aaron has two sons who are both brass band musicians.",
+            "conductor_photo": null,
+            "contact_email": "princetonbrassband@gmail.com",
+            "choice_pieces": [
+                {
+                    "title": "Other Lives",
+                    "composer": "Oliver Waespi",
+                    "performance_slot": "C_E"
+                },
+                {
+                    "title": "Fraternity",
+                    "composer": "Thierry Deleruyelle",
+                    "performance_slot": "C_HH"
+                }
+            ],
+            "band_section": "Championship Section",
+            "contest_draw_identifiers": [
+                "C_E",
+                "C_HH"
+            ]
+        },
+        {
+            "id": 12,
+            "name": "River Brass",
+            "website": "www.riverbrass.com",
+            "band_bio": "River Brass was founded in 1991 under the original name \"Bend in the River Brass Band\". The group took its name from the ox bow bend of the Ohio River that separates the cities of Evansville, Indiana and Henderson, Kentucky. In 2015, the band rebranded to \u201cRiver Brass\u201d to better represent its members, which now spanned across the entire IN/KY/IL tristate region of the Wabash and Ohio Rivers.\r\n\r\nThe band currently rehearses at Epworth Community Church in Newburgh, IN. Its conductor is Eric Obermeyer.\r\n\r\nMembers range in age from the late teens to the eighties. This diverse group is brought together by their common interest in making and sharing high quality brass music.\r\n\r\nIn 2019, as an educational outreach of the adult band, the River Brass Youth Band was formed. The RBYB gives area students the opportunity to gain exposure to the brass band world and network with other brass players from across the region. Currently open to high school students, the program is tuition-free and promises to provide a unique musical challenge to all levels of talent.\r\n\r\nRiver Brass is excited to return to NABBA after a short hiatus. Having previously seen success in the Second Section (3rd Place in 2014 and 2016) and Third section contests (1st Place in 2012 and 2nd Place in 2013), River Brass most recently won the Open Traditional Brass Band section of the Gateway Festival of Brass in 2022. For ensembles, the River Brass Ten won 3rd place in the Ten-Piece Bands in 2022 and River Brass Six won 1st place in brass ensembles in 2019.",
+            "band_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/12/56242536_2134080473313470_5643634456267849728_n%20-%20Alex%20Schnautz.jpg",
+            "band_logo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/12/circle%20logo%20-%20Alex%20Schnautz.png",
+            "conductor_name": "Eric Obermeyer",
+            "conductor_bio": "Eric Obermeyer is the band director at Forest Park High School in Ferdinand, IN where he teaches marching, concert and jazz band, along with music theory. Eric graduated from Murray State University in 2018 with a Bachelor\u2019s Degree in Music Education. Since joining the River Brass as Solo Euphonium chair in 2019, Eric has also been the co-music director of the River Brass Youth Band, until taking over as Music Director for the River Brass Band in 2023. Eric also serves as a Collaborative Pianist for the Midwest region, accompanying various instrumental solos and ensembles, as well as being a jazz piano player for the Evansville Philharmonic Orchestra.",
+            "conductor_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/12/Headshot%20-%20Alex%20Schnautz.jpg",
+            "contact_email": "schnautza@yahoo.com",
+            "choice_pieces": [
+                {
+                    "title": "Albinus Variations",
+                    "composer": "Etienne Crausaz",
+                    "performance_slot": "2_A"
+                },
+                {
+                    "title": "The Aeronauts",
+                    "composer": "Goff Richards",
+                    "performance_slot": "2_JJ"
+                }
+            ],
+            "band_section": "Second Section",
+            "contest_draw_identifiers": [
+                "2_A",
+                "2_JJ"
+            ]
+        },
+        {
+            "id": 26,
+            "name": "River Region Brass Band",
+            "website": "https://riverregionbrassband.com",
+            "band_bio": "Founded in 2020, the River Region Brass Band was created to introduce the River region of Central Alabama to a unique musical experience, British Style Brass Band.\r\n\r\nMembers are comprised of educators, professional musicians, students, retired military, etc.\r\n\r\nOne of our goals is to enrich the cultural arts community as an ambassador to the Arts, through education and performance in the region.",
+            "band_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/26/image0.jpeg",
+            "band_logo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/26/image1.jpeg",
+            "conductor_name": "Dale Bloodworth",
+            "conductor_bio": "Dale Bloodworth is the Senior Conductor. He is a graduate of Auburn University, where he earned his undergraduate and master's degrees in Music. Currently, he serves as the band director at Benjamin Russell HS in Alexander City, AL. Dale joined the Band in the middle of 2022 as a conductor and quickly elevated the band's performance to another level.",
+            "conductor_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/26/image2.jpeg",
+            "contact_email": "mikerabig@gmail.com",
+            "choice_pieces": [
+                {
+                    "title": "Lake of the Moon",
+                    "composer": "Kevin Houben",
+                    "performance_slot": "3_D"
+                },
+                {
+                    "title": "The Unfortunate Traveler",
+                    "composer": "Imogen Holst",
+                    "performance_slot": "3_D"
+                }
+            ],
+            "band_section": "Third Section",
+            "contest_draw_identifiers": [
+                "3_D"
+            ]
+        },
+        {
+            "id": 25,
+            "name": "Roman Festival Brass",
+            "website": "romanfestivalbrass.org",
+            "band_bio": "Located in scenic northwest Georgia, Roman Festival Brass is a performing group of Roman Festival, Inc., a nonprofit 501 (c) (3). The mission of Roman Festival, Inc. is the education and promotion of British and American brass music. Roman Festival Brass has a very diverse membership. From physicians to educators, retirees to students, the group brings together volunteer brass and percussion musicians from three states with a common goal to promote this unique genre of music. The band\u2019s wealth of excellent music educators fosters this mission.\r\n\r\nRoman Festival Brass plays numerous concerts throughout north Georgia, including seasonal Christmas and 4th of July concerts, as well as thematic performances. Roman Festival Brass has also participated in the Great American Brass Band Festival and the North American Brass Band Association Championships.",
+            "band_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/25/image.png",
+            "band_logo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/25/IMG_9872.jpeg",
+            "conductor_name": "Dustin Burgess",
+            "conductor_bio": "Dr. Dustin Burgess is currently Associate Professor of Music Education and Director of the Music Education program at Shorter University, where he also teaches applied trumpet. He previously served as Assistant Professor of Music Education, Music Education Coordinator, and Applied Trumpet at Bethune-Cookman University, in Daytona Beach, Florida. He also teaches as an adjunct professor in the University of Florida\u2019s Master of Music Education program.\r\n\r\nDr. Burgess\u2019 research interests include comprehensive musicianship, assessment in music education, trumpet pedagogy, and quality band literature. He presented research at various state and national conferences including the South Carolina State Music Educators Association Conference, the Georgia Music Educators Association Conference, the Pennsylvania Music Educators Association Conference, the Florida College Music Educators Association Conference, and the National Association for Music Education History of Music Education Symposium. He has articles published in the International Trumpet Guild Journal, the Florida Music Director, the Georgia Music News, and the National Band Association Journal.\r\n\r\nDr. Burgess was a member of the 82nd Airborne Division Band and the Eighth United States Army Band, performing throughout the United States, South Korea, England, and France. During his four years in the Army bands, he performed as the section leader in the Ceremonial Band, Brass Quintet, Big Band, and Variety Rock Band. He has also performed with various ensembles, including the Southern Winds Wind Symphony, Southwest Florida Symphony Orchestra, Fayetteville Symphony Orchestra, the Cape Fear Regional Theatre, Walt Disney World, Brass Band of Central Florida, Chicago Brass Band, Sunshine Brass Band, and Roman Festival Brass Band.\r\n\r\nPrevious teaching and conducting positions for Dr. Burgess include elementary, middle, and high school choral and band programs in Pennsylvania, North Carolina, and Florida. He served as a mentor for the Erie Youth Symphony Orchestra and was the Artistic and Musical Director for the Youth Brass Band of Central Florida.\r\n\r\nDr. Burgess is a member of the National Association for Music Education, Georgia Music Educators Association, and the North American Brass Band Association.",
+            "conductor_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/25/IMG_9874.jpeg",
+            "contact_email": "ldean46@bellsouth.net",
+            "choice_pieces": [
+                {
+                    "title": "Rhapsody on St. Francis",
+                    "composer": "Andrew Wainwright",
+                    "performance_slot": "3_B"
+                },
+                {
+                    "title": "The Unfortunate Traveler",
+                    "composer": "Imogen Holst",
+                    "performance_slot": "3_B"
+                }
+            ],
+            "band_section": "Third Section",
+            "contest_draw_identifiers": [
+                "3_B"
+            ]
+        },
+        {
+            "id": 8,
+            "name": "San Antonio Brass Band",
+            "website": "sabrass.org",
+            "band_bio": "The San Antonio Brass Band was founded in 2016 as an extension of the San Antonio Brass (a 501c3 not for profit) which has been in existence since 1981. Currently under the baton of Dr. Matthew Mireles (Chair of St. Mary\u2019s University Department of Music) the San Antonio Brass Band selects its volunteer members from the finest brass and percussion musicians in South Texas by audition or invitation. Our members include professional musicians, university and public school instructors, freelance musicians as well as college students and amateurs. The band typically performs four to five concerts a season in various venues around San Antonio including St. Mary\u2019s University, the University of Texas at San Antonio as well as local area churches and parks.\r\n\r\nIn 2018 the SABB was the first ever Texas band to compete at the NABBA Championships and had the honor of winning 1st Place in the First Section. The SABB performed for the 2018 International Trumpet Guild Convention accompanying world-renowned cornet artists, Philip Smith (NY Philharmonic ret.) and Tom Hutchinson (Cory Band) as well as the first annual Texas Brass Fest in 2023 held at Festival Hill in Round Top, Texas along with the Austin, Dallas and Houston Brass Bands.\"",
+            "band_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/08/DSC_6811-6_FacebookCoverSize%20-%20Lee%20Hipp.jpg",
+            "band_logo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/08/SABB%20Logo%20(1)%20-%20Lee%20Hipp.JPG",
+            "conductor_name": "Matthew Mireles",
+            "conductor_bio": "Dr. Matthew Mireles is the Chair of the Department of Music and Associate Dean in the College of Arts Humanities and Social Sciences at St. Mary\u2019s University. Mireles serves as the Director of Bands, professor of tuba and euphonium, and professor of music education. In addition to his responsibilities at St. Mary\u2019s University, Mireles is the Musical Director and Conductor of the San Antonio Brass Band, and conductor of the Backburner Tuba-Euphonium Collective. As a euphonium soloist, Mireles was the winner of the 2008 Leonard Falcone International Euphonium Competition, the most prestigious euphonium competition in the world. Mireles also released a solo album titled \u201cPrometheus,\u201d on the Potenza Music record label, which includes previously unrecorded works for euphonium with strings, wind ensemble, and piano. Also an active chamber musician, Mireles plays euphonium with the internationally renowned Boreas Quartet. Their album, \u201cThe Serpent\u2019s Kiss,\u201d was the winner of the 2016 ITEA Roger Bobo Award for Recording Excellence, the highest award internationally for low brass.\r\n\r\nMireles is in demand all over the world as a conductor, clinician, performer, teacher, adjudicator, public speaker, and advisor. He earned a Doctor of Musical Arts degree from the University of Wisconsin-Madison, a Master of Music degree from the University of Alabama, and a Bachelor of Arts degree with Teacher Certification from St. Mary\u2019s University. His major teachers have been John Stevens, Demondrae Thurman, D.M.A., Lee Hipp, Scott Teeple, and Mark Hetzler.",
+            "conductor_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/08/DSC_7849a.Mireles%20(3)%20-%20Lee%20Hipp.jpg",
+            "contact_email": "info@sabrass.org",
+            "choice_pieces": [
+                {
+                    "title": "St. James - A New Beginning",
+                    "composer": "Philip Harper",
+                    "performance_slot": "1_B"
+                },
+                {
+                    "title": "Trittico",
+                    "composer": "James Curnow",
+                    "performance_slot": "1_AA"
+                }
+            ],
+            "band_section": "First Section",
+            "contest_draw_identifiers": [
+                "1_B",
+                "1_AA"
+            ]
+        },
+        {
+            "id": 7,
+            "name": "San Francisco Brass Band",
+            "website": "sfband.org",
+            "band_bio": "The San Francisco Brass Band was formed in 2019 to represent Northern California and the West Coast in national competition! Formed from former members of Chicago and Atlantic Brass Bands, the San Francisco Brass Band is made up of professional musicians, teachers, students, non-music professionals, and retirees. After winning 2nd Section in 2023, only our second year of competition, we look forward to springboarding into 1st Section in 2024 and beyond! We can't wait for you to hear the North American premiere of our Choice Piece as we bring you brand new music from a remarkable young composer from Norway. She is a PHENOMENAL composer, and we hope you love hearing her unique twist on 'The Planets.'",
+            "band_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/07/SanFransiscoBrass%20-%20Jacob%20Guilbeau.jpg",
+            "band_logo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/07/sfbb_logo_transparent%20-%20Jacob%20Guilbeau.png",
+            "conductor_name": "Craig McKenzie",
+            "conductor_bio": "Craig S. McKenzie is the conductor of the San Francisco Brass Band, a newly formed competitive ensemble in the California Bay Area steeped in the British Brass Band tradition. He is also the Assistant Director of Bands / Director of Athletic Bands at San Jos\u00e9 State University. His responsibilities at SJSU include directing the Symphonic Band, Spartan Marching Band, and Spartan Basketball Band, teaching Music Education classes, and supervising student teachers.\r\n\r\nDr. McKenzie received his D.M.A. from the University of Miami, Frost School of Music, where he studied instrumental conducting with Robert M. Carnochan. He holds a Bachelor of Music Education from the University of Colorado at Boulder and a Master of Arts with an emphasis in instrumental conducting from San Jos\u00e9 State University.\r\n\r\nWith twenty years of middle school, high school, and college teaching experience, Dr. McKenzie is also the 2019 Grand Champion of the International Conducting Competition hosted by the National Association of Brass Band Conductors in Eccles, England. He is a long-standing member of the California Music Educators Association, the California Band Directors Association, the National Association for Music Education, and the College Music Society.\r\n\r\nHe enjoys returning to the San Bernardino mountains of California each summer to visit Arrowbear Music Camp where he has directed the Intermediate Session Band every year since 2002. He credits Arrowbear Music Camp with an influential portion of his musical education and attended as a camper in his childhood.\r\n\r\nDr. McKenzie believes that music and the arts are an integral part of a well-rounded education and that training the next generation of music teachers is of paramount importance.",
+            "conductor_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/07/um-graduate-portraits-tux-6%20-%20Jacob%20Guilbeau.jpeg",
+            "contact_email": "admin@sfband.org",
+            "choice_pieces": [
+                {
+                    "title": "St. James - A New Beginning",
+                    "composer": "Philip Harper",
+                    "performance_slot": "1_E"
+                },
+                {
+                    "title": "The Cosmographic Mystery",
+                    "composer": "Ingebj\u00f8rg Vilhelmsen",
+                    "performance_slot": "1_DD"
+                }
+            ],
+            "band_section": "First Section",
+            "contest_draw_identifiers": [
+                "1_E",
+                "1_DD"
+            ]
+        },
+        {
+            "id": 16,
+            "name": "St. Louis Brass Band",
+            "website": "stlbb.org",
+            "band_bio": "Founded in 1998, the Saint Louis Brass Band features some of the area\u2019s finest brass musicians, educators, and students, who come together to perform classics, marches, jazz, and the very best contemporary brass band music. Acclaimed by the St. Louis Post-Dispatch as \u201cone of the city\u2019s newest treasures,\u201d the STLBB has won awards at NABBA and the US Open Brass Band Championships. Generous financial support has come from the Missouri Arts Council, Regional Arts Commission, Ameren Illinois, the Garvey Foundation, Boeing, and area music stores throughout the region.\r\n\r\nIn 2014, the St. Louis Academy Brass Band was established as part of the Educational Outreach Program. The Fall of 2017 saw the establishment of Brass Extravaganza!: two days of brass and percussion workshops, clinics, rehearsals, and performances for students Grades 8 through college level, all led by members of the Saint Louis Brass Band.\r\n\r\nGuest soloists with the Saint Louis Brass Band include Patrick Sheridan (Brass Gym co-writer), Karin Bliznik (former Principal Trumpet - St. Louis Symphony Orchestra), Gerry Pagano (Bass Trombone, retired - St. Louis Symphony Orchestra), J.D. Shaw (Boston Brass co-founder and horn), Christine Brewer (Grammy award-winning soprano), and Demondrae Thurman (Professor of Euphonium, Indiana University).",
+            "band_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/16/STLBB%2023%20-%20David%20Drillinger.jpg",
+            "band_logo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/16/STLBB%20Logo%20-%20David%20Drillinger.png",
+            "conductor_name": "John Bell",
+            "conductor_bio": "Dr. John Bell has served as the Music Director of the Saint Louis Brass Band since 2009. In this role he has developed the band\u2019s repertoire and guided the ensemble to participation at the US Open, the Dublin Festival of Brass, and the North American Brass Band Championships in Huntsville, Alabama.\r\n\r\nDr. Bell served as Professor of Music and Director of Bands at Southern Illinois University Edwardsville beginning in 1990, where he conducted the Wind Symphony and Chamber Winds, taught conducting and music education courses, and coordinated recruiting and auditions for the Department of Music. Dr. Bell retired from SIUE in May, 2020. He currently is on the teaching staff at McKendree University, where he has responsibility for the university\u2019s wind ensemble.\r\n\r\nPrior to coming to Illinois Dr. Bell was Associate Director of Bands at the University of Northern Colorado, where he founded and directed the university\u2019s marching band and the UNC Brass Band. He was also appointed the Music Director and conductor of the Rocky Mountain Brassworks in Denver.\r\n\r\nDr. Bell is an elected member of the ABA and ASBDA and holds memberships in Phi Mu Alpha Sinfonia, the CBDNA, and Pi Kappa Lambda, the national Music Honor Society. He has received the National Band Association\u2019s Citation of Excellence.\r\n\r\nDr. Bell continues to adjudicate pageantry and symphonic championships across the US, in Canada, Japan, and Thailand, as well as for DCI, BOA, and US Bands. He is the Illinois coordinator for the Illinois Ambassadors of Music European Tour and led a 450 person All-Illinois entourage in the summer of 2023.",
+            "conductor_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/16/JBell%20pic%20-%20David%20Drillinger.jpeg",
+            "contact_email": "stlouisbrassband@gmail.com",
+            "choice_pieces": [
+                {
+                    "title": "Albinus Variations",
+                    "composer": "Etienne Crausaz",
+                    "performance_slot": "2_E"
+                },
+                {
+                    "title": "Kingdom of Dragons",
+                    "composer": "Philip Harper",
+                    "performance_slot": "2_BB"
+                }
+            ],
+            "band_section": "Second Section",
+            "contest_draw_identifiers": [
+                "2_E",
+                "2_BB"
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Tampa Brass Band",
+            "website": "www.tampabrassband.com",
+            "band_bio": "Established in 2019, the Tampa Brass Band is the premier British Brass ensemble in the Tampa Bay region of Florida. Consisting of a mix of skilled brass and percussion professionals, music educators, and music enthusiasts from all over the Gulf Coast of Florida. TBB performances consist of exciting music from the Brass Band repertoire, as well as arrangements of orchestral and popular classics. The Tampa Brass Band presents an eclectic range of styles and high-level performances in venues throughout the Tampa Bay area and regularly performs educational outreach events for Tampa Bay music programs. Among the many works the Tampa Brass Band has performed, some works include those by Peter Graham, Philip Sparke, Joel Collier, Dmitri Shostakovich, and Andrea Hobson.\r\n\r\nThe Tampa Brass Band made its first competitive appearance at the North American Brass Band Championships in Huntsville Alabama in 2022 and is preparing to do so again in 2024. In 2022 and 2023, members and ensembles from the band won individual awards at the North American Brass Band Championships solo and ensemble competitions.\r\n\r\nThe Tampa Brass Band is an IRS 501(c)(3) tax-exempt and a Florida non-profit corporation. The organization\u2019s mission is to promote the traditional British Brass Band style while simultaneously acting as an educational organization to enhance the lives and performance ability of brass and percussion students throughout Tampa Bay.",
+            "band_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/18/TBB%20photo.jpg",
+            "band_logo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/18/TBB%20logo.png",
+            "conductor_name": "Tina DiMeglio",
+            "conductor_bio": "Tina DiMeglio is the Associate Director of Bands at the University of South Florida in Tampa, Florida. Dr. DiMeglio conducts the USF Symphonic Band and teaches courses in conducting and music education. She has served as the Music Director of the Tampa Brass Band since 2021.\r\n\r\nRecently, Dr. DiMeglio conducted the U.S. Army Band \u201cPershing\u2019s Own\u201d in the nation\u2019s capital as a guest conductor and conducting workshop participant. She won first prize at the Inaugural Frederick Fennell International Conducting Competition, held in Modica, Italy in November 2021. She was a Conducting Fellow in the 2019 Midwest Clinic Reynolds Conducting Institute, and was also a recipient of the 2019 CBDNA Mike Moss Diversity Conducting Fellowship Study Grant. She actively works toward increased diversity and inclusion in the wind band medium, collaborating with composers and artists from historically marginalized communities and mentoring conductors of all genders.\r\n\r\nTina DiMeglio earned a Doctor of Musical Arts (D.M.A.) degree from the University of Miami, where she studied Instrumental Conducting with Dr. Robert Carnochan. She holds a Master of Music Degree in Wind Conducting from West Chester University, where she studied with Dr. Andrew Yozviak, and a bachelor\u2019s degree in music education, clarinet concentration, from Temple University\u2019s Boyer College of Music, where she studied clarinet with Paul Demers of the Philadelphia Orchestra. While at Temple University, Dr. DiMeglio served as the President of CMENC Chapter 51 and was awarded the PMEA Award for Excellence in Service. She was a clarinetist with the Temple University Wind Ensemble, Wind Symphony, and Orchestra, and served three years as the drum major of the Temple University Diamond Marching Band. Dr. DiMeglio graduated Magna Cum Laude, was a member of the academic honors program, and received both the Diamond Key Band Award and the Emily and Arthur Crosby Award upon graduation.\r\n\r\nA native of the Philadelphia area, Dr. DiMeglio served as the Band Director of Ridley High School, her alma mater, from 2011 \u2013 2018. She maintains a private lesson studio and performs professionally as a conductor, clinician, and clarinetist. When not teaching or performing, she enjoys spending time with her husband Jonathan and their many rescue animals.",
+            "conductor_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/18/Tina.jpeg",
+            "contact_email": "tampabrassband@gmail.com",
+            "choice_pieces": [
+                {
+                    "title": "Albinus Variations",
+                    "composer": "Etienne Crausaz",
+                    "performance_slot": "2_B"
+                },
+                {
+                    "title": "Spinnaker",
+                    "composer": "Brendan Sweeney",
+                    "performance_slot": "2_HH"
+                }
+            ],
+            "band_section": "Second Section",
+            "contest_draw_identifiers": [
+                "2_B",
+                "2_HH"
+            ]
+        },
+        {
+            "id": 38,
+            "name": "Triangle Youth Academy Brass Band",
+            "website": "https://trianglebrass.org/about-2/",
+            "band_bio": "The Triangle Youth Brass Band, located in Raleigh, North Carolina, was formed in 1997 as an expansion of the Triangle Brass Band's educational endeavors. The organization consists of four ensembles: the Triangle Youth \u201cJ. Perry Watson\u201d Brass Band, Triangle Youth Brass Band, Triangle Youth Academy Brass Band, and Triangle Youth Percussion Ensemble, and serves over 100 of the Triangle\u2019s most talented young musicians. The mission of the TYBB is to provide engaging, transformative musical experiences to the finest high school brass and percussion players through exceptional performance in the British Brass Band medium.\r\n\r\nThe TYBB program is comprised of brass and percussion students, in grades 9-12, who share a commitment to excellence in performance. Since 1997, the TYBB has represented high schools in Wake, Durham, Orange, Johnston, Cumberland, and Nash counties, and members perform strictly on British Brass Band instrumentation.",
+            "band_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/38/TYABB-2%20-%20Jesse%20Rackley.jpg",
+            "band_logo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/38/TBB_Logo_WithS_HalfVertical_blk.pdf",
+            "conductor_name": "Robin Gorham",
+            "conductor_bio": "Robin Gorham retired from teaching middle school band in June of 2020 after a 25-year career and taught most recently at Fuquay-Varina Middle School. Throughout her career, her students earned placements in district and state-level honor bands, and her concert bands earned Superior and Excellent ratings at concert band festivals. Ms. Gorham has presented at several professional development conferences as well as hosted and mentored student teachers from area universities. Her service and leadership in education included serving the Central District Band Directors Association as chairman as well as multiple other roles within the organization.\r\n\r\nMs. Gorham received her undergraduate music education degree from the University of North Carolina at Chapel Hill and her Masters of Music in Music Education from the University of North Carolina at Greensboro. In 2003, she earned National Board Certification and is honored to have received the North Carolina Band Association\u2019s Award of Excellence from Southeastern Band Directors Association in 2009 and from East Central Band Directors Association in 2021. She is a member of North Carolina Music Educators Association, National Association for Music Education, and was inducted into the American School Band Directors Association.\r\n\r\nMs. Gorham maintains a private horn studio and is the brass instructor for the Fuquay-Varina High School Marching Band. She lives in Fuquay-Varina with her husband, Matt Edwards, director of the Fuquay-Varina High School Bands, and their cat, Annie.",
+            "conductor_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/38/0369%20Triangle%20Youth%20Brass%20Bands%202-26-17%20-%20Jesse%20Rackley.jpg",
+            "contact_email": "jesserackley@yahoo.com",
+            "choice_pieces": [
+                {
+                    "title": "Dark Side of the Moon",
+                    "composer": "Paul Lovatt-Cooper",
+                    "performance_slot": "YO_B"
+                },
+                {
+                    "title": "Four Cities Symphony - Mvmt 1",
+                    "composer": "Rodney Newton",
+                    "performance_slot": "YO_B"
+                }
+            ],
+            "band_section": "Youth Open Section",
+            "contest_draw_identifiers": [
+                "YO_B"
+            ]
+        },
+        {
+            "id": 35,
+            "name": "Triangle Youth Brass Band",
+            "website": "https://trianglebrass.org/about-2/",
+            "band_bio": "The Triangle Youth Brass Band, located in Raleigh, North Carolina, was formed in 1997 as an expansion of the Triangle Brass Band\u2019s educational endeavors. The organization consists of four ensembles, the Triangle Youth \u201cJ. Perry Watson\u201d Brass Band, Triangle Youth Brass Band, Triangle Youth Academy Brass Band, and Triangle Youth Percussion Ensemble, and serves over 100 of the Triangle\u2019s most talented young musicians. The mission of the TYBB is to provide engaging, transformative musical experiences to the finest high school brass and percussion players through exceptional performance in the British Brass Band medium.\r\n\r\nThe TYBB program is comprised of brass and percussion students, in grades 9-12, who share a commitment to excellence in performance. Since 1997, the TYBB has represented high schools in Wake, Durham, Orange, Johnston, Cumberland, and Nash counties, and members perform strictly on British Brass Band instrumentation.",
+            "band_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/35/TYBB-10%20-%20Jesse%20Rackley.jpg",
+            "band_logo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/38/TBB_Logo_WithS_HalfVertical_blk.pdf",
+            "conductor_name": "Matt Edwards",
+            "conductor_bio": "Matt Edwards is in his twenty-second year as Director of Bands at Fuquay-Varina High School. Under his direction, the Marching Bengals have earned nearly 50 caption and class awards over the last five years during competitions in North Carolina. The Symphonic Band and Wind Ensemble consistently receive Excellent and Superior ratings at District MPA. His students are regular participants in All-District, All-State, and collegiate honor groups and continue their musical careers as non-music-majors in college ensembles and as music majors and minors at universities across the eastern United States.\r\n\r\nMr. Edwards received his Bachelor of Music Education degree in 1996 from the University of North Carolina at Greensboro. He is a member of the North Carolina Music Educator\u2019s Association (NCMEA), National Association for Music Education (NAfME), and East-Central District Band Director\u2019s Association (ECDBA). He was honored by the Central District Bandmasters\u2019 Association (CDBA) with the 2008 Director of the Year and the 2014 Award of Excellence. He has served as ECDBA High School MPA Chair (2016-2022), CDBA President (2010-2012), NCBA MPA Committee representative (2009-2012, 2015-2018), CDBA High School All-District Auditions Chair (2005-2008), Southeast District All-District Clinic Chair/Host (1998) and Southeast District Concert MPA Chair/Host (2001). He is entering his eleventh year as Music Director of the Triangle Youth Brass Band and has served as conductor at the UNCG Summer Music Camp.\r\n\r\nMr. Edwards is married to Robin Gorham and lives in Fuquay-Varina with their cat, Annie.",
+            "conductor_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/35/0215%20Triangle%20Youth%20Brass%20Bands%202-26-17%20-%20Jesse%20Rackley.jpg",
+            "contact_email": "jrackley@me.com",
+            "choice_pieces": [
+                {
+                    "title": "The Graces of Love",
+                    "composer": "Oliver Waespi",
+                    "performance_slot": "Y1_A"
+                },
+                {
+                    "title": "Images for Brass",
+                    "composer": "Stephen Bulla",
+                    "performance_slot": "Y1_A"
+                }
+            ],
+            "band_section": "Youth First Section",
+            "contest_draw_identifiers": [
+                "Y1_A"
+            ]
+        },
+        {
+            "id": 39,
+            "name": "University of Florida Brass Band",
+            "website": "https://www.facebook.com/UFBrassBand",
+            "band_bio": "Under the direction of Dr. Danielle VanTuinen, the University of Florida Brass Band was established during the 2019 pandemic as an outlet for students to continue performing during very uncertain times. Since the inaugural year, the brass band has established itself as one of the only collegiate brass bands within the state of Florida. The ensemble began as an American Brass Band in order to accommodate for the lack of instrumentation, and over the past two years has grown into a fully established British Brass Band. The band functions as an outlet for students to learn the history and role the brass band plays within the greater brass world.",
+            "band_photo": null,
+            "band_logo": null,
+            "conductor_name": "Danielle VanTuinen",
+            "conductor_bio": "Danielle VanTuinen is a performer, educator, and entrepreneur based in Gainesville, Florida. She currently serves as Assistant Professor of Tuba and Euphonium and Director of the University of Florida Brass Band at the University of Florida. Prior to her current appointment, Danielle served as Lecturer of Music at Plymouth State University where she taught low brass methods, chamber music and applied lessons. She also served as low brass faculty at the Portland Conservatory of Music, adjunct staff for the marching band at the University of New Hampshire, private lesson instructor throughout northern New England, and low brass instructor for the Phoenix Youth Symphony. She has been invited to adjudicate at a variety of festivals, including the New Hampshire MEA Solo & Ensemble Competition, the Paul I. Willwerth Brass Competitions, the International Women\u2019s Brass Young Artist Competition, and the AETYB Young Artist Competition in Madrid, Spain. As a co-founder of the internationally acclaimed Moreau | VanTuinen Duo she has been invited to perform at the Spanish Association of Tubas and Euphoniums, Northern Arizona University, Ithaca College, the Miraphone Academy of the Southwest, the United States Pershing\u2019s Own Army Band Tuba-Euphonium Workshop, and the International Women\u2019s Brass Conference. Her commitment to expanding low brass repertoire has resulted in over 15 compositions by composers such as Steven Snowden, James Grant, Shaun Tilburg, and Etienne Crausaz. Danielle earned a Doctor of Musical Arts degree in Music Performance and Master of Music degree in Music Performance from Arizona State University, and a Bachelors of Music degree in Music Performance from Central Michigan University. Dr. VanTuinen proudly endorses S.E. Shires and the Eastman Music Company.",
+            "conductor_photo": null,
+            "contact_email": "dvantuinenlowbrass@gmail.com",
+            "choice_pieces": [
+                {
+                    "title": "The Unfortunate Traveler",
+                    "composer": "Imogen Holst",
+                    "performance_slot": "3_AA"
+                },
+                {
+                    "title": "Corineus",
+                    "composer": "Christopher Bond",
+                    "performance_slot": "3_AA"
+                }
+            ],
+            "band_section": "Third Section",
+            "contest_draw_identifiers": [
+                "3_AA"
+            ]
+        },
+        {
+            "id": 36,
+            "name": "Watson Brass Band",
+            "website": "https://trianglebrass.org/about-2/",
+            "band_bio": "The Triangle Youth Brass Band, located in Raleigh, North Carolina, was formed in 1997 as an expansion of the Triangle Brass Band\u2019s educational endeavors. The organization consists of four ensembles, the Triangle Youth \u201cJ. Perry Watson\u201d Brass Band, Triangle Youth Brass Band, Triangle Youth Academy Brass Band, and Triangle Youth Percussion Ensemble, and serves over 100 of the Triangle\u2019s most talented young musicians. The mission of the TYBB is to provide engaging, transformative musical experiences to the finest high school brass and percussion players through exceptional performance in the British Brass Band medium.\r\n\r\nThe TYBB program is comprised of brass and percussion students, in grades 9-12, who share a commitment to excellence in performance. Since 1997, the TYBB has represented high schools in Wake, Durham, Orange, Johnston, Cumberland, and Nash counties, and members perform strictly on British Brass Band instrumentation.",
+            "band_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/38/WBB-16%20-%20Jesse%20Rackley.jpg",
+            "band_logo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/38/TBB_Logo_WithS_HalfVertical_blk.pdf",
+            "conductor_name": "Jesse Rackley (watson)",
+            "conductor_bio": "Jesse Rackley is the Artistic Director of the Triangle Youth Brass Bands and conductor of the Watson Brass Band, a 30 piece British style brass band comprised of the most talented high school brass and percussion players in the Central North Carolina region. Previously, he served as Music Director of the Triangle Youth Brass Ensemble from 2009-2013. Under his direction, the Triangle Youth Brass Band program has expanded from two to three brass bands as well as a percussion ensemble.\r\n\r\nJesse is an accomplished tenor trombone and euphonium performer and educator. He is the Principal Trombone of the Fayetteville Symphony and performs regularly with the North Carolina Symphony. He has performed with the Virginia Symphony, Charleston Symphony, Greensboro Symphony, Winston-Salem Symphony, Wilmington symphony, Chamber Orchestra of the Triangle, and Eastern Music Festival Orchestra.\r\n\r\nJesse lives in Morrisville with his two sons, Noah and Ryan, and his partner, Cindy.",
+            "conductor_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/36/0086%20Triangle%20Youth%20Brass%20Bands%202-26-17%20-%20Jesse%20Rackley.jpg",
+            "contact_email": "youthband@trianglebrass.org",
+            "choice_pieces": [
+                {
+                    "title": "The Raid",
+                    "composer": "Oliver Waespi",
+                    "performance_slot": "YC_A"
+                }
+            ],
+            "band_section": "Youth Championship Section",
+            "contest_draw_identifiers": [
+                "YC_A"
+            ]
+        },
+        {
+            "id": 37,
+            "name": "Youth Brass Academy",
+            "website": "https://www.brassbandofhuntsville.com/yba-overview",
+            "band_bio": "The mission of the Youth Brass Academy (YBA) is:\r\n\r\nTo serve as a catalyst to inspire musical excellence in young Huntsville musicians through study, practice, and community.\r\nTo foster a lifelong love of music.\r\nTo instill skills supporting success beyond high school graduation.",
+            "band_photo": null,
+            "band_logo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/37/YBA_logo_1colorHR_20231207%20-%20Kent%20Eversmeyer.png",
+            "conductor_name": "Joe Bader",
+            "conductor_bio": "Joe Bader - Is a retired music educator with over 30 years of experience conducting youth bands including all levels of band, general music, pep band, jazz band, and small ensembles in the Atlanta, Georgia area. Joe plays Repiano Cornet with the Brass Band of Huntsville.",
+            "conductor_photo": null,
+            "contact_email": "doug@brassbandofhuntsville.com",
+            "choice_pieces": [
+                {
+                    "title": "Dark Side of the Moon",
+                    "composer": "Paul Lovatt-Cooper",
+                    "performance_slot": "YO_A"
+                }
+            ],
+            "band_section": "Youth Open Section",
+            "contest_draw_identifiers": [
+                "YO_A"
+            ]
+        }
+    ],
+    "performance_schedule": {
+        "2024-04-05": [
+            {
+                "band_id": 4,
+                "band_draw": "1_A",
+                "stage": "Concert Hall",
+                "title": null,
+                "details": null,
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-05T13:50:00-05:00",
+                    "end_timestamp": "2024-04-05T14:15:00-05:00"
+                }
+            },
+            {
+                "band_id": 12,
+                "band_draw": "2_A",
+                "stage": "Playhouse",
+                "title": null,
+                "details": null,
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-05T14:00:00-05:00",
+                    "end_timestamp": "2024-04-05T14:25:00-05:00"
+                }
+            },
+            {
+                "band_id": 8,
+                "band_draw": "1_B",
+                "stage": "Concert Hall",
+                "title": null,
+                "details": null,
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-05T14:15:00-05:00",
+                    "end_timestamp": "2024-04-05T14:40:00-05:00"
+                }
+            },
+            {
+                "band_id": 18,
+                "band_draw": "2_B",
+                "stage": "Playhouse",
+                "title": null,
+                "details": null,
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-05T14:25:00-05:00",
+                    "end_timestamp": "2024-04-05T14:50:00-05:00"
+                }
+            },
+            {
+                "band_id": 6,
+                "band_draw": "1_C",
+                "stage": "Concert Hall",
+                "title": null,
+                "details": null,
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-05T14:40:00-05:00",
+                    "end_timestamp": "2024-04-05T15:05:00-05:00"
+                }
+            },
+            {
+                "band_id": 10,
+                "band_draw": "2_C",
+                "stage": "Playhouse",
+                "title": null,
+                "details": null,
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-05T14:50:00-05:00",
+                    "end_timestamp": "2024-04-05T15:15:00-05:00"
+                }
+            },
+            {
+                "band_id": 3,
+                "band_draw": "1_D",
+                "stage": "Concert Hall",
+                "title": null,
+                "details": null,
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-05T15:05:00-05:00",
+                    "end_timestamp": "2024-04-05T15:30:00-05:00"
+                }
+            },
+            {
+                "band_id": 21,
+                "band_draw": "2_D",
+                "stage": "Playhouse",
+                "title": null,
+                "details": null,
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-05T15:15:00-05:00",
+                    "end_timestamp": "2024-04-05T15:40:00-05:00"
+                }
+            },
+            {
+                "band_id": 7,
+                "band_draw": "1_E",
+                "stage": "Concert Hall",
+                "title": null,
+                "details": null,
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-05T15:30:00-05:00",
+                    "end_timestamp": "2024-04-05T15:55:00-05:00"
+                }
+            },
+            {
+                "band_id": 16,
+                "band_draw": "2_E",
+                "stage": "Playhouse",
+                "title": null,
+                "details": null,
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-05T15:40:00-05:00",
+                    "end_timestamp": "2024-04-05T16:05:00-05:00"
+                }
+            },
+            {
+                "band_id": 2,
+                "band_draw": "1_F",
+                "stage": "Concert Hall",
+                "title": null,
+                "details": null,
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-05T15:55:00-05:00",
+                    "end_timestamp": "2024-04-05T16:20:00-05:00"
+                }
+            },
+            {
+                "band_id": 19,
+                "band_draw": "2_F",
+                "stage": "Playhouse",
+                "title": null,
+                "details": null,
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-05T16:05:00-05:00",
+                    "end_timestamp": "2024-04-05T16:30:00-05:00"
+                }
+            },
+            {
+                "band_id": 5,
+                "band_draw": "1_G",
+                "stage": "Concert Hall",
+                "title": null,
+                "details": null,
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-05T16:20:00-05:00",
+                    "end_timestamp": "2024-04-05T16:45:00-05:00"
+                }
+            },
+            {
+                "band_id": 9,
+                "band_draw": "2_G",
+                "stage": "Playhouse",
+                "title": null,
+                "details": null,
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-05T16:30:00-05:00",
+                    "end_timestamp": "2024-04-05T16:55:00-05:00"
+                }
+            },
+            {
+                "band_id": null,
+                "band_draw": "session_2",
+                "stage": "Concert Hall",
+                "title": "Break",
+                "details": "There will be a break between 1st section and championship test piece performances",
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-05T16:45:00-05:00",
+                    "end_timestamp": "2024-04-05T17:00:00-05:00"
+                }
+            },
+            {
+                "band_id": 29,
+                "band_draw": "C_A",
+                "stage": "Concert Hall",
+                "title": null,
+                "details": null,
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-05T17:00:00-05:00",
+                    "end_timestamp": "2024-04-05T17:30:00-05:00"
+                }
+            },
+            {
+                "band_id": 15,
+                "band_draw": "2_H",
+                "stage": "Playhouse",
+                "title": null,
+                "details": null,
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-05T17:05:00-05:00",
+                    "end_timestamp": "2024-04-05T17:30:00-05:00"
+                }
+            },
+            {
+                "band_id": 11,
+                "band_draw": "2_I",
+                "stage": "Playhouse",
+                "title": null,
+                "details": null,
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-05T17:30:00-05:00",
+                    "end_timestamp": "2024-04-05T17:55:00-05:00"
+                }
+            },
+            {
+                "band_id": 32,
+                "band_draw": "C_B",
+                "stage": "Concert Hall",
+                "title": null,
+                "details": null,
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-05T17:30:00-05:00",
+                    "end_timestamp": "2024-04-05T18:00:00-05:00"
+                }
+            },
+            {
+                "band_id": 20,
+                "band_draw": "2_J",
+                "stage": "Playhouse",
+                "title": null,
+                "details": null,
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-05T17:55:00-05:00",
+                    "end_timestamp": "2024-04-05T18:20:00-05:00"
+                }
+            },
+            {
+                "band_id": 1,
+                "band_draw": "C_C",
+                "stage": "Concert Hall",
+                "title": null,
+                "details": null,
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-05T18:00:00-05:00",
+                    "end_timestamp": "2024-04-05T18:30:00-05:00"
+                }
+            },
+            {
+                "band_id": 14,
+                "band_draw": "2_K",
+                "stage": "Playhouse",
+                "title": null,
+                "details": null,
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-05T18:20:00-05:00",
+                    "end_timestamp": "2024-04-05T18:45:00-05:00"
+                }
+            },
+            {
+                "band_id": 30,
+                "band_draw": "C_D",
+                "stage": "Concert Hall",
+                "title": null,
+                "details": null,
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-05T18:30:00-05:00",
+                    "end_timestamp": "2024-04-05T19:00:00-05:00"
+                }
+            },
+            {
+                "band_id": 22,
+                "band_draw": "2_L",
+                "stage": "Playhouse",
+                "title": null,
+                "details": null,
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-05T18:45:00-05:00",
+                    "end_timestamp": "2024-04-05T19:10:00-05:00"
+                }
+            },
+            {
+                "band_id": 28,
+                "band_draw": "C_E",
+                "stage": "Concert Hall",
+                "title": null,
+                "details": null,
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-05T19:00:00-05:00",
+                    "end_timestamp": "2024-04-05T19:30:00-05:00"
+                }
+            },
+            {
+                "band_id": 17,
+                "band_draw": "2_M",
+                "stage": "Playhouse",
+                "title": null,
+                "details": null,
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-05T19:10:00-05:00",
+                    "end_timestamp": "2024-04-05T19:35:00-05:00"
+                }
+            },
+            {
+                "band_id": 33,
+                "band_draw": "C_F",
+                "stage": "Concert Hall",
+                "title": null,
+                "details": null,
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-05T19:30:00-05:00",
+                    "end_timestamp": "2024-04-05T20:00:00-05:00"
+                }
+            },
+            {
+                "band_id": 13,
+                "band_draw": "2_N",
+                "stage": "Playhouse",
+                "title": null,
+                "details": null,
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-05T19:35:00-05:00",
+                    "end_timestamp": "2024-04-05T20:00:00-05:00"
+                }
+            },
+            {
+                "band_id": 31,
+                "band_draw": "C_G",
+                "stage": "Concert Hall",
+                "title": null,
+                "details": null,
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-05T20:00:00-05:00",
+                    "end_timestamp": "2024-04-05T20:30:00-05:00"
+                }
+            },
+            {
+                "band_id": 34,
+                "band_draw": "C_H",
+                "stage": "Concert Hall",
+                "title": null,
+                "details": null,
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-05T20:30:00-05:00",
+                    "end_timestamp": "2024-04-05T21:00:00-05:00"
+                }
+            }
+        ],
+        "2024-04-06": [
+            {
+                "band_id": 39,
+                "band_draw": "3_AA",
+                "stage": "Playhouse",
+                "title": null,
+                "details": null,
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-06T08:25:00-05:00",
+                    "end_timestamp": "2024-04-06T09:00:00-05:00"
+                }
+            },
+            {
+                "band_id": 14,
+                "band_draw": "2_AA",
+                "stage": "Concert Hall",
+                "title": null,
+                "details": null,
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-06T08:43:00-05:00",
+                    "end_timestamp": "2024-04-06T09:06:00-05:00"
+                }
+            },
+            {
+                "band_id": 23,
+                "band_draw": "3_A",
+                "stage": "Playhouse",
+                "title": null,
+                "details": null,
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-06T09:00:00-05:00",
+                    "end_timestamp": "2024-04-06T09:35:00-05:00"
+                }
+            },
+            {
+                "band_id": 16,
+                "band_draw": "2_BB",
+                "stage": "Concert Hall",
+                "title": null,
+                "details": null,
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-06T09:06:00-05:00",
+                    "end_timestamp": "2024-04-06T09:29:00-05:00"
+                }
+            },
+            {
+                "band_id": 21,
+                "band_draw": "2_CC",
+                "stage": "Concert Hall",
+                "title": null,
+                "details": null,
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-06T09:29:00-05:00",
+                    "end_timestamp": "2024-04-06T09:52:00-05:00"
+                }
+            },
+            {
+                "band_id": 25,
+                "band_draw": "3_B",
+                "stage": "Playhouse",
+                "title": null,
+                "details": null,
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-06T09:35:00-05:00",
+                    "end_timestamp": "2024-04-06T10:10:00-05:00"
+                }
+            },
+            {
+                "band_id": 15,
+                "band_draw": "2_DD",
+                "stage": "Concert Hall",
+                "title": null,
+                "details": null,
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-06T09:52:00-05:00",
+                    "end_timestamp": "2024-04-06T10:15:00-05:00"
+                }
+            },
+            {
+                "band_id": 27,
+                "band_draw": "3_C",
+                "stage": "Playhouse",
+                "title": null,
+                "details": null,
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-06T10:10:00-05:00",
+                    "end_timestamp": "2024-04-06T10:45:00-05:00"
+                }
+            },
+            {
+                "band_id": 10,
+                "band_draw": "2_EE",
+                "stage": "Concert Hall",
+                "title": null,
+                "details": null,
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-06T10:15:00-05:00",
+                    "end_timestamp": "2024-04-06T10:38:00-05:00"
+                }
+            },
+            {
+                "band_id": 9,
+                "band_draw": "2_FF",
+                "stage": "Concert Hall",
+                "title": null,
+                "details": null,
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-06T10:38:00-05:00",
+                    "end_timestamp": "2024-04-06T11:01:00-05:00"
+                }
+            },
+            {
+                "band_id": 26,
+                "band_draw": "3_D",
+                "stage": "Playhouse",
+                "title": null,
+                "details": null,
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-06T10:45:00-05:00",
+                    "end_timestamp": "2024-04-06T11:20:00-05:00"
+                }
+            },
+            {
+                "band_id": 22,
+                "band_draw": "2_GG",
+                "stage": "Concert Hall",
+                "title": null,
+                "details": null,
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-06T11:01:00-05:00",
+                    "end_timestamp": "2024-04-06T11:24:00-05:00"
+                }
+            },
+            {
+                "band_id": 24,
+                "band_draw": "3_E",
+                "stage": "Playhouse",
+                "title": null,
+                "details": null,
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-06T11:20:00-05:00",
+                    "end_timestamp": "2024-04-06T11:55:00-05:00"
+                }
+            },
+            {
+                "band_id": null,
+                "band_draw": "session_3",
+                "stage": "Concert Hall",
+                "title": null,
+                "details": null,
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-06T11:24:00-05:00",
+                    "end_timestamp": "2024-04-06T11:34:00-05:00"
+                }
+            },
+            {
+                "band_id": 18,
+                "band_draw": "2_HH",
+                "stage": "Concert Hall",
+                "title": null,
+                "details": null,
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-06T11:34:00-05:00",
+                    "end_timestamp": "2024-04-06T11:57:00-05:00"
+                }
+            },
+            {
+                "band_id": null,
+                "band_draw": "session_7",
+                "stage": "Playhouse",
+                "title": "Break",
+                "details": "There will be a break between the third section and youth band competitions",
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-06T11:55:00-05:00",
+                    "end_timestamp": "2024-04-06T12:00:00-05:00"
+                }
+            },
+            {
+                "band_id": 17,
+                "band_draw": "2_II",
+                "stage": "Concert Hall",
+                "title": null,
+                "details": null,
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-06T11:57:00-05:00",
+                    "end_timestamp": "2024-04-06T12:20:00-05:00"
+                }
+            },
+            {
+                "band_id": 37,
+                "band_draw": "YO_A",
+                "stage": "Playhouse",
+                "title": null,
+                "details": null,
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-06T12:00:00-05:00",
+                    "end_timestamp": "2024-04-06T12:25:00-05:00"
+                }
+            },
+            {
+                "band_id": 12,
+                "band_draw": "2_JJ",
+                "stage": "Concert Hall",
+                "title": null,
+                "details": null,
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-06T12:20:00-05:00",
+                    "end_timestamp": "2024-04-06T12:43:00-05:00"
+                }
+            },
+            {
+                "band_id": 38,
+                "band_draw": "YO_B",
+                "stage": "Playhouse",
+                "title": null,
+                "details": null,
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-06T12:25:00-05:00",
+                    "end_timestamp": "2024-04-06T12:50:00-05:00"
+                }
+            },
+            {
+                "band_id": 19,
+                "band_draw": "2_KK",
+                "stage": "Concert Hall",
+                "title": null,
+                "details": null,
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-06T12:43:00-05:00",
+                    "end_timestamp": "2024-04-06T13:06:00-05:00"
+                }
+            },
+            {
+                "band_id": 35,
+                "band_draw": "Y1_A",
+                "stage": "Playhouse",
+                "title": null,
+                "details": null,
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-06T12:50:00-05:00",
+                    "end_timestamp": "2024-04-06T13:15:00-05:00"
+                }
+            },
+            {
+                "band_id": 20,
+                "band_draw": "2_LL",
+                "stage": "Concert Hall",
+                "title": null,
+                "details": null,
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-06T13:06:00-05:00",
+                    "end_timestamp": "2024-04-06T13:29:00-05:00"
+                }
+            },
+            {
+                "band_id": 13,
+                "band_draw": "2_MM",
+                "stage": "Concert Hall",
+                "title": null,
+                "details": null,
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-06T13:29:00-05:00",
+                    "end_timestamp": "2024-04-06T13:52:00-05:00"
+                }
+            },
+            {
+                "band_id": 11,
+                "band_draw": "2_NN",
+                "stage": "Concert Hall",
+                "title": null,
+                "details": null,
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-06T13:52:00-05:00",
+                    "end_timestamp": "2024-04-06T14:15:00-05:00"
+                }
+            },
+            {
+                "band_id": null,
+                "band_draw": "session_4",
+                "stage": "Concert Hall",
+                "title": "Break",
+                "details": "There will be a break between 2nd section and 1st section choice piece performances",
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-06T14:15:00-05:00",
+                    "end_timestamp": "2024-04-06T14:25:00-05:00"
+                }
+            },
+            {
+                "band_id": 8,
+                "band_draw": "1_AA",
+                "stage": "Concert Hall",
+                "title": null,
+                "details": null,
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-06T14:25:00-05:00",
+                    "end_timestamp": "2024-04-06T14:50:00-05:00"
+                }
+            },
+            {
+                "band_id": 3,
+                "band_draw": "1_BB",
+                "stage": "Concert Hall",
+                "title": null,
+                "details": null,
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-06T14:50:00-05:00",
+                    "end_timestamp": "2024-04-06T15:15:00-05:00"
+                }
+            },
+            {
+                "band_id": 4,
+                "band_draw": "1_CC",
+                "stage": "Concert Hall",
+                "title": null,
+                "details": null,
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-06T15:15:00-05:00",
+                    "end_timestamp": "2024-04-06T15:40:00-05:00"
+                }
+            },
+            {
+                "band_id": 7,
+                "band_draw": "1_DD",
+                "stage": "Concert Hall",
+                "title": null,
+                "details": null,
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-06T15:40:00-05:00",
+                    "end_timestamp": "2024-04-06T16:05:00-05:00"
+                }
+            },
+            {
+                "band_id": 5,
+                "band_draw": "1_EE",
+                "stage": "Concert Hall",
+                "title": null,
+                "details": null,
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-06T16:05:00-05:00",
+                    "end_timestamp": "2024-04-06T16:30:00-05:00"
+                }
+            },
+            {
+                "band_id": 2,
+                "band_draw": "1_FF",
+                "stage": "Concert Hall",
+                "title": null,
+                "details": null,
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-06T16:30:00-05:00",
+                    "end_timestamp": "2024-04-06T16:55:00-05:00"
+                }
+            },
+            {
+                "band_id": 6,
+                "band_draw": "1_GG",
+                "stage": "Concert Hall",
+                "title": null,
+                "details": null,
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-06T16:55:00-05:00",
+                    "end_timestamp": "2024-04-06T17:20:00-05:00"
+                }
+            },
+            {
+                "band_id": null,
+                "band_draw": "session_5",
+                "stage": "Concert Hall",
+                "title": "Break",
+                "details": "There will be a break between First section and Championship section choice piece performances",
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-06T17:20:00-05:00",
+                    "end_timestamp": "2024-04-06T17:30:00-05:00"
+                }
+            },
+            {
+                "band_id": 31,
+                "band_draw": "C_AA",
+                "stage": "Concert Hall",
+                "title": null,
+                "details": null,
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-06T17:30:00-05:00",
+                    "end_timestamp": "2024-04-06T18:00:00-05:00"
+                }
+            },
+            {
+                "band_id": 32,
+                "band_draw": "C_BB",
+                "stage": "Concert Hall",
+                "title": null,
+                "details": null,
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-06T18:00:00-05:00",
+                    "end_timestamp": "2024-04-06T18:30:00-05:00"
+                }
+            },
+            {
+                "band_id": 33,
+                "band_draw": "C_CC",
+                "stage": "Concert Hall",
+                "title": null,
+                "details": null,
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-06T18:30:00-05:00",
+                    "end_timestamp": "2024-04-06T19:00:00-05:00"
+                }
+            },
+            {
+                "band_id": 1,
+                "band_draw": "C_DD",
+                "stage": "Concert Hall",
+                "title": null,
+                "details": null,
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-06T19:00:00-05:00",
+                    "end_timestamp": "2024-04-06T19:30:00-05:00"
+                }
+            },
+            {
+                "band_id": 34,
+                "band_draw": "C_EE",
+                "stage": "Concert Hall",
+                "title": null,
+                "details": null,
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-06T19:30:00-05:00",
+                    "end_timestamp": "2024-04-06T20:00:00-05:00"
+                }
+            },
+            {
+                "band_id": 29,
+                "band_draw": "C_FF",
+                "stage": "Concert Hall",
+                "title": null,
+                "details": null,
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-06T20:00:00-05:00",
+                    "end_timestamp": "2024-04-06T20:30:00-05:00"
+                }
+            },
+            {
+                "band_id": 30,
+                "band_draw": "C_GG",
+                "stage": "Concert Hall",
+                "title": null,
+                "details": null,
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-06T20:30:00-05:00",
+                    "end_timestamp": "2024-04-06T21:00:00-05:00"
+                }
+            },
+            {
+                "band_id": 28,
+                "band_draw": "C_HH",
+                "stage": "Concert Hall",
+                "title": null,
+                "details": null,
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-06T21:00:00-05:00",
+                    "end_timestamp": "2024-04-06T21:30:00-05:00"
+                }
+            },
+            {
+                "band_id": 36,
+                "band_draw": "YC_A",
+                "stage": "Concert Hall",
+                "title": null,
+                "details": null,
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-06T21:30:00-05:00",
+                    "end_timestamp": "2024-04-06T22:00:00-05:00"
+                }
+            },
+            {
+                "band_id": null,
+                "band_draw": "session_6",
+                "stage": "Concert Hall",
+                "title": "Band Competition Awards",
+                "details": "Awards for the band competition will be presented following the completion of Youth Championship competition.",
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-06T22:15:00-05:00",
+                    "end_timestamp": "2024-04-06T22:45:00-05:00"
+                }
+            }
+        ]
+    },
+    "venue_details": {
+        "name": "Von Braun Center",
+        "image": null,
+        "address": "700 Monroe St SW, Huntsville, AL 35801",
+        "map_file": "https://goo.gl/maps/cngBNm88WPDD6Xh87",
+        "description": "NABBA is proud to once again be hosting the contest at the Von Braun Center. The Von Braun Center, named for rocket pioneer Dr. Wernher Von Braun, is located in the heart of historic downtown Huntsville, Alabama. This multi-purpose facility is equipped to accommodate major conferences, conventions, concerts, Broadway performances, ballets, symphonies, a full range of sporting events and so much more! Huntsville is a high-tech city with a history of Southern hospitality. The VBC is just a short drive from the International Airport and convenient to area hotels. The Von Braun Center is a turn-key facility with a team of experienced professionals ready to guarantee the success of your event.",
+        "link": null,
+        "contest_name": "NABBA Championships 2024",
+        "judge_link": "https://nabba.org/wp-content/uploads/2024/01/Adjudicator-Bios-2024-rev-2.pdf",
+        "solo_ensemble_link": "https://nabba.org/championships/"
+    },
+    "partner_details": [
+        {
+            "image_src": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/partner_logos/sparrow-court-logo.png",
+            "name": "Sparrow Court Consulting",
+            "link": "https://www.sparrowcourt.com",
+            "background": "#FFFFFF"
+        },
+        {
+            "image_src": "https://static.wixstatic.com/media/2ecf74_49e7896683be452bafdcc0b3f986f595~mv2.png/v1/fill/w_2100,h_754,fp_0.47_0.34,q_90,enc_auto/2ecf74_49e7896683be452bafdcc0b3f986f595~mv2.png",
+            "name": "Oliverio Studios",
+            "link": "https://www.patrickoliverio.com/videos",
+            "background": "#FFFFFF"
+        },
+        {
+            "image_src": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/partner_logos/brookwright_music_logo.jpg",
+            "name": "Brookwright Music",
+            "link": "https://www.brookwrightmusic.com/",
+            "background": "#241f44"
+        }
+    ]
+}

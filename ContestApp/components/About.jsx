@@ -25,12 +25,10 @@ export function About(props) {
             <Paragraph>(d) To serve as a resource for musical and organizational assistance to British-type brass bands throughout North America
             </Paragraph>
             <Title>Board of Directors</Title>
-            <Paragraph>
-              Jason Collier, Tony Granados, Jon Heaver, Dr. Patrick Herak, Alex Schnautz, Mark Taylor,
-              Christopher Ward, Anita McAlister, Andrew Harms, Bryen Warfield, Sal Scarpa, Douglas Lindsey,
-              Jesse Rackley, Dr. John Bell, Aaron Campbell, David Jones, Anthony Walker, Jennifer Wagner,
-              Matt Billock,Patrick Oliverio
-            </Paragraph>
+            <Paragraph>NABBA President - Dr. Patrick Herak, Vice-President - Dr. Mark Taylor, Secretary - Dr. Douglas Lindsey, Treasurer - Bob Crook</Paragraph>
+            <Paragraph>Board Members, Term ending June 30, 2024 - Dr. John Bell, Dr. Aaron Campbell, David Jones, Ron Lutterbie, Dr. Anthony Walker, Matt Billock, & Patrick Oliverio</Paragraph>
+            <Paragraph>Board Members, Term ending June 30, 2025 - Michael Olefsky, Brad Vrooman, & Bryen Warfield</Paragraph>
+            <Paragraph>Board Members, Term ending June 30, 2026 - Rebecca Barger Amato, Jarod Estrada, Tony Granados, Roger Oyster, Jesse Rackley, Sal Scarpa, & Christopher Ward.</Paragraph>
           </Card.Content>
           <Card.Actions alignItems='center'>
             <IconButton icon="web" iconColor={theme.colors.primary} onPress={() => Linking.openURL("https://www.nabba.org")} />
