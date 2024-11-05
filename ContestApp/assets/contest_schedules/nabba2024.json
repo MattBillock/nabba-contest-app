@@ -5,11 +5,11 @@
             "name": "Arkansas Musicworks Brass Band",
             "website": "https://arkansasmusicworks.com",
             "band_bio": "Arkansas Musicworks Brass Band, founded in 2017, is an entirely volunteer brass band based in the Northwest Arkansas area. The 'Musicworks Band' seeks to create world-class performances featuring regional musicians, fostering a culture of professional excellence in the amateur music-making community. To that end, the band regularly engages with composers and conductors who are new to the brass band genre and want to hear their musical ideas brought to life for the public. More broadly, the band takes pride in offering a high-quality outlet for musicians, composers, and conductors seeking to push their artistry to new heights in a friendly and constructive environment. The band is also very proud of its growing youth programs, alumni from which have already found their way into NABBA bands from third section to championship.",
-            "band_photo": null,
-            "band_logo": null,
+            "band_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/2023/26/band_photo.jpg",
+            "band_logo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/06/IMG_4899.jpeg",
             "conductor_name": "Evan Harger",
             "conductor_bio": "Dr. Evan Harger serves as Assistant Director of Bands and Music Entrepreneurship at Texas A&M University Kingsville. In that capacity, he conducts the Concert and University Bands, teaches undergraduate conducting, mentors graduate students, and leads an all -undergraduate conducting studio. An advocate for new music and living composers, Dr. Harger serves as a Staff Conductor for the Sofia Symphonic Summit and Vienna Summer Music Festival where he collaborates with world-class ensembles and living composers to promote new music and international collaboration. \r\n\r\nPast guest conducting engagements have included the Sofia Philharmonic, Ensemble PHACE, Maryland Chamber Winds, Young People\u2019s Philharmonic of the Lehigh Valley, St. Petersburg State Symphony, Oregon Mozart Players, Members of the Northeastern Pennsylvania Philharmonic and Northeastern Pennsylvania Chamber Music Society, Idaho All Collegiate Band, Pennsylvania Music Educators Association District 8 Orchestra, PMEA District 9 Orchestra, Marywood Honor Chamber Orchestra, Lycoming County Honor Band, Berks County Honor Orchestra, and other guest clinics with high school bands and orchestra. He is passionate about teaching the art of conducting, score study, and entrepreneurship to undergraduate and graduate students and currently resides in Kingsville Texas.",
-            "conductor_photo": null,
+            "conductor_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/06/Harger%20photo.jpg",
             "contact_email": "brassband@arkansasmusicworks.com",
             "choice_pieces": [
                 {
@@ -308,7 +308,7 @@
                 },
                 {
                     "title": "Angels and Demons",
-                    "composer": "Philip Sparke",
+                    "composer": "Peter Graham",
                     "performance_slot": "C_FF"
                 }
             ],
@@ -424,7 +424,7 @@
                 },
                 {
                     "title": "Angels and Demons",
-                    "composer": "Philip Sparke",
+                    "composer": "Peter Graham",
                     "performance_slot": "C_AA"
                 }
             ],
@@ -439,11 +439,11 @@
             "name": "Fountain City Youth Brass Academy",
             "website": "www.fcyba.net",
             "band_bio": "The Fountain City Youth Brass Academy (FCYBA) is the educational outreach component of the Fountain City Brass Band, North America\u2019s premiere volunteer brass and percussion ensemble. The mission of the FCYBA is to inspire young musicians of all performance ability levels to achieve a high standard of musicianship and to foster a life-long love of music.\r\n\r\nThe Fountain City Youth Brass Academy was founded in 2008 by Helen Harrelson while she was on a sabbatical from her job in England. Helen is a native of England and grew up in the brass band tradition before attending the Royal Northern College of Music. From there, she became one of the world\u2019s foremost baritonists and performed with some of the finest bands in the United Kingdom. Her passion for music education and this rich tradition led her to establish the FCYBA.\r\n\r\nThe FCYBA began as day-long \u2018Expo\u2019 workshops and has grown into season-long brass bands with over 150 members. The bands within the Academy are made up of brass and percussionists of all standards and abilities from late elementary through young adult. The bands of the FCYBA are non-cut programs for participants 18 years of age and younger. The conductors and specialists for the FCYBA bands are professional music educators that also perform with the Fountain City Brass Band.\r\n\r\nSince its inception, the bands of the FCYBA have won numerous national championships at the North American Brass Band Championships and the US Open Brass Band Championships, and been featured at prestigious events such as the Great American Brass Band Festival and the Kansas Music Educators Association\u2019s annual conference.",
-            "band_photo": null,
-            "band_logo": null,
+            "band_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/24/FCYBA.jpg",
+            "band_logo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/24/FCYBA-Logo-web-1%20copy.png",
             "conductor_name": "Lee Harrelson",
             "conductor_bio": "Lee Harrelson is a Professor of Music at Missouri Western State University. At Missouri Western, he serves as the Director of Instrumental Studies and Bands, low brass specialist, and conducts the Missouri Western Symphonic Winds. Dr. Harrelson has also served on the faculties of the University of Kansas, the University of Central Missouri, and the UMKC Conservatory. Dr. Harrelson attended the University of Southern Mississippi, where he studied music education and performance before completing his masters and doctorate at the UMKC Conservatory.\r\n\r\nDr. Harrelson is the founder of the Fountain City Brass Band and currently serves as its artistic director, executive director, and principal euphoniumist.\r\n\r\nDedicated to furthering the development of brass bands in America, Dr. Harrelson, along with his wife Helen, founded the Fountain City Youth Brass Academy in 2009, which regularly serves 120 students per year, and in 2019, the National Youth Brass Band of America. After serving three years as the executive director of the U.S. Open Brass Band Championships, in 2022, Dr. Harrelson founded the US Masters Brass Band Entertainment Championships.\r\n\r\nIn the fall of 2019, Dr. Harrelson was awarded the first-ever Visiting International Professor position with the world-famous Brighouse & Rastrick Band.\r\n\r\nDr. Harrelson can be heard on numerous commercially released recordings and has appeared throughout North America and Europe as a clinician, soloist, and chamber musician. He is a Besson/Buffet Crampon performing artist.",
-            "conductor_photo": null,
+            "conductor_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/24/Lee%20Harrelson.jpg",
             "contact_email": "helen@fcbb.net",
             "choice_pieces": [
                 {
@@ -496,11 +496,11 @@
             "name": "James Madison University Brass Band",
             "website": "https://www.jmu.edu/music/areas/brass/index.shtml",
             "band_bio": "Under the direction of Professor Kevin Stees, the JMU Brass Band is one of the most successful collegiate brass bands in the world today. Formed by Stees in the Fall of 2000, the band was named the North American Brass Band Association 1st Section Champion in 2004 and 2005, and was the 2006, 2007, 2010, 2016, 2019 and 2022 NABBA Championship Section Runner-up. The group maintains an active schedule, performing regularly throughout the academic year, and has been a featured ensemble at numerous festivals and conferences including the American Trombone Workshop, Virginia Music Educators Association Conference, Great American Brass Band Festival, U.S. Army Tuba Euphonium Workshop, and the Southeast Regional Tuba Euphonium Conference.\r\n\r\nIn the summer of 2008, the ensemble embarked on a concert tour of England and Wales sharing the stage with many outstanding bands including the world-famous Cory Band. In 2009, the group became the first brass band to perform a full-length concert at the John F. Kennedy Center for the Performing Arts in Washington, D.C. In 2012, the band traveled to Linz, Austria, to perform as a featured ensemble at the International Tuba Euphonium Conference. Always interested in showcasing new repertoire, the band has given the North American premiere of over a dozen major works for brass band. The band performed as a featured ensemble at the 2017 Royal Northern College of Music Brass Band Festival in Manchester, England. In the summer of 2022, the band competed in the Concert Division of the 2022 World Music Contest in Kerkrade, The Netherlands. The JMU Brass Band is currently ranked in the top 100 brass bands worldwide.",
-            "band_photo": null,
-            "band_logo": null,
+            "band_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/34/Recents%20-%201%20of%201.jpeg",
+            "band_logo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/34/Brass%20Band-vert-purple.jpg",
             "conductor_name": "Kevin Stees (JMU)",
             "conductor_bio": "Kevin Stees, now in his 39th year as Professor of Tuba and Euphonium at James Madison University, leads an active career as a soloist, chamber musician, conductor, and music educator. He has studied with tuba artists Daniel Perantoni (Indiana University), Charles Daellenbach (Canadian Brass), and Jack Tilbury (U.S. Army Brass Quintet, ret.) and holds music degrees from the University of Illinois and Arizona State University.\r\n\r\nStees has presented solo and chamber music performances at numerous universities, conferences, music festivals, and workshops, including the U.S. Army Band Tuba-Euphonium Conference, Southeast Regional Tuba-Euphonium Conference, International Tuba-Euphonium Conference, and the Keystone Brass Institute. He has performed with a number of orchestras including the Roanoke Symphony Orchestra, Phoenix Symphony, Canadian Chamber Orchestra, and the Calgary Philharmonic, and was a member of the Southwest Brass Quintet and the Skyline Brass.\r\n\r\nStees currently performs with the Madison Brass (quintet-in-residence at James Madison University), Shenandoah Valley Bach Festival Orchestra, Staunton Music Festival Orchestra, and the Waynesboro Symphony Orchestra. In addition to performances on tuba, he is very active as the conductor of the internationally recognized James Madison University Brass Band, having led the ensemble in performances at the John F. Kennedy Center for the Performing Arts in Washington, D.C. and the Brucknerhaus Concert Hall in Linz, Austria, as well as music venues in England, Wales, Austria, and The Netherlands. Stees is also the conductor of the award-winning Massanutten Brass Band. Additionally, he has served on the Board of Directors of the North American Brass Band Association and is a member of the International Tuba Euphonium Association.",
-            "conductor_photo": null,
+            "conductor_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/20/stees-2019.jpg",
             "contact_email": "steeskj@jmu.edu",
             "choice_pieces": [
                 {
@@ -583,11 +583,11 @@
             "name": "Massanutten Brass Band",
             "website": "www.massanuttenbrassband.org",
             "band_bio": "The Massanutten Brass Band, from Virginia\u2019s beautiful Shenandoah Valley, was formed in September of 2001 and has developed a loyal and enthusiastic following of brass band enthusiasts. Now celebrating their 20th season, the ensemble is comprised of outstanding musicians from Northern Virginia, Charlottesville and the Shenandoah Valley. The band\u2019s personnel include school band directors, music professors, university music students, and serious amateur musicians. The ensemble performs throughout the central Shenandoah Valley region and has performed as the featured ensemble at the Virginia Music Educators Conference. The Massanutten Brass Band was awarded first prize in the 2nd Section (2007) and third prize in the 1st Section (2009, 2010) and, most recently, second prize in the 2nd Section (2023) at the NABBA Championships. In the Spring of 2011, the band collaborated with the Shenandoah Valley Choral Society in presenting the U.S. premiere of the brass band version of Karl Jenkin\u2019s The Armed Man: A Mass for Peace.",
-            "band_photo": null,
-            "band_logo": null,
+            "band_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/20/MBB%202023.png",
+            "band_logo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/20/MBB%20Logo.png",
             "conductor_name": "Kevin Stees (massanutten)",
             "conductor_bio": "Kevin Stees, now in his 39th year as Professor of Tuba and Euphonium at James Madison University, leads an active career as a soloist, chamber musician, conductor and music educator. He has studied with tuba artists Daniel Perantoni (Indiana University), Charles Daellenbach (Canadian Brass) and Jack Tilbury (U.S. Army Brass Quintet, ret.) and holds music degrees from the University of Illinois and Arizona State University.\r\n\r\nStees has presented solo and chamber music performances at numerous universities, conferences, music festivals and workshops, including the U.S. Army Band Tuba-Euphonium Conference, Southeast Regional Tuba-Euphonium Conference, International Tuba-Euphonium Conference and the Keystone Brass Institute. He has performed with a number of orchestras including the Roanoke Symphony Orchestra, Phoenix Symphony, Canadian Chamber Orchestra and the Calgary Philharmonic, and was a member of the Southwest Brass Quintet and the Skyline Brass. Stees currently performs with the Madison Brass (quintet-in-residence at James Madison University), Shenandoah Valley Bach Festival Orchestra, Staunton Music Festival Orchestra and the Waynesboro Symphony Orchestra. In addition to performances on tuba, he is very active as the conductor of the internationally recognized James Madison University Brass Band, having led the ensemble in performances at the John F. Kennedy Center for the Performing Arts in Washington, D.C. and the Brucknerhaus Concert Hall in Linz, Austria, as well as music venues in England, Wales, Austria, and The Netherlands. Stees is also the conductor of the award-winning Massanutten Brass Band. Additionally, he has served on the Board of Directors of the North American Brass Band Association and is a member of the International Tuba Euphonium Association.",
-            "conductor_photo": null,
+            "conductor_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/20/stees-2019.jpg",
             "contact_email": "massanuttenbrassband@gmail.com",
             "choice_pieces": [
                 {
@@ -756,11 +756,11 @@
             "name": "Princeton Brass Band",
             "website": "princetonbrassband.org",
             "band_bio": "The Princeton Brass Band, a major cultural presence in the state of New Jersey, attracts top players from throughout the northeast and mid-atlantic regions. The band is devoted to advancing the British-style brass band tradition in our corner of the world through performance and educational outreach, involving guest artists, holding clinics, and through the Princeton Youth Brass Band. In 2008, the band brought the first NABBA trophy back to New Jersey and in 2013 were crowned NABBA Championship section winners. In 2023, the band returned to NABBA after a six year hiatus and claimed first place honors in the First section of the competition. The band is currently directed by Aaron VanderWeele, Principle Euphonium with the New York Staff Band.",
-            "band_photo": null,
-            "band_logo": null,
+            "band_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/28/PBB%20Richardson.jpg",
+            "band_logo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/28/PBB%20Logo%202020%20White%20horizontal%20title%20(2).jpg",
             "conductor_name": "Aaron VanderWeele",
             "conductor_bio": "Aaron VanderWeele currently serves on the faculty of Mason Gross School of the Arts at Rutgers University, the State University of New Jersey. He has been Principal Euphonium and Euphonium Soloist of the world-renowned New York Staff Band since 1993.\r\n\r\nIn 2007, Mr. VanderWeele was awarded International Euphonium Player of the Year \u2014 only the third American to receive this prestigious recognition.\r\n\r\nHe is a Buffet Crampon Artist and performs exclusively on the Besson Brass 2052 Prestige Euphonium. He has over twenty recordings to his credit \u2014 four of which are solo album recordings. He received his FTCL and LTCL Euphonium Performance Diplomas from Trinity College, London.\r\n\r\nMr. VanderWeele has been featured as a soloist and clinician at many Northeast Regional Tuba Euphonium Conferences and the U.S. Army Band\u2019s Tuba Euphonium Workshop. He is an avid pedagogue and brass band exponent in the United States.\r\n\r\nIn 2013, Mr. VanderWeele was Principal Euphonium in the Princeton Brass Band when the band won the Championship Section competition at the NABBA in Fort Wayne, Indiana.\r\n\r\nHis single greatest memory as a brass band artist was accompanying famed rock star Elton John at Carnegie Hall with fellow members of the New York Staff Band. Aaron has two sons who are both brass band musicians.",
-            "conductor_photo": null,
+            "conductor_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/28/_B3A3800.jpg",
             "contact_email": "princetonbrassband@gmail.com",
             "choice_pieces": [
                 {
@@ -842,11 +842,11 @@
             "name": "Roman Festival Brass",
             "website": "romanfestivalbrass.org",
             "band_bio": "Located in scenic northwest Georgia, Roman Festival Brass is a performing group of Roman Festival, Inc., a nonprofit 501 (c) (3). The mission of Roman Festival, Inc. is the education and promotion of British and American brass music. Roman Festival Brass has a very diverse membership. From physicians to educators, retirees to students, the group brings together volunteer brass and percussion musicians from three states with a common goal to promote this unique genre of music. The band\u2019s wealth of excellent music educators fosters this mission.\r\n\r\nRoman Festival Brass plays numerous concerts throughout north Georgia, including seasonal Christmas and 4th of July concerts, as well as thematic performances. Roman Festival Brass has also participated in the Great American Brass Band Festival and the North American Brass Band Association Championships.",
-            "band_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/25/image.png",
-            "band_logo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/25/IMG_9872.jpeg",
+            "band_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/25/IMG_2195.jpeg",
+            "band_logo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/25/RFB-Logo_Calisto_V3-COLOR.jpg",
             "conductor_name": "Dustin Burgess",
             "conductor_bio": "Dr. Dustin Burgess is currently Associate Professor of Music Education and Director of the Music Education program at Shorter University, where he also teaches applied trumpet. He previously served as Assistant Professor of Music Education, Music Education Coordinator, and Applied Trumpet at Bethune-Cookman University, in Daytona Beach, Florida. He also teaches as an adjunct professor in the University of Florida\u2019s Master of Music Education program.\r\n\r\nDr. Burgess\u2019 research interests include comprehensive musicianship, assessment in music education, trumpet pedagogy, and quality band literature. He presented research at various state and national conferences including the South Carolina State Music Educators Association Conference, the Georgia Music Educators Association Conference, the Pennsylvania Music Educators Association Conference, the Florida College Music Educators Association Conference, and the National Association for Music Education History of Music Education Symposium. He has articles published in the International Trumpet Guild Journal, the Florida Music Director, the Georgia Music News, and the National Band Association Journal.\r\n\r\nDr. Burgess was a member of the 82nd Airborne Division Band and the Eighth United States Army Band, performing throughout the United States, South Korea, England, and France. During his four years in the Army bands, he performed as the section leader in the Ceremonial Band, Brass Quintet, Big Band, and Variety Rock Band. He has also performed with various ensembles, including the Southern Winds Wind Symphony, Southwest Florida Symphony Orchestra, Fayetteville Symphony Orchestra, the Cape Fear Regional Theatre, Walt Disney World, Brass Band of Central Florida, Chicago Brass Band, Sunshine Brass Band, and Roman Festival Brass Band.\r\n\r\nPrevious teaching and conducting positions for Dr. Burgess include elementary, middle, and high school choral and band programs in Pennsylvania, North Carolina, and Florida. He served as a mentor for the Erie Youth Symphony Orchestra and was the Artistic and Musical Director for the Youth Brass Band of Central Florida.\r\n\r\nDr. Burgess is a member of the National Association for Music Education, Georgia Music Educators Association, and the North American Brass Band Association.",
-            "conductor_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/25/IMG_9874.jpeg",
+            "conductor_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/25/burgess.jpg",
             "contact_email": "ldean46@bellsouth.net",
             "choice_pieces": [
                 {
@@ -987,7 +987,7 @@
             "website": "https://trianglebrass.org/about-2/",
             "band_bio": "The Triangle Youth Brass Band, located in Raleigh, North Carolina, was formed in 1997 as an expansion of the Triangle Brass Band's educational endeavors. The organization consists of four ensembles: the Triangle Youth \u201cJ. Perry Watson\u201d Brass Band, Triangle Youth Brass Band, Triangle Youth Academy Brass Band, and Triangle Youth Percussion Ensemble, and serves over 100 of the Triangle\u2019s most talented young musicians. The mission of the TYBB is to provide engaging, transformative musical experiences to the finest high school brass and percussion players through exceptional performance in the British Brass Band medium.\r\n\r\nThe TYBB program is comprised of brass and percussion students, in grades 9-12, who share a commitment to excellence in performance. Since 1997, the TYBB has represented high schools in Wake, Durham, Orange, Johnston, Cumberland, and Nash counties, and members perform strictly on British Brass Band instrumentation.",
             "band_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/38/TYABB-2%20-%20Jesse%20Rackley.jpg",
-            "band_logo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/38/TBB_Logo_WithS_HalfVertical_blk.pdf",
+            "band_logo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/38/TBB_Logo_WithS_HalfVertical_blk.jpg",
             "conductor_name": "Robin Gorham",
             "conductor_bio": "Robin Gorham retired from teaching middle school band in June of 2020 after a 25-year career and taught most recently at Fuquay-Varina Middle School. Throughout her career, her students earned placements in district and state-level honor bands, and her concert bands earned Superior and Excellent ratings at concert band festivals. Ms. Gorham has presented at several professional development conferences as well as hosted and mentored student teachers from area universities. Her service and leadership in education included serving the Central District Band Directors Association as chairman as well as multiple other roles within the organization.\r\n\r\nMs. Gorham received her undergraduate music education degree from the University of North Carolina at Chapel Hill and her Masters of Music in Music Education from the University of North Carolina at Greensboro. In 2003, she earned National Board Certification and is honored to have received the North Carolina Band Association\u2019s Award of Excellence from Southeastern Band Directors Association in 2009 and from East Central Band Directors Association in 2021. She is a member of North Carolina Music Educators Association, National Association for Music Education, and was inducted into the American School Band Directors Association.\r\n\r\nMs. Gorham maintains a private horn studio and is the brass instructor for the Fuquay-Varina High School Marching Band. She lives in Fuquay-Varina with her husband, Matt Edwards, director of the Fuquay-Varina High School Bands, and their cat, Annie.",
             "conductor_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/38/0369%20Triangle%20Youth%20Brass%20Bands%202-26-17%20-%20Jesse%20Rackley.jpg",
@@ -1015,7 +1015,7 @@
             "website": "https://trianglebrass.org/about-2/",
             "band_bio": "The Triangle Youth Brass Band, located in Raleigh, North Carolina, was formed in 1997 as an expansion of the Triangle Brass Band\u2019s educational endeavors. The organization consists of four ensembles, the Triangle Youth \u201cJ. Perry Watson\u201d Brass Band, Triangle Youth Brass Band, Triangle Youth Academy Brass Band, and Triangle Youth Percussion Ensemble, and serves over 100 of the Triangle\u2019s most talented young musicians. The mission of the TYBB is to provide engaging, transformative musical experiences to the finest high school brass and percussion players through exceptional performance in the British Brass Band medium.\r\n\r\nThe TYBB program is comprised of brass and percussion students, in grades 9-12, who share a commitment to excellence in performance. Since 1997, the TYBB has represented high schools in Wake, Durham, Orange, Johnston, Cumberland, and Nash counties, and members perform strictly on British Brass Band instrumentation.",
             "band_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/35/TYBB-10%20-%20Jesse%20Rackley.jpg",
-            "band_logo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/38/TBB_Logo_WithS_HalfVertical_blk.pdf",
+            "band_logo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/38/TBB_Logo_WithS_HalfVertical_blk.jpg",
             "conductor_name": "Matt Edwards",
             "conductor_bio": "Matt Edwards is in his twenty-second year as Director of Bands at Fuquay-Varina High School. Under his direction, the Marching Bengals have earned nearly 50 caption and class awards over the last five years during competitions in North Carolina. The Symphonic Band and Wind Ensemble consistently receive Excellent and Superior ratings at District MPA. His students are regular participants in All-District, All-State, and collegiate honor groups and continue their musical careers as non-music-majors in college ensembles and as music majors and minors at universities across the eastern United States.\r\n\r\nMr. Edwards received his Bachelor of Music Education degree in 1996 from the University of North Carolina at Greensboro. He is a member of the North Carolina Music Educator\u2019s Association (NCMEA), National Association for Music Education (NAfME), and East-Central District Band Director\u2019s Association (ECDBA). He was honored by the Central District Bandmasters\u2019 Association (CDBA) with the 2008 Director of the Year and the 2014 Award of Excellence. He has served as ECDBA High School MPA Chair (2016-2022), CDBA President (2010-2012), NCBA MPA Committee representative (2009-2012, 2015-2018), CDBA High School All-District Auditions Chair (2005-2008), Southeast District All-District Clinic Chair/Host (1998) and Southeast District Concert MPA Chair/Host (2001). He is entering his eleventh year as Music Director of the Triangle Youth Brass Band and has served as conductor at the UNCG Summer Music Camp.\r\n\r\nMr. Edwards is married to Robin Gorham and lives in Fuquay-Varina with their cat, Annie.",
             "conductor_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/35/0215%20Triangle%20Youth%20Brass%20Bands%202-26-17%20-%20Jesse%20Rackley.jpg",
@@ -1042,11 +1042,11 @@
             "name": "University of Florida Brass Band",
             "website": "https://www.facebook.com/UFBrassBand",
             "band_bio": "Under the direction of Dr. Danielle VanTuinen, the University of Florida Brass Band was established during the 2019 pandemic as an outlet for students to continue performing during very uncertain times. Since the inaugural year, the brass band has established itself as one of the only collegiate brass bands within the state of Florida. The ensemble began as an American Brass Band in order to accommodate for the lack of instrumentation, and over the past two years has grown into a fully established British Brass Band. The band functions as an outlet for students to learn the history and role the brass band plays within the greater brass world.",
-            "band_photo": null,
-            "band_logo": null,
+            "band_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/39/273475457_138506391978889_4037984146892387718_n.jpg",
+            "band_logo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/39/UF%20Brass%20Band%20Logo.png",
             "conductor_name": "Danielle VanTuinen",
             "conductor_bio": "Danielle VanTuinen is a performer, educator, and entrepreneur based in Gainesville, Florida. She currently serves as Assistant Professor of Tuba and Euphonium and Director of the University of Florida Brass Band at the University of Florida. Prior to her current appointment, Danielle served as Lecturer of Music at Plymouth State University where she taught low brass methods, chamber music and applied lessons. She also served as low brass faculty at the Portland Conservatory of Music, adjunct staff for the marching band at the University of New Hampshire, private lesson instructor throughout northern New England, and low brass instructor for the Phoenix Youth Symphony. She has been invited to adjudicate at a variety of festivals, including the New Hampshire MEA Solo & Ensemble Competition, the Paul I. Willwerth Brass Competitions, the International Women\u2019s Brass Young Artist Competition, and the AETYB Young Artist Competition in Madrid, Spain. As a co-founder of the internationally acclaimed Moreau | VanTuinen Duo she has been invited to perform at the Spanish Association of Tubas and Euphoniums, Northern Arizona University, Ithaca College, the Miraphone Academy of the Southwest, the United States Pershing\u2019s Own Army Band Tuba-Euphonium Workshop, and the International Women\u2019s Brass Conference. Her commitment to expanding low brass repertoire has resulted in over 15 compositions by composers such as Steven Snowden, James Grant, Shaun Tilburg, and Etienne Crausaz. Danielle earned a Doctor of Musical Arts degree in Music Performance and Master of Music degree in Music Performance from Arizona State University, and a Bachelors of Music degree in Music Performance from Central Michigan University. Dr. VanTuinen proudly endorses S.E. Shires and the Eastman Music Company.",
-            "conductor_photo": null,
+            "conductor_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/39/DVanTuinenBWwm%205.jpg",
             "contact_email": "dvantuinenlowbrass@gmail.com",
             "choice_pieces": [
                 {
@@ -1071,7 +1071,7 @@
             "website": "https://trianglebrass.org/about-2/",
             "band_bio": "The Triangle Youth Brass Band, located in Raleigh, North Carolina, was formed in 1997 as an expansion of the Triangle Brass Band\u2019s educational endeavors. The organization consists of four ensembles, the Triangle Youth \u201cJ. Perry Watson\u201d Brass Band, Triangle Youth Brass Band, Triangle Youth Academy Brass Band, and Triangle Youth Percussion Ensemble, and serves over 100 of the Triangle\u2019s most talented young musicians. The mission of the TYBB is to provide engaging, transformative musical experiences to the finest high school brass and percussion players through exceptional performance in the British Brass Band medium.\r\n\r\nThe TYBB program is comprised of brass and percussion students, in grades 9-12, who share a commitment to excellence in performance. Since 1997, the TYBB has represented high schools in Wake, Durham, Orange, Johnston, Cumberland, and Nash counties, and members perform strictly on British Brass Band instrumentation.",
             "band_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/38/WBB-16%20-%20Jesse%20Rackley.jpg",
-            "band_logo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/38/TBB_Logo_WithS_HalfVertical_blk.pdf",
+            "band_logo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/38/TBB_Logo_WithS_HalfVertical_blk.jpg",
             "conductor_name": "Jesse Rackley (watson)",
             "conductor_bio": "Jesse Rackley is the Artistic Director of the Triangle Youth Brass Bands and conductor of the Watson Brass Band, a 30 piece British style brass band comprised of the most talented high school brass and percussion players in the Central North Carolina region. Previously, he served as Music Director of the Triangle Youth Brass Ensemble from 2009-2013. Under his direction, the Triangle Youth Brass Band program has expanded from two to three brass bands as well as a percussion ensemble.\r\n\r\nJesse is an accomplished tenor trombone and euphonium performer and educator. He is the Principal Trombone of the Fayetteville Symphony and performs regularly with the North Carolina Symphony. He has performed with the Virginia Symphony, Charleston Symphony, Greensboro Symphony, Winston-Salem Symphony, Wilmington symphony, Chamber Orchestra of the Triangle, and Eastern Music Festival Orchestra.\r\n\r\nJesse lives in Morrisville with his two sons, Noah and Ryan, and his partner, Cindy.",
             "conductor_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/36/0086%20Triangle%20Youth%20Brass%20Bands%202-26-17%20-%20Jesse%20Rackley.jpg",
@@ -1093,11 +1093,11 @@
             "name": "Youth Brass Academy",
             "website": "https://www.brassbandofhuntsville.com/yba-overview",
             "band_bio": "The mission of the Youth Brass Academy (YBA) is:\r\n\r\nTo serve as a catalyst to inspire musical excellence in young Huntsville musicians through study, practice, and community.\r\nTo foster a lifelong love of music.\r\nTo instill skills supporting success beyond high school graduation.",
-            "band_photo": null,
+            "band_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/37/IMG_4238.jpeg",
             "band_logo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/37/YBA_logo_1colorHR_20231207%20-%20Kent%20Eversmeyer.png",
             "conductor_name": "Joe Bader",
-            "conductor_bio": "Joe Bader - Is a retired music educator with over 30 years of experience conducting youth bands including all levels of band, general music, pep band, jazz band, and small ensembles in the Atlanta, Georgia area. Joe plays Repiano Cornet with the Brass Band of Huntsville.",
-            "conductor_photo": null,
+            "conductor_bio": "Joe Bader - Is a retired music educator with over 30 years of experience conducting youth bands including all levels of band, general music, pep band, jazz band, and small ensembles in the Atlanta, Georgia area. Joe plays Repiano Cornet with the Brass Band of Huntsville.\r\n\r\n\r\nDr. Douglas Black, Jr is the Assistant Professor of Music Education and Low Brass at Alabama A&M University and the Director of Education for the Brass Band of Huntsville. Where he teaches applied low brass, music appreciation, and music education courses. Doug has previously served on the music faculty at Nottoway County Public Schools, Halifax Community College, Winthrop University, and the University of South Carolina.\r\n \r\nDoug has performed concertos with the Winthrop University Wind Symphony, Carolinas Wind Orchestra, Peoria Municipal Band, Alabama A&M Wind Ensemble, and given recitals in North Carolina, South Carolina, Illinois, Alabama, and Canada. Doug is an active orchestral tubist; he was the principal tuba of the Rock Hill Symphony Orchestra, Fayetteville Symphony Orchestra,  Union Symphony Orchestra, and was the principal tuba and cimbasso of Opera Carolina. Doug has performed with the Durham Symphony Orchestra, Augusta Symphony, South Carolina Philharmonic, Aiken Symphony Orchestra, and the Charlotte Civic Orchestra. Doug has also performed with the North Carolina Brass Band, Triangle Brass Band and was the tubist with Tim Zimmerman and the King's Brass. Douglas has performed and presented at numerous regional and international conferences.\r\n\u200b\r\nDoug received a Bachelor's degree in Music with emphasis in Music Education with an Undergraduate Performance Certificate from the University of South Carolina in Columbia, South Carolina, a Master of Music degree in Tuba Performance from Illinois State University in Normal, Illinois, and a Doctorate of Musical Arts from the University of North Carolina at Greensboro. \r\n\r\n\u200bDoug is an Eastman Tuba Artist.",
+            "conductor_photo": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/band_media/37/IMG_4239.jpg",
             "contact_email": "doug@brassbandofhuntsville.com",
             "choice_pieces": [
                 {
@@ -1113,7 +1113,117 @@
         }
     ],
     "performance_schedule": {
+        "2024-04-04": [
+            {
+                "band_id": null,
+                "band_draw": "session_10",
+                "stage": "Expo",
+                "title": "Band and Solo rehearsals open",
+                "details": null,
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-04T14:00:00-05:00",
+                    "end_timestamp": "2024-04-04T14:00:00-05:00"
+                }
+            },
+            {
+                "band_id": null,
+                "band_draw": "session_11",
+                "stage": "Expo",
+                "title": "NABBA Board Meeting",
+                "details": null,
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-04T20:30:00-05:00",
+                    "end_timestamp": "2024-04-04T22:00:00-05:00"
+                }
+            },
+            {
+                "band_id": null,
+                "band_draw": "session_12",
+                "stage": "Expo",
+                "title": "Rehearsals closed for Thursday",
+                "details": null,
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-04T21:30:00-05:00",
+                    "end_timestamp": "2024-04-04T21:30:00-05:00"
+                }
+            }
+        ],
         "2024-04-05": [
+            {
+                "band_id": null,
+                "band_draw": "session_13",
+                "stage": "Expo",
+                "title": "Solo & Ensemble Competition Starts",
+                "details": "Saturn Salons 1, 3, 5, 7, Concert Hall, Playhouse",
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-05T08:00:00-05:00",
+                    "end_timestamp": "2024-04-05T08:00:00-05:00"
+                }
+            },
+            {
+                "band_id": null,
+                "band_draw": "session_14",
+                "stage": "Expo",
+                "title": "Vendor Area Opens",
+                "details": "East Hall 2 & 3",
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-05T09:00:00-05:00",
+                    "end_timestamp": "2024-04-05T09:00:00-05:00"
+                }
+            },
+            {
+                "band_id": null,
+                "band_draw": "session_15",
+                "stage": "Expo",
+                "title": "Universty Clinic - The University of Toronto's Faculty of Music",
+                "details": "East Hall 2",
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-05T10:00:00-05:00",
+                    "end_timestamp": "2024-04-05T11:00:00-05:00"
+                }
+            },
+            {
+                "band_id": null,
+                "band_draw": "session_16",
+                "stage": "Expo",
+                "title": "Military Bands Clinic with TSgt Ryan Spencer",
+                "details": "East Hall 2",
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-05T11:00:00-05:00",
+                    "end_timestamp": "2024-04-05T12:00:00-05:00"
+                }
+            },
+            {
+                "band_id": null,
+                "band_draw": "session_33",
+                "stage": "Expo",
+                "title": "Brass Band Lunch Buffet",
+                "details": "There will be food available at the Brass Band Lunch Buffet in Saturn Ballroom 3",
+                "slot_image": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/partner_logos/VBC%20Brass%20Band%20Lunch%20Buffet%20-%20Friday%20Menu.png",
+                "performance_times": {
+                    "start_timestamp": "2024-04-05T11:00:00-05:00",
+                    "end_timestamp": "2024-04-05T14:00:00-05:00"
+                }
+            },
+            {
+                "band_id": null,
+                "band_draw": "session_17",
+                "stage": "Expo",
+                "title": "Solo and Ensemble Competition Concludes",
+                "details": "East Hall 2",
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-05T13:00:00-05:00",
+                    "end_timestamp": "2024-04-05T13:00:00-05:00"
+                }
+            },
             {
                 "band_id": 4,
                 "band_draw": "1_A",
@@ -1343,6 +1453,18 @@
                 }
             },
             {
+                "band_id": null,
+                "band_draw": "session_20",
+                "stage": "Expo",
+                "title": "Vendor area closes for Friday",
+                "details": "Expo",
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-05T17:30:00-05:00",
+                    "end_timestamp": "2024-04-05T17:30:00-05:00"
+                }
+            },
+            {
                 "band_id": 20,
                 "band_draw": "2_J",
                 "stage": "Playhouse",
@@ -1473,6 +1595,18 @@
                     "start_timestamp": "2024-04-05T20:30:00-05:00",
                     "end_timestamp": "2024-04-05T21:00:00-05:00"
                 }
+            },
+            {
+                "band_id": null,
+                "band_draw": "session_22",
+                "stage": "Concert Hall",
+                "title": "Solo and Ensemble Awards",
+                "details": "Concert Hall",
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-05T21:15:00-05:00",
+                    "end_timestamp": "2024-04-05T21:15:00-05:00"
+                }
             }
         ],
         "2024-04-06": [
@@ -1510,6 +1644,18 @@
                 "performance_times": {
                     "start_timestamp": "2024-04-06T09:00:00-05:00",
                     "end_timestamp": "2024-04-06T09:35:00-05:00"
+                }
+            },
+            {
+                "band_id": null,
+                "band_draw": "session_25",
+                "stage": "Expo",
+                "title": "Vendor area opens",
+                "details": "East hall 2 & 3",
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-06T09:00:00-05:00",
+                    "end_timestamp": "2024-04-06T09:00:00-05:00"
                 }
             },
             {
@@ -1609,6 +1755,18 @@
                 }
             },
             {
+                "band_id": null,
+                "band_draw": "session_34",
+                "stage": "Expo",
+                "title": "Brass Band Lunch Buffet",
+                "details": "There will be food available at the Brass Band Lunch Buffet in Saturn Ballroom 3",
+                "slot_image": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/partner_logos/VBC%20Brass%20Band%20Lunch%20Buffet%20-%20Saturday%20Menu.png",
+                "performance_times": {
+                    "start_timestamp": "2024-04-06T11:00:00-05:00",
+                    "end_timestamp": "2024-04-06T14:00:00-05:00"
+                }
+            },
+            {
                 "band_id": 22,
                 "band_draw": "2_GG",
                 "stage": "Concert Hall",
@@ -1636,8 +1794,8 @@
                 "band_id": null,
                 "band_draw": "session_3",
                 "stage": "Concert Hall",
-                "title": null,
-                "details": null,
+                "title": "Break",
+                "details": "There will be a short break during second section",
                 "slot_image": null,
                 "performance_times": {
                     "start_timestamp": "2024-04-06T11:24:00-05:00",
@@ -1762,6 +1920,18 @@
                 "performance_times": {
                     "start_timestamp": "2024-04-06T13:29:00-05:00",
                     "end_timestamp": "2024-04-06T13:52:00-05:00"
+                }
+            },
+            {
+                "band_id": null,
+                "band_draw": "session_28",
+                "stage": "Playhouse",
+                "title": "Make Sound a Choice - clinic with Brett Baker",
+                "details": "Playhouse",
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-06T13:30:00-05:00",
+                    "end_timestamp": "2024-04-06T13:30:00-05:00"
                 }
             },
             {
@@ -1897,6 +2067,18 @@
                 }
             },
             {
+                "band_id": null,
+                "band_draw": "session_29",
+                "stage": "Expo",
+                "title": "Vendor area closes",
+                "details": "East hall 2 and 3",
+                "slot_image": null,
+                "performance_times": {
+                    "start_timestamp": "2024-04-06T17:30:00-05:00",
+                    "end_timestamp": "2024-04-06T17:30:00-05:00"
+                }
+            },
+            {
                 "band_id": 32,
                 "band_draw": "C_BB",
                 "stage": "Concert Hall",
@@ -1994,25 +2176,25 @@
             },
             {
                 "band_id": null,
-                "band_draw": "session_6",
+                "band_draw": "session_32",
                 "stage": "Concert Hall",
-                "title": "Band Competition Awards",
-                "details": "Awards for the band competition will be presented following the completion of Youth Championship competition.",
+                "title": "Band Awards",
+                "details": "Concert Hall",
                 "slot_image": null,
                 "performance_times": {
-                    "start_timestamp": "2024-04-06T22:15:00-05:00",
-                    "end_timestamp": "2024-04-06T22:45:00-05:00"
+                    "start_timestamp": "2024-04-06T22:20:00-05:00",
+                    "end_timestamp": "2024-04-06T22:20:00-05:00"
                 }
             }
         ]
     },
     "venue_details": {
         "name": "Von Braun Center",
-        "image": null,
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/c8/87/b7/the-vbc-sits-in-the-heart.jpg",
         "address": "700 Monroe St SW, Huntsville, AL 35801",
         "map_file": "https://goo.gl/maps/cngBNm88WPDD6Xh87",
         "description": "NABBA is proud to once again be hosting the contest at the Von Braun Center. The Von Braun Center, named for rocket pioneer Dr. Wernher Von Braun, is located in the heart of historic downtown Huntsville, Alabama. This multi-purpose facility is equipped to accommodate major conferences, conventions, concerts, Broadway performances, ballets, symphonies, a full range of sporting events and so much more! Huntsville is a high-tech city with a history of Southern hospitality. The VBC is just a short drive from the International Airport and convenient to area hotels. The Von Braun Center is a turn-key facility with a team of experienced professionals ready to guarantee the success of your event.",
-        "link": null,
+        "link": "https://www.vonbrauncenter.com/",
         "contest_name": "NABBA Championships 2024",
         "judge_link": "https://nabba.org/wp-content/uploads/2024/01/Adjudicator-Bios-2024-rev-2.pdf",
         "solo_ensemble_link": "https://nabba.org/championships/"
@@ -2035,6 +2217,102 @@
             "name": "Brookwright Music",
             "link": "https://www.brookwrightmusic.com/",
             "background": "#241f44"
+        },
+        {
+            "image_src": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/partner_logos/Pickett%20Blackburn%20Combined%20BW%201500x1125.png%201,500%C3%971,125%20pixels.png",
+            "name": "Pickett Brass",
+            "link": "https://www.pickettblackburn.com",
+            "background": null
+        },
+        {
+            "image_src": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/partner_logos/2017%20Schilke%20Logo%20Color-1.png",
+            "name": "Schilke",
+            "link": "https://www.schilkemusic.com/",
+            "background": null
+        },
+        {
+            "image_src": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/partner_logos/Dfmusic.png",
+            "name": "DF Music",
+            "link": "https://www.dfmusicinc.com",
+            "background": null
+        },
+        {
+            "image_src": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/partner_logos/Greg%20black%20gold.png",
+            "name": "Greg Black Mouthpieces",
+            "link": "https://gregblackmouthpieces.com",
+            "background": null
+        },
+        {
+            "image_src": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/partner_logos/ab-logo.png",
+            "name": "AB Print Group",
+            "link": "https://abprintgroup.com/printing-services/embroidered-fabric-banner/",
+            "background": null
+        },
+        {
+            "image_src": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/partner_logos/logo-black.png",
+            "name": "Buffet Crampon",
+            "link": "https://www.buffet-crampon.com",
+            "background": null
+        },
+        {
+            "image_src": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/partner_logos/DW%20Logo%20Black%20300dpi.png",
+            "name": "Denis Wick",
+            "link": "https://www.deniswick.com/?doing_wp_cron=1710339560.8580400943756103515625",
+            "background": null
+        },
+        {
+            "image_src": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/partner_logos/Black%20clear%20background.png",
+            "name": "Geneva Bandroom USA",
+            "link": "https://genevabandroomusa.com/",
+            "background": null
+        },
+        {
+            "image_src": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/partner_logos/HSSB-2019-Home-Slider2.jpg",
+            "name": "Hannaford Publishing",
+            "link": "http://www.hannafordbrass",
+            "background": null
+        },
+        {
+            "image_src": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/partner_logos/Husonics%20logo.png",
+            "name": "Husonics",
+            "link": "https://www.husonics.com/",
+            "background": null
+        },
+        {
+            "image_src": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/partner_logos/Mb.jpg",
+            "name": "Mercer and Barker USA LLC",
+            "link": "https://www.mercerandbarker.us",
+            "background": null
+        },
+        {
+            "image_src": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/partner_logos/Univ-of-Toronto-music-logo.png",
+            "name": "University of Toronto",
+            "link": "https://www.utoronto.ca/",
+            "background": null
+        },
+        {
+            "image_src": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/partner_logos/Wessex%20logo.jpeg",
+            "name": "Wessex Tubas and Brass",
+            "link": "https://us.wessex-tubas.com/",
+            "background": null
+        },
+        {
+            "image_src": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/partner_logos/Trade%20New%20Logo.jpg",
+            "name": "Salvation Army Eastern Territory",
+            "link": "https://usetrade.org/",
+            "background": null
+        },
+        {
+            "image_src": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/partner_logos/jpg%20logo.jpg",
+            "name": "Giddings Mouthpieces",
+            "link": "https://www.gwmouthpieces.com/",
+            "background": null
+        },
+        {
+            "image_src": "https://nabba-mobile-app.sfo3.cdn.digitaloceanspaces.com/partner_logos/2024%20NABBA%20Ad%20190mm%20x%20123mm.png",
+            "name": "Drum Corps International",
+            "link": "https://dci.org/events",
+            "background": null
         }
     ]
 }

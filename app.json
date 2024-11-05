@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "nabba",
+    "slug": "nabba",
+    "version": "1.0.0",
+    "sdkVersion": "50.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "android": {
+      "package": "com.mbillock.nabba"
+    },
+    "ios": {
+      "bundleIdentifier": "com.mbillock.nabba"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "3666d892-14ad-4746-8510-5d978a97bb1d"
+      }
+    }
+  }
+}

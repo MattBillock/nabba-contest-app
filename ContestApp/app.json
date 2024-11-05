@@ -2,7 +2,7 @@
   "expo": {
     "name": "NABBA",
     "slug": "NABBA",
-    "version": "1.9.0",
+    "version": "1.10.0",
     "orientation": "portrait",
     "icon": "./assets/circle-logo.png",
     "userInterfaceStyle": "light",
@@ -27,7 +27,7 @@
         "backgroundColor": "#000000"
       },
       "package": "com.nabba.ContestApp",
-      "versionCode": 9
+      "versionCode": 10
     },
     "web": {
       "favicon": "./assets/favicon.png"
@@ -39,6 +39,20 @@
       "eas": {
         "projectId": "8cb5c970-f4c4-4e06-a98f-1660542f45c5"
       }
-    }
+    },
+	  "plugins": [
+      [
+        "expo-build-properties",
+        {
+          "ios": {
+          },
+          "android": {
+            "compileSdkVersion": 33,
+            "targetSdkVersion": 33,
+            "buildToolsVersion": "33.0.0"
+          }
+        }
+      ]
+    ]
   }
 }
